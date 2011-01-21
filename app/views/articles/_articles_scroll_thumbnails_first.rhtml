@@ -1,0 +1,3 @@
+<%  if a = articles_scroll_thumbnails_first.attachments[0] %>
+<%= link_to image_tag(a.public_filename(:scroll_thumb), :class => "nav-thumb", :alt => "temp-thumb"), article_url(articles_scroll_thumbnails_first.id), :class => "cross-link active-thumb" %>
+<% end -%>

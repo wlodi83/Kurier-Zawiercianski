@@ -1,0 +1,14 @@
+<%= javascript_include_tag 'prototype' %>
+<% title("Moduły reklamowe w Kurierze Zawierciańskim") %>
+<h4  style="font-size: 17.3px;">Cennik modułów reklamowych w Kurierze Zawierciańskim</h4><br />
+<%= 
+  @modules = AdvertModule.find(:all, :select => "distinct(name),id")
+  collection_select(:name, :id, @modules, :name, :name, options = {:prompt => "Wybierz moduł..."})
+%>
+<%= observe_field :name_id, :url => {:action => 'change_module'}, :with => :name %>
+<br />
+<br />
+<div id="module">
+</div>
+
+

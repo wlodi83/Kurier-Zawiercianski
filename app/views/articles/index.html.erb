@@ -1,0 +1,53 @@
+<% content_for :head do %>
+  <%= auto_discovery_link_tag %>
+<% end %>
+<div id="page-wrap">									
+<div class="slider-wrap">
+<div id="main-photo-slider" class="csw">
+<div class="panelContainer">
+    <%= articles_scroll_partial %>
+</div>
+</div>
+    <%= articles_scroll_partial_thumbnails_first %>
+<div id="movers-row">
+    <%= articles_scroll_partial_thumbnails %>
+</div>
+</div>
+</div>
+<br />
+ <!-- <div>
+  <a href="#" class="switch_thumb">Switch Display</a>
+  <ul class="display">
+    
+  </ul>
+  </div> -->
+
+
+<!--<% @articles.each do |article| %>
+  <% if article.category %>
+  <div class="category">
+     <% if article.category.parent_id == nil %>
+     <%= link_to article.category.root.name, category_articles_path(article.category.root) %>
+    <% else %>
+     <%= link_to article.category.root.name, category_articles_path(article.category.root) %>:&nbsp;<%= link_to article.category.name, category_articles_path(article.category) %>
+    <% end %>
+   </div>
+  <% end %>    
+    <div class="panel_title_box">
+    <h2 class="article_h2"><%= article.title %></h2>
+    </div>
+  <div class="article_synopsis">
+    <%= article.synopsis %>
+  </div>
+   <%= link_to 'Więcej...', article_url(article) %>
+   <%= article.created_at.to_s(:short) %>
+<% end %>
+<% if @articles_pages.page_count > 1 %>
+  <p class="pagination">
+     <%= link_to('« poprzednia', :class => "prevnext disablelink",
+      :page => @articles_pages.current.previous) if @articles_pages.current.previous %>
+     <%= pagination_links @articles_pages, :params => params, :class => "currentpage" %>
+     <%= link_to('następna »', :class => "prevnext",
+      :page => @articles_pages.current.next) if @articles_pages.current.next %>
+  </p>
+<% end %>-->

@@ -1,0 +1,26 @@
+<h1>Lista Map Firmy</h1>
+
+<table>
+  <tr>
+    <th>Nazwa</th>
+    <th>Ulica</th>
+    <th>Numer</th>
+    <th>Miasto</th>
+  </tr>
+
+<% for newspaper in @newspapers %>
+  <tr>
+    <td><%=h newspaper.name %></td>
+    <td><%=h newspaper.street %></td>
+    <td><%=h newspaper.number %></td>
+    <td><%=h newspaper.city %></td>
+    <td><%= link_to 'Pokaż szczegóły', newspaper %></td>
+    <td><%= link_to 'Edycja', edit_newspaper_path(newspaper) %></td>
+    <td><%= link_to 'Usuń', newspaper, :confirm => 'Napewno chcesz usunąć mapę?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'Dodaj nową mapę', new_newspaper_path %>

@@ -1,0 +1,40 @@
+<h1>Edycja mapy firmy</h1>
+
+<% form_for(@newspaper) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :nazwa_firmy %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :ulica %><br />
+    <%= f.text_field :street %>
+  </p>
+  <p>
+    <%= f.label :numer_ulic %><br />
+    <%= f.text_field :number %>
+  </p>
+  <p>
+    <%= f.label :miasto %><br />
+    <%= f.text_field :city %>
+  </p>
+  <p>
+    <%= f.label :szerokość_geograficzna %><br />
+    <%= f.text_field :latitude %>
+  </p>
+  <p>
+    <%= f.label :długość_geograficzna %><br />
+    <%= f.text_field :longitude %>
+  </p>
+  <p>
+    <%= f.label :przybliżenie_mapy %><br />
+    <%= f.text_field :zoom %>
+  </p>
+  <p>
+    <%= f.submit "Zapisz" %>
+  </p>
+<% end %>
+
+<%= link_to 'Pokaż', @newspaper %> |
+<%= link_to 'Powrót', newspapers_path %>

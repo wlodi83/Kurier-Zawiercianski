@@ -1,0 +1,9 @@
+<p class="attachment">
+  <label for="attachment_name">Opis:</label>
+  <%= f.text_field :name, :live => false %>
+ 
+  <label for="attachment_data">Zdjęcie:</label>
+  <%= f.file_field :uploaded_data, :live => false %>
+ 
+  <%= f.remove_link "remove" %>
+</p>

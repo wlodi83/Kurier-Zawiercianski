@@ -1,0 +1,8 @@
+<div class="panel" title="<%= articles_scroll.id %>">
+		       <% if a = articles_scroll.attachments[0] %>
+		       <%= image_tag(a.public_filename(:scroll), :alt => 'temp')%>
+                       <% end -%>
+		       <div class="photo-meta-data">
+		       <%= link_to articles_scroll.title, article_url(articles_scroll.id) %>
+		       </div>
+</div>

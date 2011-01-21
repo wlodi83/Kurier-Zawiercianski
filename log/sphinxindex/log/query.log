@@ -1,0 +1,2313 @@
+[Tue Feb 16 10:03:52.496 2010] 0.000 sec [scan/0/rel 0 (0,25)] [main] 
+[Tue Feb 16 10:03:55.172 2010] 0.000 sec [scan/0/rel 0 (0,25)] [main] 
+[Tue Feb 16 10:03:59.938 2010] 0.000 sec [scan/0/rel 0 (0,25)] [main] 
+[Tue Feb 16 10:05:25.714 2010] 0.000 sec [scan/0/rel 0 (0,25)] [main] 
+[Tue Feb 16 11:18:01.921 2010] 0.000 sec [scan/0/rel 0 (0,25)] [main] 
+[Tue Feb 16 12:12:36.934 2010] 0.000 sec [scan/0/rel 6 (0,25)] [main] 
+[Tue Feb 16 16:30:06.877 2010] 0.000 sec [scan/0/rel 6 (0,25)] [main] 
+[Tue Feb 16 18:42:25.021 2010] 0.000 sec [scan/0/rel 9 (0,25)] [main] 
+[Tue Feb 16 21:26:37.265 2010] 0.001 sec [scan/0/rel 9 (0,25)] [main] 
+[Thu Feb 18 14:08:11.191 2010] 0.010 sec [scan/0/rel 9 (0,25)] [main] 
+[Mon Feb 22 11:37:37.350 2010] 0.000 sec [scan/0/rel 39 (0,25)] [main] 
+[Tue Feb 23 22:02:23.690 2010] 0.017 sec [scan/0/rel 39 (0,25)] [main] 
+[Sun Feb 28 12:16:44.538 2010] 0.012 sec [ext/0/rel 0 (0,25)] [main] osp niwki
+[Tue Mar  2 13:17:46.160 2010] 0.005 sec [scan/0/rel 39 (0,25)] [main] 
+[Tue Mar  2 15:03:14.226 2010] 0.000 sec [scan/0/rel 64 (0,25)] [main] 
+[Tue Mar  2 21:00:46.744 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia
+[Wed Mar  3 11:25:35.132 2010] 0.012 sec [scan/0/rel 64 (0,25)] [main] 
+[Fri Mar  5 11:39:35.144 2010] 0.013 sec [scan/0/rel 64 (0,25)] [main] 
+[Fri Mar  5 14:13:58.731 2010] 0.000 sec [scan/0/rel 90 (0,25)] [main] 
+[Fri Mar 12 15:50:42.022 2010] 0.026 sec [ext/0/rel 0 (0,25)] [main] społdzielnia socjalna obowiązki prezesa
+[Fri Mar 12 15:50:50.051 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] społdzielnia socjalna
+[Fri Mar 12 15:50:59.864 2010] 0.037 sec [ext/0/rel 1 (0,25)] [main] społdzielnia społeczna
+[Fri Mar 12 15:53:23.618 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] miniferie
+[Fri Mar 12 15:53:36.861 2010] 0.044 sec [ext/0/rel 1 (0,25)] [main] mini ferie
+[Sun Mar 14 12:59:08.577 2010] 0.012 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Mon Mar 15 15:12:49.335 2010] 0.037 sec [scan/0/rel 120 (0,25)] [main] 
+[Fri Mar 19 13:41:59.182 2010] 0.000 sec [scan/0/rel 160 (0,25)] [main] 
+[Sat Mar 20 10:39:57.476 2010] 0.045 sec [scan/0/rel 160 (0,25)] [main] 
+[Sun Mar 21 08:50:29.537 2010] 0.014 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia o prace jako opiekunka
+[Sun Mar 21 09:28:32.876 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia o prace jako opiekunka
+[Sun Mar 21 15:31:32.513 2010] 0.000 sec [scan/0/rel 160 (0,25)] [main] 
+[Fri Mar 26 12:43:35.789 2010] 0.000 sec [scan/0/rel 200 (0,25)] [main] 
+[Fri Mar 26 12:49:18.390 2010] 0.000 sec [scan/0/rel 200 (0,25)] [main] 
+[Sun Mar 28 09:00:58.946 2010] 0.054 sec [ext/0/rel 0 (0,25)] [main] łubianka
+[Mon Mar 29 16:04:30.744 2010] 0.062 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia
+[Fri Apr  2 17:29:31.083 2010] 0.070 sec [ext/0/rel 2 (0,25)] [main] sm
+[Fri Apr  2 17:30:15.668 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] sm
+[Fri Apr  2 19:45:09.720 2010] 0.052 sec [ext/0/rel 0 (0,25)] [main] konkurs matematyczny
+[Tue Apr  6 04:52:16.696 2010] 0.168 sec [ext/0/rel 1 (0,25)] [main] ciechanowicz
+[Tue Apr  6 14:49:04.814 2010] 0.059 sec [ext/0/rel 6 (0,25)] [main] szpital
+[Wed Apr  7 12:06:36.993 2010] 0.073 sec [ext/0/rel 0 (0,25)] [main] enion
+[Wed Apr  7 12:06:53.417 2010] 0.006 sec [ext/0/rel 0 (0,25)] [main] bonifikaty
+[Fri Apr  9 11:41:50.346 2010] 0.142 sec [ext/0/rel 5 (0,25)] [main] zawadzki
+[Fri Apr  9 13:10:52.415 2010] 0.044 sec [ext/0/rel 0 (0,25)] [main] impresje wielkanocne
+[Fri Apr  9 15:41:40.342 2010] 0.082 sec [ext/0/rel 3 (0,25)] [main] szpital zawiercie
+[Fri Apr  9 19:30:42.709 2010] 0.058 sec [ext/0/rel 4 (0,25)] [main] szpital w zawierciu
+[Fri Apr  9 22:08:51.831 2010] 0.044 sec [ext/0/rel 2 (0,25)] [main] szpital powiatowy
+[Tue Apr 13 13:17:06.310 2010] 0.036 sec [ext/0/rel 0 (0,25)] [main] chodnik
+[Wed Apr 14 17:48:17.017 2010] 0.066 sec [ext/0/rel 0 (0,25)] [main] konkurs zbiórki makulatury
+[Fri Apr 16 10:46:39.186 2010] 0.067 sec [ext/0/rel 0 (0,25)] [main] JCM ZAWIERCIE
+[Fri Apr 16 10:47:04.861 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] JCM ZAWIERCIE
+[Fri Apr 16 10:50:04.701 2010] 0.602 sec [ext/0/rel 0 (0,25)] [main] jurajskie centrum medyczne
+[Fri Apr 16 11:49:09.268 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] baryła
+[Fri Apr 16 11:49:18.010 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] metamorfozy
+[Fri Apr 16 14:15:18.150 2010] 0.077 sec [ext/0/rel 0 (0,25)] [main] Jcm
+[Fri Apr 16 14:15:32.366 2010] 0.060 sec [ext/0/rel 2 (0,25)] [main] Jurajskie centrum
+[Fri Apr 16 14:15:42.191 2010] 0.100 sec [ext/0/rel 1 (0,25)] [main] nfz
+[Fri Apr 16 14:15:51.317 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] nfz
+[Fri Apr 16 14:34:36.783 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wlodowice
+[Fri Apr 16 14:41:10.957 2010] 0.016 sec [ext/0/rel 0 (0,25)] [main] rehabilitacja
+[Fri Apr 16 14:48:19.643 2010] 0.119 sec [ext/0/rel 0 (0,25)] [main] jurajskie centrum medyczne
+[Sun Apr 18 14:17:27.574 2010] 0.191 sec [ext/0/rel 0 (0,25)] [main] JCM
+[Sun Apr 18 14:17:34.034 2010] 0.037 sec [ext/0/rel 10 (0,25)] [main] J
+[Sun Apr 18 14:17:51.114 2010] 0.302 sec [ext/0/rel 5 (0,25)] [main] Jurajskie
+[Mon Apr 19 11:04:30.458 2010] 0.073 sec [ext/0/rel 10 (0,25)] [main] kroczyce
+[Mon Apr 19 11:04:36.325 2010] 0.076 sec [ext/0/rel 1 (0,25)] [main] kroczyce wypadek
+[Tue Apr 20 14:16:10.700 2010] 0.026 sec [ext/0/rel 0 (0,25)] [main] promile u księdza
+[Tue Apr 20 14:16:26.348 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] promile
+[Thu Apr 22 02:44:13.940 2010] 0.107 sec [ext/0/rel 8 (0,25)] [main] praca
+[Thu Apr 22 02:45:11.205 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dam prace
+[Thu Apr 22 02:45:31.904 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia
+[Thu Apr 22 17:53:07.024 2010] 0.022 sec [scan/0/rel 239 (0,25)] [main] 
+[Thu Apr 22 17:54:08.975 2010] 0.000 sec [scan/0/rel 239 (0,25)] [main] 
+[Thu Apr 22 17:54:11.901 2010] 0.000 sec [scan/0/rel 239 (0,25)] [main] 
+[Thu Apr 22 17:55:33.266 2010] 0.037 sec [ext/0/rel 0 (0,25)] [main] sto lat maszynista kolei warszawsko wiedenskiej
+[Fri Apr 23 09:40:49.847 2010] 0.027 sec [ext/0/rel 0 (0,25)] [main] Marian Bąk
+[Fri Apr 23 09:41:03.492 2010] 0.015 sec [ext/0/rel 0 (0,25)] [main] Odlewnia Żeliwa S.A
+[Fri Apr 23 09:41:06.310 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Odlewnia Żeliwa S.A
+[Fri Apr 23 09:41:12.094 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Odlewnia Żeliwa S.A
+[Fri Apr 23 09:41:13.289 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Marian Bąk
+[Fri Apr 23 09:43:38.421 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bąk
+[Fri Apr 23 11:11:03.864 2010] 0.390 sec [ext/0/rel 0 (0,25)] [main] 23 KWIECIEN
+[Fri Apr 23 13:03:13.171 2010] 0.019 sec [ext/0/rel 0 (0,25)] [main] baza1l
+[Fri Apr 23 13:03:18.077 2010] 0.039 sec [ext/0/rel 0 (0,25)] [main] baza 1l
+[Fri Apr 23 13:34:45.864 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] baza 1l
+[Fri Apr 23 13:35:20.541 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] baza1l
+[Fri Apr 23 14:26:42.256 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] nieistotne
+[Fri Apr 23 14:26:52.775 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] nieistotne
+[Fri Apr 23 14:30:51.641 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Odlewnia Żeliwa
+[Fri Apr 23 16:10:00.572 2010] 0.032 sec [ext/0/rel 0 (0,25)] [main] Odlewnia Żeliwa
+[Fri Apr 23 16:10:23.009 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Odlewnia Żeliwa
+[Fri Apr 23 16:10:37.239 2010] 0.006 sec [ext/0/rel 92 (0,25)] [main] już
+[Fri Apr 23 19:05:35.984 2010] 0.028 sec [ext/0/rel 0 (0,25)] [main] odlewnia żeliwa zawiercie
+[Fri Apr 23 19:06:02.530 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bąk marian
+[Fri Apr 23 19:17:23.061 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bąk marian
+[Fri Apr 23 20:29:35.598 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] odlewnia zawiercie
+[Fri Apr 23 20:29:45.668 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] odlewnia
+[Sat Apr 24 08:28:36.677 2010] 0.084 sec [ext/0/rel 0 (0,25)] [main] bąk marian
+[Sat Apr 24 09:40:59.669 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] komentarz redakcyjny
+[Sat Apr 24 09:41:32.575 2010] 0.036 sec [ext/0/rel 1 (0,25)] [main] odlewnia
+[Sat Apr 24 10:15:04.472 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] odlewnia
+[Tue Apr 27 12:08:12.274 2010] 0.000 sec [scan/0/rel 267 (0,25)] [main] 
+[Tue Apr 27 19:24:48.943 2010] 0.043 sec [ext/0/rel 0 (0,25)] [main] odlewnia zawiercie
+[Wed Apr 28 06:50:31.144 2010] 0.118 sec [ext/0/rel 0 (0,25)] [main] Smok Adam
+[Wed Apr 28 06:50:50.853 2010] 0.071 sec [ext/0/rel 4 (0,25)] [main] Szpital Zawiercie
+[Wed Apr 28 06:57:59.534 2010] 0.011 sec [ext/0/rel 0 (0,25)] [main] Małek Aleksandra
+[Wed Apr 28 06:58:27.606 2010] 0.019 sec [ext/0/rel 0 (0,25)] [main] Małek Aleksandra były dyrektor szpitala Powiatowego w Zawierciu
+[Wed Apr 28 10:35:49.801 2010] 0.041 sec [ext/0/rel 0 (0,25)] [main] odlewnia w zawierciu
+[Wed Apr 28 10:36:09.236 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bąk
+[Wed Apr 28 10:36:31.866 2010] 0.033 sec [ext/0/rel 1 (0,25)] [main] prezes odlewni
+[Wed Apr 28 19:30:55.772 2010] 0.079 sec [ext/0/rel 8 (0,25)] [main] szpital
+[Thu Apr 29 10:31:39.374 2010] 0.121 sec [ext/0/rel 0 (0,25)] [main] anonim
+[Thu Apr 29 10:32:31.990 2010] 0.037 sec [ext/0/rel 0 (0,25)] [main] anonim ożc zawiercie
+[Thu Apr 29 10:35:40.221 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 23.04.2010 ożc zawiercie
+[Thu Apr 29 10:36:05.914 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 23.04.2010 ożc zawiercie
+[Thu Apr 29 10:36:18.820 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 23.04.2010
+[Thu Apr 29 10:37:25.891 2010] 0.014 sec [ext/0/rel 0 (0,25)] [main] wiadomosci 23042010
+[Thu Apr 29 10:51:01.499 2010] 0.076 sec [ext/0/rel 0 (0,25)] [main] kurier z 23 04 2010
+[Thu Apr 29 10:51:54.702 2010] 0.015 sec [ext/0/rel 0 (0,25)] [main] kurier zawiercianski z 23 04 2010
+[Thu Apr 29 10:52:03.220 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kurier zawiercianski z 23 04 2010
+[Thu Apr 29 10:53:17.401 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wydarznia z 23 04 2010
+[Thu Apr 29 12:08:27.893 2010] 0.041 sec [ext/0/rel 0 (0,25)] [main] odlewnia żeliwa S.A
+[Thu Apr 29 12:09:11.333 2010] 0.047 sec [ext/0/rel 0 (0,25)] [main] artykuły o odlewni
+[Thu Apr 29 14:31:02.399 2010] 0.123 sec [ext/0/rel 8 (0,25)] [main] szpital
+[Thu Apr 29 16:39:38.774 2010] 0.035 sec [ext/0/rel 3 (0,25)] [main] złożeniec
+[Thu Apr 29 16:39:54.842 2010] 0.044 sec [ext/0/rel 1 (0,25)] [main] osp pilica
+[Thu Apr 29 16:40:01.578 2010] 0.000 sec [ext/0/rel 10 (0,25)] [main] osp
+[Thu Apr 29 16:42:36.664 2010] 1.201 sec [ext/0/rel 9 (0,25)] [main] strażacy
+[Thu Apr 29 23:23:08.002 2010] 0.254 sec [ext/0/rel 19 (0,25)] [main] \im
+[Thu Apr 29 23:23:13.501 2010] 0.024 sec [ext/0/rel 3 (0,25)] [main] ZIMA
+[Fri Apr 30 21:19:26.631 2010] 0.033 sec [ext/0/rel 3 (0,25)] [main] sport
+[Sun May  2 11:29:06.398 2010] 0.019 sec [scan/0/rel 301 (0,25)] [main] 
+[Sun May  2 11:29:41.909 2010] 0.000 sec [scan/0/rel 301 (275,25)] [main] 
+[Sun May  2 11:30:15.853 2010] 0.000 sec [scan/0/rel 301 (200,25)] [main] 
+[Sun May  2 11:32:07.842 2010] 0.000 sec [scan/0/rel 301 (250,25)] [main] 
+[Mon May  3 09:49:28.599 2010] 0.228 sec [ext/0/rel 12 (0,25)] [main] szczekociny
+[Mon May  3 09:51:12.811 2010] 0.042 sec [ext/0/rel 0 (0,25)] [main] praca chłupnicza oferty
+[Mon May  3 14:31:14.884 2010] 0.828 sec [ext/0/rel 3 (0,25)] [main] pożar
+[Mon May  3 14:41:56.228 2010] 0.214 sec [ext/0/rel 16 (0,25)] [main] włodowice
+[Mon May  3 14:44:11.064 2010] 0.117 sec [ext/0/rel 1 (0,25)] [main] zdów
+[Mon May  3 16:45:25.278 2010] 0.137 sec [ext/0/rel 9 (0,25)] [main] szpital
+[Mon May  3 16:58:14.007 2010] 0.000 sec [ext/0/rel 9 (0,25)] [main] szpital
+[Tue May  4 13:30:34.035 2010] 0.085 sec [ext/0/rel 13 (0,25)] [main] pilica
+[Tue May  4 17:16:23.663 2010] 0.000 sec [scan/0/rel 301 (0,25)] [main] 
+[Tue May  4 17:16:55.642 2010] 0.000 sec [scan/0/rel 301 (175,25)] [main] 
+[Tue May  4 17:17:14.595 2010] 0.000 sec [scan/0/rel 301 (275,25)] [main] 
+[Tue May  4 17:56:17.201 2010] 0.045 sec [ext/0/rel 10 (0,25)] [main] Praca
+[Tue May  4 17:57:11.358 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Odłoszenia pracy
+[Tue May  4 17:57:35.272 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Odłoszenia pracy
+[Tue May  4 22:11:49.925 2010] 0.027 sec [ext/0/rel 0 (0,25)] [main] Zespół Folklorystyczny'Wrzos Ryczów-kolonia
+[Wed May  5 18:38:00.867 2010] 0.055 sec [ext/0/rel 0 (0,25)] [main] szpital powoiatowy
+[Wed May  5 18:38:16.482 2010] 0.021 sec [ext/0/rel 3 (0,25)] [main] szpital powiatowy
+[Wed May  5 18:39:43.429 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] szpital powiatowy
+[Wed May  5 18:40:37.321 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] szpital powoiatowy
+[Wed May  5 18:44:31.647 2010] 0.021 sec [ext/0/rel 0 (0,25)] [main] szpital powiatowy Smok
+[Wed May  5 18:44:56.531 2010] 0.033 sec [ext/0/rel 0 (0,25)] [main] Jan Smok & Piątek
+[Wed May  5 18:45:07.897 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] Jan Smok
+[Wed May  5 20:15:17.855 2010] 0.173 sec [ext/0/rel 1 (0,25)] [main] Jan Smok
+[Wed May  5 20:25:11.399 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Jan Smok & Piątek
+[Wed May  5 20:46:41.382 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] szpital powiatowy Smok
+[Thu May  6 13:01:29.057 2010] 0.115 sec [ext/0/rel 0 (0,25)] [main] miejski osriodek kultury
+[Thu May  6 13:01:40.629 2010] 0.055 sec [ext/0/rel 16 (0,25)] [main] miejski ośrodek kultury
+[Thu May  6 13:01:50.905 2010] 0.023 sec [ext/0/rel 2 (0,25)] [main] miejski ośrodek kultury adres
+[Thu May  6 13:42:34.057 2010] 0.012 sec [ext/0/rel 10 (0,25)] [main] praca
+[Thu May  6 16:34:11.016 2010] 0.343 sec [ext/0/rel 0 (0,25)] [main] Kasa biletowa PKP Łazy
+[Thu May  6 16:34:18.479 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Kasa biletowa
+[Thu May  6 16:34:43.968 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Kasa biletowa
+[Thu May  6 19:33:07.702 2010] 0.035 sec [ext/0/rel 10 (0,25)] [main] praca
+[Thu May  6 19:33:48.585 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] praca ogłoszenia
+[Fri May  7 10:39:27.715 2010] 0.493 sec [ext/0/rel 10 (0,25)] [main] praca
+[Fri May  7 15:01:38.341 2010] 0.000 sec [scan/0/rel 319 (0,25)] [main] 
+[Fri May  7 22:19:08.905 2010] 0.043 sec [ext/0/rel 0 (0,25)] [main] Konkurs Wiedzy o Unii Eurpojskiej
+[Fri May  7 22:19:33.336 2010] 0.026 sec [ext/0/rel 0 (0,25)] [main] Unia Eurpojska
+[Fri May  7 22:20:07.194 2010] 0.273 sec [ext/0/rel 1 (0,25)] [main] Międzyszkolny Konkurs o Unii Europejskiej
+[Sun May  9 12:23:27.058 2010] 0.111 sec [ext/0/rel 1 (0,25)] [main] emil sikorski
+[Sun May  9 12:23:46.700 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] emil sikorski
+[Sun May  9 19:37:40.429 2010] 0.056 sec [ext/0/rel 3 (0,25)] [main] radni powiatowi
+[Sun May  9 19:38:04.326 2010] 0.024 sec [ext/0/rel 13 (0,25)] [main] powiat
+[Sun May  9 22:10:35.283 2010] 0.403 sec [ext/0/rel 0 (0,25)] [main] konkurs czytelniczy
+[Sun May  9 22:11:03.149 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] międzyszkolny konkurs czytelniczy
+[Mon May 10 07:08:47.423 2010] 0.121 sec [ext/0/rel 6 (0,25)] [main] szpital zawiercie
+[Mon May 10 11:35:12.243 2010] 0.028 sec [ext/0/rel 5 (0,25)] [main] virtu
+[Mon May 10 17:28:24.563 2010] 0.049 sec [ext/0/rel 1 (0,25)] [main] osp niwki
+[Tue May 11 18:17:38.563 2010] 0.052 sec [ext/0/rel 0 (0,25)] [main] córka łukasza hutnika
+[Tue May 11 18:17:58.794 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] córka łukasza hutnika i agnieszki
+[Tue May 11 18:18:12.465 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] córka agnieszki
+[Tue May 11 18:18:41.010 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] artykuły o noworotkach
+[Tue May 11 18:19:00.967 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] urodzone dzieci
+[Tue May 11 19:40:46.440 2010] 0.012 sec [ext/0/rel 10 (0,25)] [main] praca
+[Tue May 11 19:41:14.685 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dam prace
+[Tue May 11 19:42:23.030 2010] 0.000 sec [ext/0/rel 10 (0,25)] [main] praca
+[Tue May 11 19:42:50.647 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dam prace
+[Tue May 11 19:43:04.527 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dam prace zawiercie
+[Fri May 14 18:52:12.787 2010] 0.028 sec [ext/0/rel 0 (0,25)] [main] gimniusze
+[Fri May 14 18:52:20.408 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] gimniusze 2010
+[Fri May 14 21:28:58.330 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] noworodki
+[Fri May 14 21:29:53.174 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zdjecia urodzonych dzieci
+[Fri May 14 21:30:32.331 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zdiecia mam
+[Sat May 15 08:31:33.354 2010] 0.067 sec [ext/0/rel 10 (0,25)] [main] praca
+[Sat May 15 10:37:25.476 2010] 0.377 sec [ext/0/rel 0 (0,25)] [main] radnych strach przed wierceniem
+[Sat May 15 10:37:36.874 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] rathdowley
+[Sat May 15 13:44:12.903 2010] 0.021 sec [ext/0/rel 0 (0,25)] [main] 18.05.2010
+[Sat May 15 13:44:21.681 2010] 0.041 sec [ext/0/rel 8 (0,25)] [main] wtorek
+[Sat May 15 13:44:28.062 2010] 0.022 sec [ext/0/rel 19 (0,25)] [main] turniej
+[Sat May 15 13:44:50.527 2010] 0.039 sec [ext/0/rel 0 (0,25)] [main] Mistrzostwa Szkół Podstawowych
+[Sun May 16 10:18:02.565 2010] 0.025 sec [ext/0/rel 0 (0,25)] [main] niezapominajki
+[Sun May 16 15:43:06.737 2010] 0.027 sec [ext/0/rel 1 (0,25)] [main] RTG
+[Sun May 16 18:15:00.116 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] budzet 2009
+[Sun May 16 22:01:55.160 2010] 0.033 sec [ext/0/rel 1 (0,25)] [main] remont rtg
+[Sun May 16 22:13:49.744 2010] 0.029 sec [ext/0/rel 0 (0,25)] [main] remont sali rtg
+[Sun May 16 22:14:02.125 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] remont sali
+[Sun May 16 22:14:08.972 2010] 0.000 sec [ext/0/rel 7 (0,25)] [main] remont
+[Mon May 17 08:28:47.008 2010] 0.267 sec [ext/0/rel 2 (0,25)] [main] zkm
+[Mon May 17 08:30:50.522 2010] 0.023 sec [ext/0/rel 1 (0,25)] [main] zkm rozmowy
+[Mon May 17 08:40:05.243 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] zkm
+[Mon May 17 08:41:31.223 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 14.05. wiadomości
+[Mon May 17 13:05:14.555 2010] 0.000 sec [scan/0/rel 348 (0,25)] [main] 
+[Mon May 17 17:16:42.669 2010] 0.039 sec [ext/0/rel 10 (0,25)] [main] praca
+[Tue May 18 07:58:38.370 2010] 0.116 sec [ext/0/rel 2 (0,25)] [main] krzysztof piątek
+[Tue May 18 08:01:33.368 2010] 0.001 sec [ext/0/rel 2 (0,25)] [main] krzysztof piątek
+[Tue May 18 14:18:49.837 2010] 0.027 sec [ext/0/rel 1 (0,25)] [main] DZIWNY REMONT
+[Tue May 18 14:37:19.208 2010] 0.030 sec [ext/0/rel 1 (0,25)] [main] rtg
+[Tue May 18 14:38:22.229 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] rtg
+[Tue May 18 18:06:08.235 2010] 0.156 sec [ext/0/rel 0 (0,25)] [main] remonty sali
+[Tue May 18 18:08:11.585 2010] 0.032 sec [ext/0/rel 1 (0,25)] [main] rtg
+[Wed May 19 06:07:41.630 2010] 0.104 sec [ext/0/rel 1 (0,25)] [main] rtg
+[Wed May 19 09:20:12.209 2010] 0.324 sec [ext/0/rel 0 (0,25)] [main] kwiecień 2010
+[Wed May 19 09:20:27.806 2010] 0.333 sec [ext/0/rel 6 (0,25)] [main] szpital zawiercie
+[Wed May 19 09:20:29.288 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] szpital zawiercie
+[Wed May 19 10:56:58.826 2010] 0.065 sec [ext/0/rel 1 (0,25)] [main] Hucisko Włodowice
+[Wed May 19 10:57:24.681 2010] 0.046 sec [ext/0/rel 2 (0,25)] [main] orle gniazdo
+[Wed May 19 11:03:34.832 2010] 1.372 sec [ext/0/rel 1 (0,25)] [main] rtg
+[Wed May 19 11:12:46.660 2010] 0.000 sec [scan/0/rel 348 (0,25)] [main] 
+[Wed May 19 15:59:30.069 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] omnibus
+[Wed May 19 15:59:37.279 2010] 0.037 sec [ext/0/rel 9 (0,25)] [main] sp 9
+[Wed May 19 20:46:10.711 2010] 0.024 sec [ext/0/rel 2 (0,25)] [main] maturzyści
+[Thu May 20 11:55:25.983 2010] 0.090 sec [ext/0/rel 0 (0,25)] [main] wypadek irzadze
+[Thu May 20 13:56:03.299 2010] 0.213 sec [ext/0/rel 0 (0,25)] [main] kurier zielony
+[Fri May 21 10:11:09.300 2010] 0.034 sec [scan/0/rel 348 (0,25)] [main] 
+[Fri May 21 12:15:02.349 2010] 0.138 sec [ext/0/rel 1 (0,25)] [main] rtg
+[Fri May 21 15:19:35.900 2010] 0.048 sec [ext/0/rel 1 (0,25)] [main] podtopienia
+[Fri May 21 18:06:25.684 2010] 0.000 sec [scan/0/rel 348 (0,25)] [main] 
+[Fri May 21 18:09:11.588 2010] 0.049 sec [ext/0/rel 0 (0,25)] [main] zawody wędkarskie
+[Fri May 21 18:09:37.937 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] koło nr42 poręba
+[Fri May 21 18:15:11.848 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 14-05-2010
+[Fri May 21 18:15:29.694 2010] 0.026 sec [ext/0/rel 48 (0,25)] [main] Poręba
+[Fri May 21 18:16:38.032 2010] 0.001 sec [ext/0/rel 48 (25,25)] [main] Poręba
+[Fri May 21 18:33:31.608 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] prosektorium
+[Fri May 21 22:12:01.084 2010] 0.066 sec [ext/0/rel 6 (0,25)] [main] szpital zawiercie
+[Fri May 21 22:25:02.161 2010] 0.034 sec [ext/0/rel 1 (0,25)] [main] kuchnia szpital
+[Sat May 22 11:15:46.073 2010] 0.395 sec [ext/0/rel 0 (0,25)] [main] wrestling
+[Sat May 22 11:16:15.104 2010] 0.740 sec [ext/0/rel 0 (0,25)] [main] wrestling zawiercie
+[Sat May 22 13:20:46.666 2010] 0.033 sec [ext/0/rel 1 (0,25)] [main] pomnik przyrody
+[Sat May 22 13:21:11.669 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] pomniki przyrody
+[Sat May 22 17:24:01.597 2010] 0.070 sec [ext/0/rel 0 (0,25)] [main] nr 16/43
+[Sat May 22 17:24:59.302 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zarzadzanie w odlewni zeliwasa
+[Sat May 22 17:25:06.218 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zarzadzanie w odlewni zeliwasa
+[Sat May 22 21:54:05.717 2010] 0.663 sec [ext/0/rel 15 (0,25)] [main] gimnazjum nr 3
+[Sat May 22 21:56:45.405 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] gimniusze
+[Sun May 23 21:16:28.291 2010] 0.028 sec [ext/0/rel 0 (0,25)] [main] morsk
+[Sun May 23 21:16:30.832 2010] 0.035 sec [ext/0/rel 2 (0,25)] [main] morsko
+[Mon May 24 09:10:44.135 2010] 0.079 sec [ext/0/rel 1 (0,25)] [main] dziwny remont rtg
+[Mon May 24 09:20:10.959 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] dziwny remont rtg
+[Mon May 24 11:48:50.553 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg
+[Mon May 24 15:26:10.576 2010] 0.000 sec [scan/0/rel 361 (0,25)] [main] 
+[Mon May 24 22:02:03.257 2010] 0.038 sec [ext/0/rel 1 (0,25)] [main] helenka
+[Tue May 25 02:46:01.997 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Tue May 25 10:35:43.619 2010] 0.299 sec [ext/0/rel 2 (0,25)] [main] chlina
+[Tue May 25 10:47:41.309 2010] 0.021 sec [ext/0/rel 0 (0,25)] [main] dziwny remont sali rtg
+[Tue May 25 10:47:51.108 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dziwny remont sali rtg
+[Tue May 25 10:48:09.023 2010] 0.026 sec [ext/0/rel 2 (0,25)] [main] remont rtg
+[Tue May 25 13:15:12.629 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] hydrobudowa
+[Tue May 25 19:59:02.779 2010] 0.039 sec [ext/0/rel 2 (0,25)] [main] morsko
+[Tue May 25 19:59:42.964 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zdięcia ze zlotu rowerowego
+[Tue May 25 21:08:03.019 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] morsko
+[Tue May 25 21:09:01.839 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] archiwum
+[Tue May 25 21:09:15.993 2010] 0.028 sec [ext/0/rel 28 (0,25)] [main] krzysztof
+[Tue May 25 21:09:52.036 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] lancia
+[Tue May 25 21:10:00.144 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] lkp
+[Wed May 26 15:51:33.005 2010] 0.049 sec [ext/0/rel 0 (0,25)] [main] BYŁY BURMISTRZ POREBY ROZBUJA SIĘ PIJANY
+[Wed May 26 16:35:46.013 2010] 0.271 sec [ext/0/rel 9 (0,25)] [main] remont
+[Wed May 26 16:36:36.472 2010] 0.000 sec [ext/0/rel 9 (0,25)] [main] remont
+[Thu May 27 16:46:12.137 2010] 0.069 sec [ext/0/rel 10 (0,25)] [main] praca
+[Fri May 28 12:43:59.221 2010] 0.048 sec [ext/0/rel 4 (0,25)] [main] ronda
+[Fri May 28 19:08:37.279 2010] 0.012 sec [scan/0/rel 361 (0,25)] [main] 
+[Sat May 29 07:24:20.412 2010] 0.133 sec [ext/0/rel 2 (0,25)] [main] brzostek
+[Sat May 29 10:21:34.799 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] posadź swoje drzewko
+[Sat May 29 10:21:59.965 2010] 0.021 sec [ext/0/rel 0 (0,25)] [main] II L.O. w Zawierciu
+[Sat May 29 13:01:26.642 2010] 0.000 sec [scan/0/rel 361 (0,25)] [main] 
+[Sat May 29 13:02:03.035 2010] 0.000 sec [scan/0/rel 361 (25,25)] [main] 
+[Sat May 29 13:02:29.683 2010] 0.000 sec [scan/0/rel 361 (50,25)] [main] 
+[Sat May 29 13:02:54.755 2010] 0.000 sec [scan/0/rel 361 (75,25)] [main] 
+[Sat May 29 13:03:37.608 2010] 0.000 sec [scan/0/rel 361 (100,25)] [main] 
+[Sat May 29 13:04:14.950 2010] 0.000 sec [scan/0/rel 361 (125,25)] [main] 
+[Sat May 29 13:04:35.116 2010] 0.000 sec [scan/0/rel 361 (150,25)] [main] 
+[Sat May 29 13:04:50.400 2010] 0.000 sec [scan/0/rel 361 (0,25)] [main] 
+[Sat May 29 13:06:10.734 2010] 0.000 sec [scan/0/rel 361 (0,25)] [main] 
+[Sat May 29 13:07:04.933 2010] 0.030 sec [ext/0/rel 16 (0,25)] [main] szczekociny
+[Sat May 29 13:32:37.334 2010] 0.000 sec [scan/0/rel 361 (0,25)] [main] 
+[Sat May 29 13:37:16.295 2010] 0.000 sec [scan/0/rel 361 (0,25)] [main] 
+[Sat May 29 13:37:50.395 2010] 0.000 sec [scan/0/rel 361 (0,25)] [main] 
+[Sun May 30 17:37:49.701 2010] 0.072 sec [ext/0/rel 2 (0,25)] [main] wierbka
+[Mon May 31 15:00:37.851 2010] 0.075 sec [ext/0/rel 2 (0,25)] [main] festiwal nauki
+[Mon May 31 15:01:34.733 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] festiwal nauki
+[Mon May 31 16:13:44.361 2010] 0.000 sec [scan/0/rel 384 (0,25)] [main] 
+[Mon May 31 19:39:54.211 2010] 0.000 sec [scan/0/rel 384 (0,25)] [main] 
+[Mon May 31 19:40:08.817 2010] 0.000 sec [scan/0/rel 384 (25,25)] [main] 
+[Mon May 31 19:40:22.333 2010] 0.000 sec [scan/0/rel 384 (50,25)] [main] 
+[Mon May 31 19:40:38.961 2010] 0.000 sec [scan/0/rel 384 (75,25)] [main] 
+[Mon May 31 19:40:48.773 2010] 0.000 sec [scan/0/rel 384 (100,25)] [main] 
+[Mon May 31 21:02:40.006 2010] 0.038 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia samochodowe
+[Mon May 31 21:02:50.904 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia motoryzacyjne tanio
+[Mon May 31 21:02:53.238 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia motoryzacyjne tanio
+[Mon May 31 21:03:06.021 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia motoryzacyjne śląsk
+[Mon May 31 21:03:26.142 2010] 0.013 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia drobne
+[Mon May 31 22:41:20.507 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłółoszenia
+[Tue Jun  1 21:44:16.458 2010] 0.023 sec [ext/0/rel 0 (0,25)] [main] wyscig kolarski
+[Wed Jun  2 10:38:34.674 2010] 0.311 sec [ext/0/rel 1 (0,25)] [main] konkurs rozstrzygnięty
+[Wed Jun  2 10:38:53.984 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] konkurs literacki rozstrzygnięty
+[Wed Jun  2 10:42:00.706 2010] 0.015 sec [ext/0/rel 11 (0,25)] [main] praca
+[Wed Jun  2 11:39:24.755 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] chodnik
+[Thu Jun  3 00:18:06.846 2010] 0.074 sec [ext/0/rel 2 (0,25)] [main] fighting spirit
+[Thu Jun  3 09:44:09.151 2010] 0.016 sec [scan/0/rel 384 (0,25)] [main] 
+[Thu Jun  3 18:39:38.313 2010] 0.016 sec [ext/0/rel 19 (0,25)] [main] szczekociny
+[Fri Jun  4 14:13:26.080 2010] 0.066 sec [ext/0/rel 0 (0,25)] [main] MKS PORĘBA
+[Fri Jun  4 15:25:24.064 2010] 0.140 sec [ext/0/rel 1 (0,25)] [main] osp niwki
+[Sat Jun  5 12:59:35.154 2010] 0.079 sec [ext/0/rel 0 (0,25)] [main] dziwny remont sali rtg
+[Sat Jun  5 12:59:56.619 2010] 0.023 sec [ext/0/rel 2 (0,25)] [main] remont rtg
+[Sun Jun  6 18:40:32.005 2010] 0.073 sec [ext/0/rel 13 (0,25)] [main] s.
+[Sun Jun  6 18:41:03.937 2010] 0.037 sec [ext/0/rel 50 (0,25)] [main] poręba
+[Sun Jun  6 22:08:21.098 2010] 0.016 sec [ext/0/rel 2 (0,25)] [main] Festiwal nauki
+[Mon Jun  7 11:36:13.342 2010] 0.089 sec [ext/0/rel 6 (0,25)] [main] rudniki
+[Mon Jun  7 11:46:07.255 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] odwodnienie w rudnikach
+[Mon Jun  7 11:46:18.363 2010] 0.019 sec [ext/0/rel 0 (0,25)] [main] zalane rudniki
+[Mon Jun  7 13:38:06.877 2010] 0.039 sec [ext/0/rel 1 (0,25)] [main] total blast wrestling
+[Mon Jun  7 14:32:17.790 2010] 0.029 sec [ext/0/rel 6 (0,25)] [main] rudniki
+[Mon Jun  7 14:39:24.571 2010] 0.000 sec [scan/0/rel 384 (0,25)] [main] 
+[Mon Jun  7 14:41:35.424 2010] 0.000 sec [scan/0/rel 384 (375,25)] [main] 
+[Mon Jun  7 22:24:53.156 2010] 0.035 sec [ext/0/rel 1 (0,25)] [main] marciszów
+[Tue Jun  8 10:40:42.330 2010] 0.090 sec [ext/0/rel 1 (0,25)] [main] marciszow
+[Tue Jun  8 13:39:24.450 2010] 0.062 sec [ext/0/rel 0 (0,25)] [main] dom góra włodowska
+[Tue Jun  8 20:17:43.066 2010] 0.029 sec [ext/0/rel 1 (0,25)] [main] uks talent
+[Tue Jun  8 22:52:38.464 2010] 0.043 sec [ext/0/rel 1 (0,25)] [main] marciszów
+[Wed Jun  9 19:04:26.828 2010] 0.018 sec [ext/0/rel 0 (0,25)] [main] kronika kryminalna
+[Thu Jun 10 07:15:45.910 2010] 0.080 sec [ext/0/rel 1 (0,25)] [main] pck
+[Thu Jun 10 07:16:34.704 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] konwój
+[Fri Jun 11 09:18:54.963 2010] 0.107 sec [ext/0/rel 3 (0,25)] [main] księgarnia edukacyjna
+[Fri Jun 11 13:14:04.586 2010] 0.026 sec [ext/0/rel 11 (0,25)] [main] praca
+[Fri Jun 11 17:24:05.146 2010] 0.029 sec [ext/0/rel 11 (0,25)] [main] praca
+[Fri Jun 11 17:24:57.238 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] praca-oferty
+[Fri Jun 11 17:25:16.909 2010] 0.053 sec [ext/0/rel 1 (0,25)] [main] oferty pracy
+[Fri Jun 11 17:27:33.999 2010] 1.580 sec [ext/0/rel 1 (0,25)] [main] oferty pracy w zawierciu
+[Sun Jun 13 11:31:11.739 2010] 0.021 sec [ext/0/rel 0 (0,25)] [main] dar-sport prv
+[Sun Jun 13 15:11:39.144 2010] 0.039 sec [ext/0/rel 1 (0,25)] [main] starzyny
+[Sun Jun 13 15:12:34.990 2010] 1.025 sec [ext/0/rel 0 (0,25)] [main] starzyny szkoła podstawowa
+[Sun Jun 13 15:12:54.923 2010] 0.037 sec [ext/0/rel 0 (0,25)] [main] szkoła podstawowa w starzynach
+[Sun Jun 13 23:18:45.527 2010] 0.619 sec [ext/0/rel 1 (0,25)] [main] wokół nas pełno śmieci
+[Mon Jun 14 08:57:14.709 2010] 0.110 sec [ext/0/rel 6 (0,25)] [main] Ryczów
+[Mon Jun 14 13:08:31.549 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] e-yurząd
+[Mon Jun 14 13:08:35.009 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] e-urząd
+[Mon Jun 14 13:08:37.919 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] e-urząd
+[Mon Jun 14 13:08:50.008 2010] 0.084 sec [ext/0/rel 8 (0,25)] [main] Gmina łazy
+[Mon Jun 14 13:09:19.475 2010] 0.000 sec [ext/0/rel 53 (0,25)] [main] Łazy
+[Mon Jun 14 13:11:42.830 2010] 0.038 sec [ext/0/rel 1 (0,25)] [main] Urząd Miejski w Łazach
+[Mon Jun 14 13:11:55.915 2010] 0.000 sec [ext/0/rel 8 (0,25)] [main] Gmina Łazy
+[Mon Jun 14 13:16:46.921 2010] 0.000 sec [ext/0/rel 53 (0,25)] [main] łazy
+[Mon Jun 14 13:17:11.504 2010] 0.105 sec [ext/0/rel 0 (0,25)] [main] budowa i wdrązenie
+[Mon Jun 14 13:17:20.271 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] budowa i wdroenie
+[Mon Jun 14 13:17:28.773 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] budowa i wdrożenie
+[Mon Jun 14 13:17:41.169 2010] 0.056 sec [ext/0/rel 0 (0,25)] [main] elektroniczne urzędy gmin
+[Mon Jun 14 14:30:00.040 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] e-urząd łazy
+[Mon Jun 14 14:30:05.775 2010] 0.000 sec [ext/0/rel 53 (0,25)] [main] łazy
+[Mon Jun 14 14:31:06.474 2010] 0.000 sec [ext/0/rel 53 (25,25)] [main] łazy
+[Mon Jun 14 14:32:07.975 2010] 0.001 sec [ext/0/rel 0 (0,25)] [main] e-rząd
+[Mon Jun 14 14:32:11.608 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] e-urząd
+[Mon Jun 14 14:32:14.237 2010] 0.000 sec [ext/0/rel 53 (0,25)] [main] Łazy
+[Mon Jun 14 14:32:16.220 2010] 0.000 sec [ext/0/rel 53 (50,25)] [main] łazy
+[Mon Jun 14 14:32:45.793 2010] 0.000 sec [ext/0/rel 53 (25,25)] [main] Łazy
+[Mon Jun 14 14:32:50.257 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] e-urząd
+[Mon Jun 14 14:33:13.895 2010] 0.000 sec [ext/0/rel 53 (25,25)] [main] łazy
+[Mon Jun 14 14:36:22.583 2010] 0.000 sec [ext/0/rel 53 (50,25)] [main] Łazy
+[Mon Jun 14 16:16:45.566 2010] 0.016 sec [ext/0/rel 0 (0,25)] [main] cmc wybory w związkach zaw.
+[Mon Jun 14 16:16:53.896 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] cmc wybory w związkach zaw.
+[Mon Jun 14 17:17:16.792 2010] 0.034 sec [ext/0/rel 3 (0,25)] [main] księgarnia edukacyjna
+[Mon Jun 14 17:17:28.701 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] sądowa 10
+[Mon Jun 14 17:41:10.179 2010] 0.017 sec [ext/0/rel 0 (0,25)] [main] starosta mach wajda
+[Mon Jun 14 20:01:06.412 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nekrologi
+[Tue Jun 15 13:09:48.850 2010] 0.030 sec [ext/0/rel 0 (0,25)] [main] kanaliz
+[Tue Jun 15 13:09:53.573 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] oczyszcz
+[Tue Jun 15 17:28:47.729 2010] 0.011 sec [ext/0/rel 0 (0,25)] [main] nekrologi
+[Wed Jun 16 05:35:26.411 2010] 0.074 sec [scan/0/rel 384 (0,25)] [main] 
+[Wed Jun 16 05:36:00.151 2010] 0.300 sec [ext/0/rel 0 (0,25)] [main] komiks m
+[Wed Jun 16 10:24:26.371 2010] 0.050 sec [ext/0/rel 11 (0,25)] [main] praca
+[Wed Jun 16 11:03:53.406 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wiesiółka
+[Wed Jun 16 12:48:50.616 2010] 0.048 sec [ext/0/rel 1 (0,25)] [main] życzenia
+[Wed Jun 16 23:26:30.403 2010] 0.035 sec [ext/0/rel 1 (0,25)] [main] marciszów
+[Wed Jun 16 23:27:35.630 2010] 0.062 sec [ext/0/rel 0 (0,25)] [main] szkoła podstawowa nr 11
+[Thu Jun 17 11:27:08.430 2010] 0.072 sec [ext/0/rel 0 (0,25)] [main] łazy kanalizacjia
+[Thu Jun 17 11:27:13.242 2010] 0.033 sec [ext/0/rel 0 (0,25)] [main] łazy kanalizacja
+[Thu Jun 17 11:27:22.072 2010] 0.027 sec [ext/0/rel 1 (0,25)] [main] hydrobudowa polska
+[Fri Jun 18 20:13:15.142 2010] 0.051 sec [ext/0/rel 1 (0,25)] [main] kamieniołom
+[Fri Jun 18 20:13:33.285 2010] 1.103 sec [ext/0/rel 0 (0,25)] [main] kamieniołom zawiercie bzów
+[Fri Jun 18 20:13:39.318 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] kamieniołom
+[Sat Jun 19 13:48:14.945 2010] 0.061 sec [ext/0/rel 12 (0,25)] [main] Mach
+[Sat Jun 19 13:48:35.045 2010] 1.620 sec [ext/0/rel 2 (0,25)] [main] Pan Tadeusz
+[Sat Jun 19 13:48:51.646 2010] 0.024 sec [ext/0/rel 0 (0,25)] [main] Ryszard <ach
+[Sat Jun 19 13:48:57.985 2010] 0.000 sec [ext/0/rel 11 (0,25)] [main] Ryszard Mach
+[Sat Jun 19 17:19:35.955 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dam pracę
+[Sun Jun 20 09:53:39.484 2010] 0.048 sec [ext/0/rel 1 (0,25)] [main] gdzie głosować
+[Sun Jun 20 09:54:58.884 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] gdzie głosować
+[Sun Jun 20 17:22:20.211 2010] 0.028 sec [ext/0/rel 11 (0,25)] [main] praca
+[Sun Jun 20 17:23:05.275 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dam prace
+[Sun Jun 20 17:23:10.497 2010] 0.000 sec [ext/0/rel 11 (0,25)] [main] praca
+[Sun Jun 20 22:17:35.050 2010] 0.018 sec [ext/0/rel 9 (0,25)] [main] nr 23
+[Sun Jun 20 22:23:14.705 2010] 0.000 sec [ext/0/rel 9 (0,25)] [main] nr 23
+[Sun Jun 20 22:24:33.154 2010] 0.248 sec [ext/0/rel 2 (0,25)] [main] siamoszyce
+[Mon Jun 21 07:20:57.812 2010] 0.498 sec [ext/0/rel 11 (0,25)] [main] praca
+[Mon Jun 21 07:22:06.744 2010] 0.127 sec [ext/0/rel 1 (0,25)] [main] oferty pracy w zawierciu
+[Mon Jun 21 07:22:27.135 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] oferty pracy
+[Mon Jun 21 10:45:30.474 2010] 0.083 sec [ext/0/rel 0 (0,25)] [main] zalany wolbrom
+[Mon Jun 21 12:44:33.750 2010] 0.651 sec [ext/0/rel 4 (0,25)] [main] Meres
+[Tue Jun 22 08:33:39.238 2010] 0.104 sec [ext/0/rel 2 (0,25)] [main] atrakcje jury
+[Tue Jun 22 12:31:27.973 2010] 0.000 sec [scan/0/rel 416 (0,25)] [main] 
+[Tue Jun 22 12:32:30.692 2010] 0.000 sec [scan/0/rel 416 (25,25)] [main] 
+[Tue Jun 22 12:33:17.220 2010] 0.000 sec [scan/0/rel 416 (125,25)] [main] 
+[Tue Jun 22 12:33:45.805 2010] 0.000 sec [scan/0/rel 416 (200,25)] [main] 
+[Tue Jun 22 12:34:04.087 2010] 0.000 sec [scan/0/rel 416 (275,25)] [main] 
+[Tue Jun 22 12:34:27.272 2010] 0.000 sec [scan/0/rel 416 (375,25)] [main] 
+[Tue Jun 22 12:34:53.500 2010] 0.000 sec [scan/0/rel 416 (400,25)] [main] 
+[Wed Jun 23 15:14:49.557 2010] 0.076 sec [ext/0/rel 4 (0,25)] [main] poraj
+[Thu Jun 24 12:06:25.373 2010] 0.080 sec [ext/0/rel 9 (0,25)] [main] orzeł
+[Thu Jun 24 12:06:48.576 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] siłownia
+[Fri Jun 25 08:25:31.338 2010] 0.130 sec [ext/0/rel 0 (0,25)] [main] OSP RYCZÓW MA 80 LAT
+[Fri Jun 25 09:56:58.506 2010] 0.057 sec [ext/0/rel 1 (0,25)] [main] kryształowe jarmarki
+[Fri Jun 25 21:03:01.969 2010] 0.066 sec [ext/0/rel 1 (0,25)] [main] dariusz skorupa
+[Sat Jun 26 19:38:13.806 2010] 0.062 sec [ext/0/rel 6 (0,25)] [main] Ryczów
+[Sun Jun 27 01:32:44.229 2010] 0.043 sec [ext/0/rel 3 (0,25)] [main] brzostek
+[Sun Jun 27 19:37:41.478 2010] 0.116 sec [ext/0/rel 1 (0,25)] [main] ogłoszenia
+[Sun Jun 27 19:40:02.955 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Sun Jun 27 19:40:17.028 2010] 0.126 sec [ext/0/rel 1 (0,25)] [main] wynajem
+[Mon Jun 28 13:12:14.077 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] zespul romano
+[Mon Jun 28 13:13:05.893 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zespulromano
+[Mon Jun 28 13:13:27.406 2010] 0.013 sec [ext/0/rel 0 (0,25)] [main] zespul .romano
+[Tue Jun 29 08:21:14.491 2010] 0.089 sec [ext/0/rel 11 (0,25)] [main] szpital zawiercie
+[Tue Jun 29 18:11:07.230 2010] 0.049 sec [ext/0/rel 31 (0,25)] [main] konkursy
+[Tue Jun 29 18:12:11.076 2010] 0.046 sec [ext/0/rel 1 (0,25)] [main] ogród
+[Tue Jun 29 18:13:14.834 2010] 0.056 sec [ext/0/rel 0 (0,25)] [main] konkurs ogrodniczy
+[Tue Jun 29 23:05:06.710 2010] 0.308 sec [ext/0/rel 0 (0,25)] [main] 80 lat osp ryczów
+[Wed Jun 30 22:29:37.122 2010] 0.544 sec [ext/0/rel 26 (0,25)] [main] włodowice
+[Wed Jun 30 22:32:12.340 2010] 0.000 sec [ext/0/rel 26 (0,25)] [main] włodowice
+[Fri Jul  2 14:42:00.346 2010] 0.088 sec [ext/0/rel 1 (0,25)] [main] czystośći
+[Fri Jul  2 14:42:11.130 2010] 0.042 sec [ext/0/rel 5 (0,25)] [main] czystości
+[Fri Jul  2 14:42:32.403 2010] 0.031 sec [ext/0/rel 0 (0,25)] [main] ochrona środkowiska
+[Fri Jul  2 14:42:39.348 2010] 0.247 sec [ext/0/rel 0 (0,25)] [main] ochrona środowiska
+[Fri Jul  2 14:42:44.470 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ochrona środowiska
+[Fri Jul  2 15:07:36.652 2010] 0.033 sec [ext/0/rel 4 (0,25)] [main] regulamin
+[Fri Jul  2 23:01:26.979 2010] 0.050 sec [ext/0/rel 0 (0,25)] [main] poręba koło zawiercia mieszkania do wynajęcia
+[Fri Jul  2 23:01:43.069 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] poręba koło zawiercia mieszkania
+[Fri Jul  2 23:01:48.300 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] poręba koło zawiercia mieszkania
+[Sat Jul  3 11:53:12.352 2010] 0.063 sec [ext/0/rel 2 (0,25)] [main] ogłoszenia
+[Mon Jul  5 15:45:28.734 2010] 0.020 sec [ext/0/rel 0 (0,25)] [main] unieważnienie egzaminów
+[Mon Jul  5 15:45:58.929 2010] 0.017 sec [ext/0/rel 0 (0,25)] [main] unieważnienie egzaminów w technikach
+[Mon Jul  5 17:48:01.062 2010] 0.061 sec [ext/0/rel 1 (0,25)] [main] osp niwki
+[Mon Jul  5 19:20:41.128 2010] 0.036 sec [ext/0/rel 1 (0,25)] [main] oferty pracy
+[Mon Jul  5 19:21:01.876 2010] 0.019 sec [ext/0/rel 2 (0,25)] [main] ogłoszenia
+[Wed Jul  7 16:28:34.210 2010] 0.084 sec [ext/0/rel 0 (0,25)] [main] szkoła specjalna
+[Wed Jul  7 16:28:43.998 2010] 0.072 sec [ext/0/rel 2 (0,25)] [main] randka
+[Wed Jul  7 19:31:45.913 2010] 0.067 sec [ext/0/rel 6 (0,25)] [main] Ryczów
+[Thu Jul  8 13:35:50.405 2010] 0.177 sec [ext/0/rel 1 (0,25)] [main] wakacyjna szkółka piłki nożnej
+[Fri Jul  9 17:04:06.442 2010] 0.032 sec [ext/0/rel 13 (0,25)] [main] praca
+[Sat Jul 10 17:26:10.942 2010] 0.068 sec [ext/0/rel 64 (0,25)] [main] Łazy
+[Mon Jul 12 11:00:49.349 2010] 0.000 sec [scan/0/rel 489 (0,25)] [main] 
+[Mon Jul 12 12:41:01.745 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 991
+[Mon Jul 12 12:41:08.282 2010] 0.033 sec [ext/0/rel 8 (0,25)] [main] pogotowie
+[Mon Jul 12 12:42:15.077 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 991
+[Mon Jul 12 14:37:24.562 2010] 0.193 sec [ext/0/rel 3 (0,25)] [main] festiwal nauki
+[Mon Jul 12 17:13:20.313 2010] 0.050 sec [ext/0/rel 16 (0,25)] [main] szpital
+[Mon Jul 12 17:13:39.953 2010] 0.000 sec [ext/0/rel 16 (0,25)] [main] szpital
+[Mon Jul 12 18:13:22.514 2010] 0.054 sec [ext/0/rel 6 (0,25)] [main] osp pilica
+[Tue Jul 13 07:28:36.290 2010] 0.036 sec [ext/0/rel 3 (0,25)] [main] lasy
+[Tue Jul 13 07:30:51.617 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] lasy
+[Tue Jul 13 07:32:22.256 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] lasy
+[Tue Jul 13 07:37:41.745 2010] 0.069 sec [ext/0/rel 3 (0,25)] [main] las
+[Tue Jul 13 07:45:12.553 2010] 0.023 sec [ext/0/rel 5 (0,25)] [main] nadleśnictwo
+[Tue Jul 13 07:45:24.283 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nadleśnictwo
+[Tue Jul 13 07:49:25.548 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nadleśnictwo
+[Tue Jul 13 11:16:44.801 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] gimnazjum drugiej szansy
+[Tue Jul 13 11:16:53.262 2010] 0.024 sec [ext/0/rel 0 (0,25)] [main] gimnazjum dla dorosłych
+[Tue Jul 13 11:17:09.118 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] żarki
+[Tue Jul 13 11:17:19.217 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] gimnazjum zdz
+[Tue Jul 13 14:35:31.044 2010] 0.095 sec [ext/0/rel 0 (0,25)] [main] Park zamków jurajskich w miniaturze
+[Tue Jul 13 14:36:15.480 2010] 0.032 sec [ext/0/rel 0 (0,25)] [main] Park zamków w ogrodzieńcu
+[Tue Jul 13 14:36:31.439 2010] 0.004 sec [ext/0/rel 29 (0,25)] [main] Ogrodzieniec
+[Tue Jul 13 15:39:03.087 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] ks. Mariusz Frukacz
+[Tue Jul 13 15:39:13.908 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] osiny
+[Tue Jul 13 15:39:22.576 2010] 0.025 sec [ext/0/rel 18 (0,25)] [main] kromołów
+[Wed Jul 14 08:08:11.641 2010] 0.027 sec [ext/0/rel 0 (0,25)] [main] powódz w brzostku
+[Wed Jul 14 18:24:05.718 2010] 0.027 sec [ext/0/rel 0 (0,25)] [main] wędkarskie
+[Wed Jul 14 18:24:34.056 2010] 0.582 sec [ext/0/rel 0 (0,25)] [main] emil stybliński
+[Wed Jul 14 18:24:49.864 2010] 0.018 sec [ext/0/rel 0 (0,25)] [main] zawody wędkarskie
+[Wed Jul 14 18:25:28.121 2010] 0.357 sec [ext/0/rel 3 (0,25)] [main] dzień dziecka
+[Wed Jul 14 23:09:13.419 2010] 0.060 sec [ext/0/rel 1 (0,25)] [main] kutango sex
+[Thu Jul 15 12:28:15.727 2010] 0.069 sec [ext/0/rel 1 (0,25)] [main] odlewnia
+[Thu Jul 15 12:29:50.339 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] odlewnia
+[Thu Jul 15 14:36:29.628 2010] 0.031 sec [scan/0/rel 489 (0,25)] [main] 
+[Thu Jul 15 17:30:05.002 2010] 0.024 sec [ext/0/rel 1 (0,25)] [main] pustułki
+[Fri Jul 16 18:07:36.680 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] szachy
+[Fri Jul 16 21:52:45.036 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Leontyna Szymańska
+[Fri Jul 16 23:14:03.440 2010] 0.000 sec [scan/0/rel 517 (0,25)] [main] 
+[Fri Jul 16 23:14:47.193 2010] 0.000 sec [scan/0/rel 517 (25,25)] [main] 
+[Fri Jul 16 23:15:32.907 2010] 0.000 sec [scan/0/rel 517 (50,25)] [main] 
+[Fri Jul 16 23:16:16.661 2010] 0.000 sec [scan/0/rel 517 (75,25)] [main] 
+[Fri Jul 16 23:16:57.216 2010] 0.000 sec [scan/0/rel 517 (100,25)] [main] 
+[Fri Jul 16 23:17:39.388 2010] 0.000 sec [scan/0/rel 517 (125,25)] [main] 
+[Fri Jul 16 23:18:07.981 2010] 0.000 sec [scan/0/rel 517 (150,25)] [main] 
+[Fri Jul 16 23:18:43.967 2010] 0.000 sec [scan/0/rel 517 (175,25)] [main] 
+[Fri Jul 16 23:19:09.162 2010] 0.000 sec [scan/0/rel 517 (200,25)] [main] 
+[Fri Jul 16 23:19:41.847 2010] 0.000 sec [scan/0/rel 517 (225,25)] [main] 
+[Fri Jul 16 23:20:17.679 2010] 0.000 sec [scan/0/rel 517 (250,25)] [main] 
+[Fri Jul 16 23:20:42.223 2010] 0.000 sec [scan/0/rel 517 (275,25)] [main] 
+[Fri Jul 16 23:21:05.121 2010] 0.000 sec [scan/0/rel 517 (0,25)] [main] 
+[Fri Jul 16 23:22:02.319 2010] 0.000 sec [scan/0/rel 517 (275,25)] [main] 
+[Fri Jul 16 23:22:02.787 2010] 0.000 sec [scan/0/rel 517 (250,25)] [main] 
+[Fri Jul 16 23:22:03.268 2010] 0.000 sec [scan/0/rel 517 (225,25)] [main] 
+[Fri Jul 16 23:22:05.070 2010] 0.000 sec [scan/0/rel 517 (200,25)] [main] 
+[Fri Jul 16 23:22:05.712 2010] 0.000 sec [scan/0/rel 517 (175,25)] [main] 
+[Fri Jul 16 23:22:06.844 2010] 0.000 sec [scan/0/rel 517 (150,25)] [main] 
+[Fri Jul 16 23:22:07.677 2010] 0.000 sec [scan/0/rel 517 (125,25)] [main] 
+[Fri Jul 16 23:22:08.602 2010] 0.000 sec [scan/0/rel 517 (100,25)] [main] 
+[Fri Jul 16 23:22:09.604 2010] 0.000 sec [scan/0/rel 517 (75,25)] [main] 
+[Fri Jul 16 23:22:10.555 2010] 0.000 sec [scan/0/rel 517 (50,25)] [main] 
+[Fri Jul 16 23:22:11.578 2010] 0.000 sec [scan/0/rel 517 (75,25)] [main] 
+[Fri Jul 16 23:22:12.620 2010] 0.000 sec [scan/0/rel 517 (25,25)] [main] 
+[Fri Jul 16 23:22:13.613 2010] 0.000 sec [scan/0/rel 517 (0,25)] [main] 
+[Sat Jul 17 14:03:44.961 2010] 0.042 sec [ext/0/rel 1 (0,25)] [main] marta śliwa
+[Sat Jul 17 14:04:23.193 2010] 0.056 sec [ext/0/rel 0 (0,25)] [main] majówka w porębie
+[Sat Jul 17 14:04:42.612 2010] 0.010 sec [ext/0/rel 62 (0,25)] [main] poręba
+[Sat Jul 17 14:19:51.574 2010] 0.000 sec [ext/0/rel 62 (50,25)] [main] poręba
+[Sat Jul 17 19:40:14.230 2010] 0.043 sec [ext/0/rel 31 (0,25)] [main] szczekociny
+[Sat Jul 17 19:40:52.256 2010] 0.000 sec [ext/0/rel 31 (25,25)] [main] szczekociny
+[Sat Jul 17 22:26:56.542 2010] 0.037 sec [ext/0/rel 1 (0,25)] [main] horror na rzece
+[Mon Jul 19 15:19:29.143 2010] 0.018 sec [ext/0/rel 14 (0,25)] [main] ryszard mach
+[Mon Jul 19 15:20:34.954 2010] 0.000 sec [ext/0/rel 14 (0,25)] [main] ryszard mach
+[Mon Jul 19 16:43:43.615 2010] 0.269 sec [ext/0/rel 6 (0,25)] [main] mAGDA
+[Tue Jul 20 08:25:35.675 2010] 0.039 sec [ext/0/rel 1 (0,25)] [main] dom europejski
+[Tue Jul 20 08:25:56.788 2010] 0.026 sec [ext/0/rel 0 (0,25)] [main] stowarzyszenie śląsko
+[Tue Jul 20 12:01:42.219 2010] 0.000 sec [scan/0/rel 517 (0,25)] [main] 
+[Tue Jul 20 17:36:25.292 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zgh
+[Tue Jul 20 17:36:33.520 2010] 0.023 sec [ext/0/rel 3 (0,25)] [main] bolesław
+[Tue Jul 20 17:37:44.505 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] bolesław
+[Tue Jul 20 17:37:47.290 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zgh
+[Wed Jul 21 08:10:36.757 2010] 0.024 sec [ext/0/rel 1 (0,25)] [main] dom europejski
+[Wed Jul 21 10:09:29.223 2010] 0.610 sec [ext/0/rel 3 (0,25)] [main] wierbka
+[Wed Jul 21 10:12:02.511 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] wierbka
+[Wed Jul 21 19:14:23.005 2010] 0.029 sec [ext/0/rel 1 (0,25)] [main] dobraków
+[Wed Jul 21 19:36:38.015 2010] 0.034 sec [ext/0/rel 3 (0,25)] [main] wierbka
+[Thu Jul 22 14:46:23.637 2010] 0.029 sec [ext/0/rel 3 (0,25)] [main] wierbka
+[Thu Jul 22 19:43:34.341 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] WIERBKA
+[Thu Jul 22 22:19:46.378 2010] 0.315 sec [ext/0/rel 0 (0,25)] [main] cukiernia kradzie
+[Thu Jul 22 22:19:51.657 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] cukiernia kradzież
+[Thu Jul 22 22:19:56.640 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] cukiernia
+[Thu Jul 22 22:20:03.895 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kradzież
+[Thu Jul 22 22:20:09.916 2010] 0.043 sec [ext/0/rel 2 (0,25)] [main] Robert J
+[Fri Jul 23 12:02:07.639 2010] 0.051 sec [ext/0/rel 0 (0,25)] [main] zwłoki w rokitnie
+[Fri Jul 23 12:03:37.034 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zwłoki w rokitnie
+[Fri Jul 23 12:04:48.866 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zwłoki w rokitnie
+[Fri Jul 23 12:07:15.807 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zwłoki w rokitnie
+[Fri Jul 23 13:12:22.315 2010] 0.053 sec [ext/0/rel 2 (0,25)] [main] monika grabowski
+[Fri Jul 23 19:37:12.182 2010] 0.036 sec [ext/0/rel 3 (0,25)] [main] WIERBKA
+[Fri Jul 23 20:18:56.627 2010] 0.029 sec [ext/0/rel 3 (0,25)] [main] pks
+[Fri Jul 23 20:56:27.334 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] pałac
+[Fri Jul 23 20:56:51.288 2010] 0.033 sec [ext/0/rel 34 (0,25)] [main] Szczekociny
+[Sat Jul 24 20:33:38.835 2010] 0.035 sec [ext/0/rel 34 (0,25)] [main] szczekociny
+[Sat Jul 24 20:37:18.458 2010] 0.000 sec [ext/0/rel 34 (25,25)] [main] szczekociny
+[Sun Jul 25 18:14:45.240 2010] 0.032 sec [ext/0/rel 0 (0,25)] [main] galerja zdjęć bgż
+[Sun Jul 25 18:15:52.650 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] galerja zdjęć z festyunu
+[Sun Jul 25 19:30:55.177 2010] 0.015 sec [ext/0/rel 0 (0,25)] [main] zderzenie na ul.3-go maja
+[Sun Jul 25 19:30:57.362 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zderzenie na ul.3-go maja
+[Sun Jul 25 19:31:43.837 2010] 0.076 sec [ext/0/rel 0 (0,25)] [main] wypadek skody felicji i pasata
+[Sun Jul 25 19:32:00.126 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypadek skody felicji i pasata na ul.3-go maja
+[Sun Jul 25 19:39:35.426 2010] 0.049 sec [ext/0/rel 3 (0,25)] [main] szpital, piątek
+[Sun Jul 25 22:46:14.787 2010] 0.026 sec [ext/0/rel 2 (0,25)] [main] nożownik
+[Sun Jul 25 22:58:33.294 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] nożownik
+[Sun Jul 25 23:16:36.052 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Dubak
+[Sun Jul 25 23:16:43.294 2010] 0.045 sec [ext/0/rel 1 (0,25)] [main] Dłubak
+[Sun Jul 25 23:18:15.077 2010] 0.482 sec [ext/0/rel 5 (0,25)] [main] Paweł Merta
+[Mon Jul 26 10:06:13.637 2010] 0.057 sec [ext/0/rel 0 (0,25)] [main] hematolog
+[Mon Jul 26 10:35:55.646 2010] 0.091 sec [ext/0/rel 15 (0,25)] [main] praca
+[Mon Jul 26 12:12:41.654 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] odeslany z kwitkiem
+[Mon Jul 26 12:12:45.858 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] odeslany z kwitkiem
+[Mon Jul 26 12:15:22.130 2010] 0.046 sec [ext/0/rel 17 (0,25)] [main] szpital
+[Mon Jul 26 12:16:08.486 2010] 0.025 sec [ext/0/rel 1 (0,25)] [main] milka
+[Mon Jul 26 12:25:36.369 2010] 0.146 sec [ext/0/rel 2 (0,25)] [main] nożownik
+[Mon Jul 26 15:39:26.505 2010] 0.021 sec [ext/0/rel 5 (0,25)] [main] nieruchomości
+[Mon Jul 26 15:40:41.817 2010] 0.027 sec [ext/0/rel 0 (0,25)] [main] nieruchomości wynajem
+[Mon Jul 26 15:55:41.865 2010] 0.000 sec [ext/0/rel 15 (0,25)] [main] praca
+[Mon Jul 26 18:07:44.345 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] nożownik
+[Mon Jul 26 20:50:31.882 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] nożownik
+[Tue Jul 27 12:10:16.041 2010] 0.128 sec [ext/0/rel 1 (0,25)] [main] piotr van der coghen
+[Tue Jul 27 12:14:45.536 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] piotr van der coghen
+[Tue Jul 27 12:37:20.797 2010] 0.034 sec [ext/0/rel 2 (0,25)] [main] oferty pracy
+[Tue Jul 27 12:38:37.160 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] oferty pracy
+[Tue Jul 27 15:59:37.443 2010] 0.039 sec [ext/0/rel 9 (0,25)] [main] badania
+[Tue Jul 27 23:46:10.572 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nozownik
+[Tue Jul 27 23:46:20.643 2010] 0.012 sec [ext/0/rel 2 (0,25)] [main] nożownik
+[Wed Jul 28 21:36:28.125 2010] 0.060 sec [ext/0/rel 2 (0,25)] [main] baza 1L
+[Wed Jul 28 21:37:23.051 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] baza 1L
+[Wed Jul 28 22:32:16.080 2010] 0.035 sec [ext/0/rel 31 (0,25)] [main] włodowice
+[Wed Jul 28 22:32:55.955 2010] 0.042 sec [ext/0/rel 3 (0,25)] [main] zdów
+[Thu Jul 29 07:58:02.393 2010] 0.154 sec [ext/0/rel 13 (0,25)] [main] szpital zawiercie
+[Thu Jul 29 08:01:24.494 2010] 0.000 sec [ext/0/rel 13 (0,25)] [main] szpital zawiercie
+[Thu Jul 29 08:02:54.988 2010] 0.000 sec [ext/0/rel 13 (0,25)] [main] szpital zawiercie
+[Thu Jul 29 08:04:04.379 2010] 0.000 sec [ext/0/rel 13 (0,25)] [main] szpital zawiercie
+[Thu Jul 29 11:43:26.811 2010] 0.019 sec [ext/0/rel 3 (0,25)] [main] wierbka
+[Thu Jul 29 12:27:47.108 2010] 0.063 sec [ext/0/rel 69 (0,25)] [main] Poręba
+[Thu Jul 29 17:33:13.917 2010] 0.032 sec [ext/0/rel 1 (0,25)] [main] pustułki
+[Fri Jul 30 15:19:51.402 2010] 0.084 sec [ext/0/rel 9 (0,25)] [main] osp poręba
+[Fri Jul 30 20:27:54.104 2010] 0.000 sec [ext/0/rel 9 (0,25)] [main] osp poręba
+[Sat Jul 31 05:45:48.855 2010] 0.083 sec [ext/0/rel 17 (0,25)] [main] szpital
+[Sat Jul 31 05:46:39.545 2010] 0.000 sec [ext/0/rel 17 (0,25)] [main] szpital
+[Sat Jul 31 05:47:15.422 2010] 0.000 sec [ext/0/rel 17 (0,25)] [main] szpital
+[Sat Jul 31 09:09:18.377 2010] 0.026 sec [ext/0/rel 69 (0,25)] [main] poręba
+[Sat Jul 31 11:14:13.790 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypedek pomarańczowego golfa
+[Sat Jul 31 11:14:24.847 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypedek golfa w porębie
+[Sat Jul 31 11:14:30.689 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypedek golfa
+[Sat Jul 31 11:14:35.958 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypedek
+[Sat Jul 31 11:15:52.597 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 28.07.2010
+[Sat Jul 31 12:54:44.281 2010] 0.159 sec [ext/0/rel 9 (0,25)] [main] osp poręba
+[Sat Jul 31 13:40:50.522 2010] 0.022 sec [ext/0/rel 3 (0,25)] [main] marciszów
+[Sat Jul 31 13:47:12.909 2010] 0.000 sec [ext/0/rel 9 (0,25)] [main] osp poręba
+[Sat Jul 31 19:47:34.006 2010] 0.000 sec [ext/0/rel 9 (0,25)] [main] osp poręba
+[Sat Jul 31 19:48:54.552 2010] 0.045 sec [ext/0/rel 34 (0,25)] [main] szczekociny
+[Sat Jul 31 20:01:10.010 2010] 0.000 sec [ext/0/rel 34 (25,25)] [main] szczekociny
+[Sun Aug  1 09:44:42.390 2010] 0.040 sec [ext/0/rel 3 (0,25)] [main] szpital, piątek
+[Sun Aug  1 17:49:01.301 2010] 0.040 sec [ext/0/rel 1 (0,25)] [main] OSP NIWKI
+[Sun Aug  1 21:18:10.135 2010] 0.250 sec [ext/0/rel 28 (0,25)] [main] strażacy
+[Sun Aug  1 22:23:43.352 2010] 0.045 sec [ext/0/rel 9 (0,25)] [main] OSP Poręba
+[Mon Aug  2 13:04:04.444 2010] 0.059 sec [ext/0/rel 2 (0,25)] [main] Gorczowski
+[Mon Aug  2 15:19:44.401 2010] 0.021 sec [ext/0/rel 3 (0,25)] [main] WIERBKA
+[Mon Aug  2 20:21:38.268 2010] 0.028 sec [ext/0/rel 28 (0,25)] [main] strażacy
+[Mon Aug  2 21:14:53.858 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] oświadczenie
+[Tue Aug  3 10:26:21.305 2010] 0.126 sec [ext/0/rel 9 (0,25)] [main] osp poręba
+[Tue Aug  3 10:35:35.015 2010] 0.462 sec [ext/0/rel 0 (0,25)] [main] wypadek miedzy rokitnem a szczekocinami
+[Tue Aug  3 12:24:13.946 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] weterynarz radzi
+[Tue Aug  3 12:24:23.202 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] weterynarz
+[Wed Aug  4 23:14:49.018 2010] 0.226 sec [ext/0/rel 6 (0,25)] [main] msp 11
+[Thu Aug  5 14:35:52.490 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] chip
+[Fri Aug  6 00:52:04.533 2010] 0.040 sec [ext/0/rel 1 (0,25)] [main] dzwono-sierbowice
+[Fri Aug  6 00:53:18.883 2010] 0.018 sec [ext/0/rel 2 (0,25)] [main] dzwono
+[Fri Aug  6 00:54:01.778 2010] 0.018 sec [ext/0/rel 2 (0,25)] [main] sierbowice
+[Fri Aug  6 14:36:00.913 2010] 0.000 sec [scan/0/rel 585 (0,25)] [main] 
+[Fri Aug  6 17:48:53.817 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] pks
+[Fri Aug  6 19:53:21.847 2010] 0.024 sec [ext/0/rel 35 (0,25)] [main] szczekociny
+[Fri Aug  6 19:54:35.911 2010] 0.000 sec [ext/0/rel 35 (25,25)] [main] szczekociny
+[Fri Aug  6 20:01:43.385 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] szczekociny
+[Fri Aug  6 22:03:15.390 2010] 0.043 sec [ext/0/rel 0 (0,25)] [main] sparta zawiercie trampkarze
+[Fri Aug  6 22:03:26.091 2010] 0.022 sec [ext/0/rel 0 (0,25)] [main] sparta szczekociny trampkarze
+[Sun Aug  8 01:00:40.699 2010] 0.067 sec [ext/0/rel 1 (0,25)] [main] ciechanowicz
+[Sun Aug  8 13:46:36.844 2010] 0.039 sec [ext/0/rel 1 (0,25)] [main] bilard
+[Sun Aug  8 13:46:52.463 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bliradu
+[Sun Aug  8 13:46:56.776 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bliaradu
+[Sun Aug  8 13:49:51.345 2010] 0.059 sec [ext/0/rel 0 (0,25)] [main] wypadek w witowie
+[Sun Aug  8 20:45:01.635 2010] 0.047 sec [ext/0/rel 1 (0,25)] [main] Wiechetek
+[Sun Aug  8 21:39:13.064 2010] 0.045 sec [ext/0/rel 0 (0,25)] [main] zawody gminy pilica
+[Sun Aug  8 21:39:29.107 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zawody pozarnicze
+[Sun Aug  8 21:47:12.929 2010] 0.000 sec [scan/0/rel 585 (0,25)] [main] 
+[Sun Aug  8 21:49:24.950 2010] 0.000 sec [scan/0/rel 585 (575,25)] [main] 
+[Mon Aug  9 13:39:40.680 2010] 0.047 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Mon Aug  9 15:11:15.171 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Tue Aug 10 18:19:57.917 2010] 0.030 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Tue Aug 10 18:20:27.964 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nieruchomosci do wynajecia
+[Tue Aug 10 20:13:31.484 2010] 0.088 sec [ext/0/rel 2 (0,25)] [main] Jakub Wnuk
+[Tue Aug 10 23:07:23.537 2010] 0.142 sec [ext/0/rel 17 (0,25)] [main] szpital
+[Wed Aug 11 09:11:30.782 2010] 0.046 sec [ext/0/rel 32 (0,25)] [main] OSP
+[Wed Aug 11 09:11:42.923 2010] 0.035 sec [ext/0/rel 9 (0,25)] [main] OSP Poręba
+[Wed Aug 11 10:48:10.075 2010] 0.015 sec [ext/0/rel 0 (0,25)] [main] artykuły lipiec
+[Wed Aug 11 10:48:19.620 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] lipiec
+[Wed Aug 11 10:49:54.482 2010] 0.028 sec [ext/0/rel 1 (0,25)] [main] sierpień
+[Wed Aug 11 10:50:39.042 2010] 0.299 sec [ext/0/rel 0 (0,25)] [main] lista artykułów
+[Thu Aug 12 18:07:38.759 2010] 0.065 sec [ext/0/rel 0 (0,25)] [main] dziwny remont w rtg zwa
+[Thu Aug 12 18:07:43.147 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dziwny remont w rtg zwa
+[Thu Aug 12 18:07:49.953 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dziwny remont w rtg zwa
+[Thu Aug 12 18:07:50.616 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dziwny remont w rtg zwa
+[Thu Aug 12 18:08:07.784 2010] 0.036 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg zawiercie
+[Thu Aug 12 18:08:18.403 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg zawiercie
+[Thu Aug 12 18:08:20.725 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg zawiercie
+[Thu Aug 12 22:54:50.084 2010] 0.064 sec [ext/0/rel 9 (0,25)] [main] osp poręba
+[Fri Aug 13 11:36:00.357 2010] 0.053 sec [ext/0/rel 4 (0,25)] [main] ZKM Zawiercie
+[Fri Aug 13 12:58:18.189 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wczasy nad stawem
+[Fri Aug 13 12:59:13.475 2010] 0.030 sec [ext/0/rel 0 (0,25)] [main] wody termalne wegry
+[Fri Aug 13 13:03:57.543 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wody termalne wegry
+[Fri Aug 13 13:04:02.625 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wczasy nad stawem
+[Fri Aug 13 13:09:25.083 2010] 0.054 sec [ext/0/rel 0 (0,25)] [main] wypoczynek nad stawem rybnym
+[Fri Aug 13 13:10:12.720 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] agroturystyka w okolicach buska
+[Fri Aug 13 13:10:18.718 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypoczynek nad stawem rybnym
+[Fri Aug 13 14:18:56.162 2010] 0.092 sec [ext/0/rel 2 (0,25)] [main] złoty potok
+[Fri Aug 13 14:24:36.907 2010] 0.873 sec [ext/0/rel 2 (0,25)] [main] szmukier adam włodowice
+[Fri Aug 13 14:24:45.741 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] szmukier adam włodowice
+[Fri Aug 13 15:50:24.137 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] złoty potok
+[Fri Aug 13 16:04:26.874 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] złoty potok
+[Fri Aug 13 21:32:20.691 2010] 0.026 sec [ext/0/rel 0 (0,25)] [main] oszukani strażacy
+[Fri Aug 13 21:32:54.190 2010] 0.044 sec [ext/0/rel 0 (0,25)] [main] z dnia 30.07.2010
+[Sat Aug 14 14:59:16.584 2010] 0.032 sec [ext/0/rel 2 (0,25)] [main] stachera
+[Sat Aug 14 21:06:04.177 2010] 0.039 sec [ext/0/rel 35 (0,25)] [main] szczekociny
+[Sat Aug 14 21:06:39.015 2010] 0.000 sec [ext/0/rel 35 (25,25)] [main] szczekociny
+[Sun Aug 15 19:55:30.337 2010] 0.048 sec [ext/0/rel 19 (0,25)] [main] jakub
+[Sun Aug 15 20:33:06.184 2010] 0.031 sec [ext/0/rel 4 (0,25)] [main] turniej w szczekocinach
+[Sun Aug 15 20:33:53.422 2010] 0.027 sec [ext/0/rel 0 (0,25)] [main] turniej w szczekocinach im krystiana stępnia
+[Sun Aug 15 20:34:19.229 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] turniejpiłkarski w szczekocinach im krystiana stępnia
+[Mon Aug 16 11:45:03.245 2010] 0.037 sec [ext/0/rel 0 (0,25)] [main] teresa dorenda
+[Mon Aug 16 11:45:14.813 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dorenda
+[Mon Aug 16 17:00:57.712 2010] 0.050 sec [ext/0/rel 35 (0,25)] [main] szczekociny]
+[Mon Aug 16 17:01:00.200 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] szczekociny
+[Tue Aug 17 19:47:56.337 2010] 0.032 sec [ext/0/rel 35 (0,25)] [main] szczekociny
+[Tue Aug 17 19:47:58.705 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] szczekociny
+[Tue Aug 17 19:49:31.963 2010] 0.000 sec [ext/0/rel 35 (25,25)] [main] szczekociny
+[Tue Aug 17 19:49:35.540 2010] 0.000 sec [ext/0/rel 35 (25,25)] [main] szczekociny
+[Wed Aug 18 06:55:21.126 2010] 0.033 sec [ext/0/rel 0 (0,25)] [main] DAGLEZJA
+[Wed Aug 18 09:33:05.223 2010] 0.189 sec [ext/0/rel 0 (0,25)] [main] odlewnia zeliwa
+[Wed Aug 18 09:33:12.785 2010] 0.015 sec [ext/0/rel 0 (0,25)] [main] odlewnia żeliwa
+[Wed Aug 18 09:33:15.558 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] odlewnia żeliwa
+[Wed Aug 18 09:33:26.624 2010] 0.188 sec [ext/0/rel 3 (0,25)] [main] list do redakcji
+[Wed Aug 18 10:51:35.517 2010] 0.042 sec [ext/0/rel 1 (0,25)] [main] budowa kopalni
+[Wed Aug 18 15:28:42.858 2010] 0.020 sec [ext/0/rel 1 (0,25)] [main] creo bud
+[Wed Aug 18 15:28:51.981 2010] 0.023 sec [ext/0/rel 50 (0,25)] [main] piątek
+[Wed Aug 18 17:17:08.866 2010] 0.035 sec [ext/0/rel 1 (0,25)] [main] wynajem
+[Thu Aug 19 20:00:46.444 2010] 0.061 sec [ext/0/rel 1 (0,25)] [main] spotkanie z drzewem
+[Thu Aug 19 20:02:34.147 2010] 0.035 sec [ext/0/rel 1 (0,25)] [main] Paweł Pisara
+[Thu Aug 19 20:02:58.682 2010] 0.047 sec [ext/0/rel 4 (0,25)] [main] Śmierć na drodze
+[Thu Aug 19 22:32:12.935 2010] 0.108 sec [ext/0/rel 2 (0,25)] [main] kurs samoobrony
+[Fri Aug 20 07:56:03.849 2010] 0.041 sec [ext/0/rel 20 (0,25)] [main] KOT
+[Fri Aug 20 07:56:18.452 2010] 0.018 sec [ext/0/rel 1 (0,25)] [main] PAWEL
+[Fri Aug 20 07:56:37.941 2010] 0.020 sec [ext/0/rel 0 (0,25)] [main] KTO POTRACIL
+[Fri Aug 20 07:56:41.229 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] PAWEL
+[Fri Aug 20 09:30:49.636 2010] 0.204 sec [ext/0/rel 0 (0,25)] [main] film z wypadku
+[Fri Aug 20 09:33:28.278 2010] 0.000 sec [ext/0/rel 8 (0,25)] [main] film
+[Fri Aug 20 09:33:58.082 2010] 0.070 sec [ext/0/rel 3 (0,25)] [main] mateusz kot
+[Fri Aug 20 09:34:03.178 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] mateusz kot
+[Fri Aug 20 09:38:29.308 2010] 0.032 sec [ext/0/rel 0 (0,25)] [main] film autorstwa mateusza kot
+[Fri Aug 20 09:50:22.496 2010] 0.114 sec [ext/0/rel 38 (0,25)] [main] paweł
+[Fri Aug 20 09:50:51.582 2010] 0.000 sec [ext/0/rel 38 (25,25)] [main] paweł
+[Fri Aug 20 09:51:23.158 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kto zabił paweł
+[Fri Aug 20 09:51:29.140 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kto zabił pawła
+[Fri Aug 20 09:51:40.693 2010] 0.014 sec [ext/0/rel 27 (0,25)] [main] pawła
+[Fri Aug 20 09:52:19.988 2010] 0.000 sec [ext/0/rel 27 (25,25)] [main] pawła
+[Fri Aug 20 10:00:24.631 2010] 0.320 sec [ext/0/rel 1 (0,25)] [main] Spotkanie z drzewem
+[Fri Aug 20 10:03:12.519 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] Spotkanie z drzewem
+[Fri Aug 20 10:54:20.055 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kto zabil Pawła?
+[Fri Aug 20 10:54:29.392 2010] 0.000 sec [ext/0/rel 8 (0,25)] [main] film
+[Fri Aug 20 10:55:01.910 2010] 0.026 sec [ext/0/rel 11 (0,25)] [main] wypadek
+[Fri Aug 20 10:55:40.587 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] mateusz Kot
+[Fri Aug 20 11:45:32.682 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kto zabil pawla
+[Fri Aug 20 19:45:30.062 2010] 0.019 sec [ext/0/rel 18 (0,25)] [main] szpital
+[Fri Aug 20 19:50:19.069 2010] 0.080 sec [ext/0/rel 3 (0,25)] [main] komisja budżetu
+[Fri Aug 20 19:50:31.929 2010] 0.000 sec [ext/0/rel 18 (0,25)] [main] komisja
+[Fri Aug 20 19:51:34.446 2010] 0.000 sec [ext/0/rel 13 (0,25)] [main] budżetu
+[Fri Aug 20 23:03:15.333 2010] 0.000 sec [scan/0/rel 617 (0,25)] [main] 
+[Sat Aug 21 16:32:41.690 2010] 0.026 sec [ext/0/rel 1 (0,25)] [main] noc horrorów
+[Sun Aug 22 10:47:48.151 2010] 0.374 sec [ext/0/rel 3 (0,25)] [main] OSP PORĘBA
+[Sun Aug 22 11:10:25.517 2010] 0.029 sec [ext/0/rel 1 (0,25)] [main] odlewnia
+[Sun Aug 22 13:00:55.853 2010] 0.022 sec [ext/0/rel 2 (0,25)] [main] osp marciszów
+[Sun Aug 22 21:07:36.147 2010] 0.027 sec [ext/0/rel 9 (0,25)] [main] tragedia
+[Sun Aug 22 21:09:03.462 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] drama na spywie kajakowymt
+[Sun Aug 22 21:09:31.120 2010] 0.045 sec [ext/0/rel 2 (0,25)] [main] spływ kajakowy
+[Sun Aug 22 21:10:00.152 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] spływ kajakowy
+[Sun Aug 22 21:10:00.251 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] spływ kajakowy
+[Sun Aug 22 21:13:25.057 2010] 0.022 sec [ext/0/rel 1 (0,25)] [main] spływ kajakowy szczekociny
+[Sun Aug 22 21:14:32.774 2010] 0.041 sec [ext/0/rel 0 (0,25)] [main] wypadek na kajakach w szczekocinach
+[Sun Aug 22 21:14:42.931 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypadek na kajakach
+[Sun Aug 22 21:14:55.697 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] tragedia na kajakach
+[Sun Aug 22 21:15:51.998 2010] 0.116 sec [ext/0/rel 0 (0,25)] [main] wydarzenia w dniu 10.07 2010
+[Sun Aug 22 21:16:15.016 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wydarzenia w miesiacu lipcu
+[Sun Aug 22 21:16:37.585 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wiadomościz lipca
+[Sun Aug 22 21:18:11.247 2010] 0.025 sec [ext/0/rel 0 (0,25)] [main] spływ kajakowy pilicą
+[Sun Aug 22 21:18:15.716 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wiadomościz lipca
+[Sun Aug 22 21:18:29.011 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] spływ kajakowy
+[Sun Aug 22 21:19:09.800 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] spływ kajakowy
+[Sun Aug 22 21:20:03.110 2010] 0.006 sec [ext/0/rel 0 (0,25)] [main] wypadek kajakiem
+[Sun Aug 22 21:20:27.657 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypadek kajakiem w szczekocinach
+[Sun Aug 22 21:20:53.347 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypadek kajakiem
+[Sun Aug 22 21:21:18.606 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypadek kajakiem w lipcu
+[Sun Aug 22 21:49:45.647 2010] 0.029 sec [ext/0/rel 4 (0,25)] [main] morsko
+[Sun Aug 22 22:11:05.317 2010] 0.048 sec [ext/0/rel 37 (0,25)] [main] konkurs
+[Sun Aug 22 22:11:39.709 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] konkurs
+[Sun Aug 22 22:12:06.500 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] platon
+[Sun Aug 22 22:12:30.496 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] platonem
+[Sun Aug 22 22:12:38.054 2010] 0.035 sec [ext/0/rel 2 (0,25)] [main] wiosna
+[Mon Aug 23 08:54:11.270 2010] 0.129 sec [ext/0/rel 2 (0,25)] [main] osp marciszów
+[Mon Aug 23 12:09:57.463 2010] 0.037 sec [ext/0/rel 0 (0,25)] [main] Tomasz Kołton
+[Mon Aug 23 12:34:22.918 2010] 0.045 sec [ext/0/rel 25 (0,25)] [main] żarnowiec
+[Mon Aug 23 12:34:54.668 2010] 0.054 sec [ext/0/rel 11 (0,25)] [main] rokitno
+[Mon Aug 23 12:36:38.305 2010] 0.000 sec [ext/0/rel 11 (0,25)] [main] Rokitno
+[Mon Aug 23 12:36:41.342 2010] 0.000 sec [ext/0/rel 11 (0,25)] [main] Rokitno
+[Tue Aug 24 11:58:38.449 2010] 0.038 sec [ext/0/rel 0 (0,25)] [main] telefon do rfedakcji
+[Tue Aug 24 14:18:27.595 2010] 0.109 sec [ext/0/rel 0 (0,25)] [main] mateusz kot-film
+[Tue Aug 24 14:18:47.485 2010] 0.040 sec [ext/0/rel 3 (0,25)] [main] mateusz kot
+[Tue Aug 24 14:19:11.000 2010] 0.235 sec [ext/0/rel 0 (0,25)] [main] mateusz kot film z wypadku
+[Tue Aug 24 14:19:58.347 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] mateusz kot film z wypadku
+[Tue Aug 24 14:20:06.475 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] mateusz kot
+[Tue Aug 24 15:21:36.404 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] turski
+[Tue Aug 24 15:27:29.641 2010] 0.026 sec [ext/0/rel 12 (0,25)] [main] wypadek
+[Tue Aug 24 15:31:24.628 2010] 0.061 sec [ext/0/rel 9 (0,25)] [main] tragedia
+[Wed Aug 25 08:56:37.854 2010] 0.065 sec [ext/0/rel 15 (0,25)] [main] praca
+[Wed Aug 25 08:57:39.236 2010] 0.037 sec [ext/0/rel 2 (0,25)] [main] oferty pracy
+[Wed Aug 25 09:49:01.215 2010] 0.055 sec [ext/0/rel 2 (0,25)] [main] dopalacze
+[Wed Aug 25 14:22:11.975 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ofery pracy
+[Wed Aug 25 14:22:27.492 2010] 0.017 sec [ext/0/rel 15 (0,25)] [main] praca
+[Wed Aug 25 17:14:13.238 2010] 0.143 sec [ext/0/rel 7 (0,25)] [main] skalniak kroczyce
+[Wed Aug 25 19:22:36.813 2010] 0.823 sec [ext/0/rel 16 (0,25)] [main] dni zawiercia
+[Wed Aug 25 19:23:59.487 2010] 0.000 sec [ext/0/rel 16 (0,25)] [main] dni zawiercia
+[Wed Aug 25 19:52:04.828 2010] 0.104 sec [ext/0/rel 4 (0,25)] [main] krzysztof piątek
+[Wed Aug 25 19:54:09.639 2010] 0.030 sec [ext/0/rel 1 (0,25)] [main] creo bud
+[Wed Aug 25 20:07:40.469 2010] 0.024 sec [ext/0/rel 1 (0,25)] [main] ogrodzienieckie grillowanie
+[Wed Aug 25 20:27:19.752 2010] 0.037 sec [ext/0/rel 1 (0,25)] [main] intermarche zawiercie
+[Wed Aug 25 20:27:44.393 2010] 0.043 sec [ext/0/rel 0 (0,25)] [main] stacje paliw
+[Wed Aug 25 21:34:49.002 2010] 0.015 sec [ext/0/rel 37 (0,25)] [main] ogrodzieniec
+[Wed Aug 25 22:52:03.644 2010] 0.010 sec [ext/0/rel 5 (0,25)] [main] szczakowianka
+[Thu Aug 26 07:16:33.534 2010] 0.048 sec [ext/0/rel 1 (0,25)] [main] ogrodzienieckie grillowanie
+[Thu Aug 26 09:37:57.165 2010] 0.306 sec [ext/0/rel 4 (0,25)] [main] bzów
+[Thu Aug 26 09:38:12.489 2010] 0.248 sec [ext/0/rel 4 (0,25)] [main] bzowa
+[Thu Aug 26 09:39:36.406 2010] 0.023 sec [ext/0/rel 26 (0,25)] [main] kromołów
+[Thu Aug 26 13:15:48.001 2010] 0.452 sec [ext/0/rel 35 (0,25)] [main] osp
+[Thu Aug 26 13:18:11.168 2010] 0.190 sec [ext/0/rel 2 (0,25)] [main] blanowice
+[Thu Aug 26 19:54:26.375 2010] 0.867 sec [ext/0/rel 0 (0,25)] [main] pawla P zdjecia z tragedji ze szklarskiej poreby
+[Thu Aug 26 20:51:32.406 2010] 0.045 sec [ext/0/rel 2 (0,25)] [main] osp marciszów
+[Fri Aug 27 11:45:38.125 2010] 0.805 sec [ext/0/rel 0 (0,25)] [main] zawody sportowo pożaarnicze
+[Fri Aug 27 11:46:01.633 2010] 0.044 sec [ext/0/rel 2 (0,25)] [main] zawody sportowo pożarnicze
+[Fri Aug 27 13:13:05.432 2010] 0.017 sec [ext/0/rel 1 (0,25)] [main] prywatne przedszkole
+[Fri Aug 27 14:16:08.241 2010] 0.032 sec [ext/0/rel 26 (0,25)] [main] justyna banach
+[Fri Aug 27 17:27:27.913 2010] 0.106 sec [ext/0/rel 1 (0,25)] [main] napad na kierowce
+[Fri Aug 27 17:29:47.767 2010] 0.045 sec [ext/0/rel 4 (0,25)] [main] zkm zawiercie
+[Fri Aug 27 17:35:15.859 2010] 0.046 sec [ext/0/rel 2 (0,25)] [main] spływ kajakowy
+[Fri Aug 27 17:35:30.815 2010] 0.031 sec [ext/0/rel 1 (0,25)] [main] spływ kajakowy szczekociny
+[Fri Aug 27 17:35:39.898 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] kajakowy szczekociny
+[Fri Aug 27 17:35:43.798 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] kajakowy szczekociny
+[Sat Aug 28 08:23:59.918 2010] 0.458 sec [ext/0/rel 4 (0,25)] [main] zkm zawiercie
+[Sat Aug 28 08:30:13.167 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] opdir
+[Sat Aug 28 08:31:12.463 2010] 0.380 sec [ext/0/rel 1 (0,25)] [main] Ośrodek pomocy dziecku i rodzinie w górze włodowskiej
+[Sat Aug 28 08:32:16.089 2010] 0.050 sec [ext/0/rel 10 (0,25)] [main] dni poręby
+[Sat Aug 28 10:12:51.902 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] fatalny spływ
+[Sat Aug 28 10:13:15.119 2010] 0.039 sec [ext/0/rel 3 (0,25)] [main] spływ
+[Sat Aug 28 12:27:16.801 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Złom kupię przyjadę
+[Sat Aug 28 13:13:54.672 2010] 0.159 sec [ext/0/rel 3 (0,25)] [main] komunikacja
+[Sat Aug 28 13:14:58.974 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] komunikacja
+[Sat Aug 28 13:15:17.821 2010] 0.011 sec [ext/0/rel 43 (0,25)] [main] prezydent
+[Sat Aug 28 16:53:05.811 2010] 0.067 sec [ext/0/rel 1 (0,25)] [main] OGRODZIENIECKIE GRILLOWANIE PO RAZ PIERWSZY
+[Sat Aug 28 16:58:58.287 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] OGRODZIENIECKIE GRILLOWANIE PO RAZ PIERWSZY
+[Sat Aug 28 19:30:23.543 2010] 0.028 sec [ext/0/rel 2 (0,25)] [main] oferty pracy zawiercie
+[Sat Aug 28 20:09:41.835 2010] 0.031 sec [ext/0/rel 1 (0,25)] [main] blog ryszarda macha
+[Sun Aug 29 11:33:45.605 2010] 0.127 sec [ext/0/rel 8 (0,25)] [main] pożar
+[Sun Aug 29 11:34:00.875 2010] 0.046 sec [ext/0/rel 1 (0,25)] [main] pożar zawiercie
+[Sun Aug 29 11:34:12.502 2010] 0.035 sec [ext/0/rel 4 (0,25)] [main] kościół
+[Sun Aug 29 11:36:25.232 2010] 0.079 sec [ext/0/rel 2 (0,25)] [main] zawody pożarnicze
+[Sun Aug 29 11:36:33.759 2010] 0.024 sec [ext/0/rel 3 (0,25)] [main] marciszów
+[Sun Aug 29 14:58:49.979 2010] 0.244 sec [ext/0/rel 0 (0,25)] [main] powiatowe zawody strażackie Wierbka
+[Sun Aug 29 15:00:01.532 2010] 0.011 sec [ext/0/rel 4 (0,25)] [main] Wierbka
+[Sun Aug 29 20:10:57.227 2010] 0.062 sec [ext/0/rel 1 (0,25)] [main] OGRODZIENIECKIE GRILLOWANIE PO RAZ PIERWSZY
+[Sun Aug 29 20:12:50.029 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] OGRODZIENIECKIE GRILLOWANIE PO RAZ PIERWSZY
+[Mon Aug 30 07:34:23.219 2010] 0.066 sec [ext/0/rel 1 (0,25)] [main] dar-sport
+[Mon Aug 30 07:35:22.518 2010] 0.068 sec [ext/0/rel 0 (0,25)] [main] akademi pilkarska darsport
+[Mon Aug 30 11:12:31.688 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] tapsy
+[Mon Aug 30 11:12:37.880 2010] 0.030 sec [ext/0/rel 2 (0,25)] [main] dopalacze
+[Mon Aug 30 13:37:49.155 2010] 0.158 sec [ext/0/rel 11 (0,25)] [main] pttk zawiercie
+[Mon Aug 30 15:11:47.092 2010] 0.032 sec [ext/0/rel 1 (0,25)] [main] do niwek z buta
+[Mon Aug 30 15:14:39.797 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wolfenstein
+[Mon Aug 30 15:14:49.869 2010] 0.212 sec [ext/0/rel 0 (0,25)] [main] Mała dziwka
+[Mon Aug 30 15:15:03.020 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Dziwki
+[Mon Aug 30 15:15:22.632 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] chetne panie
+[Mon Aug 30 15:34:01.431 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] do niwek z buta
+[Mon Aug 30 17:58:58.230 2010] 0.000 sec [scan/0/rel 617 (0,25)] [main] 
+[Mon Aug 30 19:58:33.102 2010] 0.019 sec [ext/0/rel 5 (0,25)] [main] nieruchomości
+[Mon Aug 30 23:12:09.280 2010] 0.146 sec [ext/0/rel 0 (0,25)] [main] 28 sierpnia na stadionie w Wierbce odbyły się VI Powiatowe Zawody
+[Mon Aug 30 23:12:33.685 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] 28 sierpnia
+[Mon Aug 30 23:13:02.527 2010] 0.055 sec [ext/0/rel 3 (0,25)] [main] VI Powiatowe
+[Mon Aug 30 23:19:45.150 2010] 0.040 sec [ext/0/rel 7 (0,25)] [main] autobus
+[Mon Aug 30 23:24:26.793 2010] 0.007 sec [ext/0/rel 7 (0,25)] [main] orlik
+[Mon Aug 30 23:24:56.469 2010] 0.009 sec [ext/0/rel 4 (0,25)] [main] wierbka
+[Tue Aug 31 11:11:42.549 2010] 0.055 sec [ext/0/rel 1 (0,25)] [main] do niwek z buta
+[Tue Aug 31 11:40:01.638 2010] 0.033 sec [ext/0/rel 0 (0,25)] [main] jan grela
+[Tue Aug 31 11:40:13.848 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] grela jan
+[Tue Aug 31 11:40:18.103 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] grela jan
+[Tue Aug 31 11:40:37.681 2010] 0.449 sec [ext/0/rel 2 (0,25)] [main] eugeniusz kapuśniak
+[Tue Aug 31 11:42:51.592 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] udóż
+[Tue Aug 31 15:40:11.142 2010] 0.027 sec [ext/0/rel 6 (0,25)] [main] koszykówki
+[Tue Aug 31 15:43:08.845 2010] 0.033 sec [ext/0/rel 38 (0,25)] [main] szczekociny
+[Tue Aug 31 15:45:43.039 2010] 0.000 sec [ext/0/rel 38 (25,25)] [main] szczekociny
+[Tue Aug 31 15:47:17.738 2010] 0.015 sec [ext/0/rel 1 (0,25)] [main] wierzbowskich
+[Tue Aug 31 20:39:15.520 2010] 0.014 sec [scan/0/rel 617 (0,25)] [main] 
+[Tue Aug 31 22:08:59.960 2010] 0.038 sec [ext/0/rel 32 (0,25)] [main] włodowice
+[Tue Aug 31 22:12:33.998 2010] 0.469 sec [ext/0/rel 3 (0,25)] [main] zdów
+[Wed Sep  1 10:15:49.594 2010] 0.031 sec [ext/0/rel 15 (0,25)] [main] praca
+[Wed Sep  1 10:47:08.839 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] shisze
+[Wed Sep  1 10:47:13.143 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] tapsy
+[Wed Sep  1 13:56:16.070 2010] 0.033 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Wed Sep  1 14:54:18.468 2010] 0.052 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg
+[Wed Sep  1 14:57:25.414 2010] 0.052 sec [ext/0/rel 1 (0,25)] [main] napad na cukiernie
+[Wed Sep  1 17:27:31.141 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Wed Sep  1 17:28:35.207 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wymajem mieszkań
+[Wed Sep  1 17:28:45.656 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Wed Sep  1 21:57:45.681 2010] 0.023 sec [ext/0/rel 38 (0,25)] [main] szczekociny
+[Wed Sep  1 22:01:30.760 2010] 0.000 sec [ext/0/rel 38 (25,25)] [main] szczekociny
+[Wed Sep  1 22:12:29.154 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] mażoretki-ogrodzieniec
+[Wed Sep  1 22:12:54.279 2010] 0.017 sec [ext/0/rel 37 (0,25)] [main] ogrodzieniec
+[Thu Sep  2 10:35:37.595 2010] 0.700 sec [ext/0/rel 15 (0,25)] [main] praca
+[Thu Sep  2 10:36:51.520 2010] 0.254 sec [ext/0/rel 1 (0,25)] [main] szukam pracy
+[Thu Sep  2 10:37:07.613 2010] 0.000 sec [ext/0/rel 15 (0,25)] [main] praca
+[Thu Sep  2 12:46:27.958 2010] 0.035 sec [ext/0/rel 2 (0,25)] [main] osp wierbka
+[Thu Sep  2 17:48:25.521 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] przedszkole nr 5 w zawierciu
+[Fri Sep  3 09:32:13.347 2010] 0.847 sec [ext/0/rel 6 (0,25)] [main] dąbrowie górniczej
+[Fri Sep  3 09:44:17.804 2010] 0.034 sec [ext/0/rel 1 (0,25)] [main] Jacek Raczek
+[Fri Sep  3 12:38:08.250 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] akademia pilkarska
+[Sat Sep  4 12:11:22.745 2010] 0.048 sec [ext/0/rel 3 (0,25)] [main] las
+[Sat Sep  4 12:11:36.607 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nadlesnictwo
+[Sat Sep  4 12:11:38.643 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] las
+[Sat Sep  4 12:11:45.839 2010] 0.376 sec [ext/0/rel 5 (0,25)] [main] nadleśnictwo
+[Sat Sep  4 12:16:01.217 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nadleśnictwo
+[Sat Sep  4 12:16:44.258 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nadleśnictwo
+[Sat Sep  4 12:16:58.930 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nadleśnictwo
+[Sat Sep  4 12:17:24.399 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nadleśnictwo
+[Sat Sep  4 12:17:36.971 2010] 0.899 sec [ext/0/rel 4 (0,25)] [main] olkusz
+[Sat Sep  4 12:18:24.938 2010] 0.040 sec [ext/0/rel 2 (0,25)] [main] skutki zimy
+[Sat Sep  4 12:18:47.635 2010] 0.026 sec [ext/0/rel 3 (0,25)] [main] zniszczenia
+[Sat Sep  4 12:18:55.939 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] zniszczenia
+[Sat Sep  4 12:19:14.829 2010] 0.033 sec [ext/0/rel 1 (0,25)] [main] połamane drzewa
+[Sat Sep  4 21:48:59.746 2010] 0.098 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Sat Sep  4 23:10:32.169 2010] 0.049 sec [ext/0/rel 0 (0,25)] [main] powiatowe zawody strażackie Wierbka
+[Sat Sep  4 23:11:02.442 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] powiatowe zawody strażackie
+[Sat Sep  4 23:11:08.167 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] powiatowe zawody strażackie
+[Sat Sep  4 23:11:12.649 2010] 0.009 sec [ext/0/rel 0 (0,25)] [main] zawody strażackie
+[Sat Sep  4 23:11:17.501 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zawody strażackie
+[Sat Sep  4 23:11:35.804 2010] 0.025 sec [ext/0/rel 1 (0,25)] [main] VI Powiatowe Zawody
+[Sun Sep  5 10:40:07.156 2010] 0.051 sec [ext/0/rel 1 (0,25)] [main] wypadki
+[Sun Sep  5 11:29:06.956 2010] 1.265 sec [ext/0/rel 0 (0,25)] [main] pożegnanie lata na basenie w łazach
+[Sun Sep  5 11:29:15.551 2010] 0.039 sec [ext/0/rel 1 (0,25)] [main] basen w łazach
+[Sun Sep  5 20:06:24.255 2010] 0.015 sec [ext/0/rel 5 (0,25)] [main] pks
+[Mon Sep  6 05:03:51.405 2010] 0.035 sec [ext/0/rel 8 (0,25)] [main] virtu
+[Mon Sep  6 09:57:19.044 2010] 0.515 sec [ext/0/rel 2 (0,25)] [main] konkurs woda
+[Mon Sep  6 09:57:48.474 2010] 0.318 sec [ext/0/rel 2 (0,25)] [main] finał konkursu woda
+[Mon Sep  6 13:26:00.828 2010] 0.207 sec [ext/0/rel 19 (0,25)] [main] podziękowania
+[Mon Sep  6 13:51:05.823 2010] 0.090 sec [ext/0/rel 1 (0,25)] [main] lipiec 2010
+[Mon Sep  6 13:51:20.421 2010] 0.027 sec [ext/0/rel 0 (0,25)] [main] lipiec 2010 sesja w Porebie
+[Mon Sep  6 13:51:39.341 2010] 0.201 sec [ext/0/rel 2 (0,25)] [main] sesja w Porębie
+[Mon Sep  6 14:45:05.167 2010] 0.029 sec [ext/0/rel 0 (0,25)] [main] Jakub Pacan
+[Mon Sep  6 22:10:27.663 2010] 0.423 sec [ext/0/rel 1 (0,25)] [main] zawiercie do (prze) mieszkania
+[Tue Sep  7 07:03:37.103 2010] 0.094 sec [ext/0/rel 38 (0,25)] [main] konkurs
+[Tue Sep  7 07:04:33.746 2010] 0.000 sec [ext/0/rel 38 (25,25)] [main] konkurs
+[Tue Sep  7 07:05:07.261 2010] 0.000 sec [ext/0/rel 38 (0,25)] [main] konkurs
+[Wed Sep  8 09:36:53.535 2010] 0.037 sec [ext/0/rel 4 (0,25)] [main] wierbka
+[Wed Sep  8 09:37:01.915 2010] 0.023 sec [ext/0/rel 5 (0,25)] [main] wierbce
+[Wed Sep  8 09:37:04.374 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] wierbce
+[Wed Sep  8 12:11:29.118 2010] 0.039 sec [ext/0/rel 0 (0,25)] [main] 15 sierpnia Matki Boskiej Pilicy
+[Wed Sep  8 12:11:37.385 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 15 sierpnia Matki Boskiej
+[Wed Sep  8 16:30:28.394 2010] 0.000 sec [scan/0/rel 654 (0,25)] [main] 
+[Thu Sep  9 07:06:37.263 2010] 0.036 sec [ext/0/rel 0 (0,25)] [main] rozklad jazdy
+[Thu Sep  9 09:42:28.920 2010] 0.041 sec [ext/0/rel 0 (0,25)] [main] zespół szkół im oskara langego
+[Thu Sep  9 09:42:37.006 2010] 0.621 sec [ext/0/rel 2 (0,25)] [main] ekonomik
+[Thu Sep  9 09:42:50.064 2010] 0.081 sec [ext/0/rel 1 (0,25)] [main] lip dub
+[Thu Sep  9 10:50:00.592 2010] 0.026 sec [ext/0/rel 40 (0,25)] [main] szczekociny
+[Thu Sep  9 11:10:33.270 2010] 0.000 sec [ext/0/rel 40 (0,25)] [main] szczekociny
+[Thu Sep  9 11:12:25.206 2010] 0.000 sec [ext/0/rel 40 (0,25)] [main] szczekociny
+[Thu Sep  9 11:17:51.142 2010] 0.000 sec [ext/0/rel 40 (0,25)] [main] szczekociny
+[Thu Sep  9 11:19:48.161 2010] 0.000 sec [ext/0/rel 40 (25,25)] [main] szczekociny
+[Thu Sep  9 16:02:09.776 2010] 0.000 sec [scan/0/rel 654 (0,25)] [main] 
+[Thu Sep  9 16:02:19.113 2010] 0.034 sec [ext/0/rel 1 (0,25)] [main] jasełka
+[Fri Sep 10 09:54:12.070 2010] 0.041 sec [ext/0/rel 15 (0,25)] [main] szpital zawiercie
+[Fri Sep 10 10:31:57.836 2010] 0.042 sec [ext/0/rel 1 (0,25)] [main] spotkanie z drzewem
+[Fri Sep 10 14:19:43.521 2010] 0.000 sec [scan/0/rel 688 (0,25)] [main] 
+[Sat Sep 11 10:34:01.166 2010] 0.061 sec [ext/0/rel 42 (0,25)] [main] szczekociny
+[Sat Sep 11 22:21:05.043 2010] 0.019 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Sun Sep 12 18:57:03.285 2010] 0.133 sec [ext/0/rel 7 (0,25)] [main] wysoka
+[Sun Sep 12 21:54:42.022 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] smierc pawła
+[Sun Sep 12 21:56:05.140 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] smiertelne potracenie
+[Sun Sep 12 21:56:15.518 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] smiertelne potrącenie
+[Sun Sep 12 21:56:17.864 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] smiertelne potrącenie
+[Sun Sep 12 22:56:55.112 2010] 0.021 sec [ext/0/rel 1 (0,25)] [main] pawel
+[Sun Sep 12 22:57:06.322 2010] 0.040 sec [ext/0/rel 34 (0,25)] [main] pawła
+[Mon Sep 13 11:46:41.983 2010] 0.171 sec [ext/0/rel 4 (0,25)] [main] chruszczobród
+[Mon Sep 13 19:43:08.396 2010] 0.265 sec [ext/0/rel 16 (0,25)] [main] praca
+[Mon Sep 13 19:43:55.866 2010] 0.074 sec [ext/0/rel 2 (0,25)] [main] oferty pracy
+[Mon Sep 13 22:07:09.967 2010] 0.030 sec [ext/0/rel 42 (0,25)] [main] szczekociny
+[Mon Sep 13 23:02:31.717 2010] 0.029 sec [ext/0/rel 23 (0,25)] [main] warty
+[Mon Sep 13 23:02:50.241 2010] 0.348 sec [ext/0/rel 2 (0,25)] [main] dzielnica zawiercia -warty
+[Mon Sep 13 23:14:16.486 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] dzielnica zawiercia -warty
+[Mon Sep 13 23:15:20.921 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] dzielnica zawiercia -warty
+[Mon Sep 13 23:15:24.403 2010] 0.000 sec [ext/0/rel 23 (0,25)] [main] warty
+[Tue Sep 14 09:22:15.079 2010] 0.037 sec [ext/0/rel 0 (0,25)] [main] rozkład jazdy autobusów
+[Tue Sep 14 14:19:55.011 2010] 0.025 sec [ext/0/rel 42 (0,25)] [main] szczekociny
+[Tue Sep 14 14:49:55.116 2010] 0.020 sec [ext/0/rel 1 (0,25)] [main] gruszczyński
+[Tue Sep 14 14:50:02.392 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] gruszczyński
+[Tue Sep 14 16:55:44.122 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] baza1l
+[Tue Sep 14 16:56:03.918 2010] 0.023 sec [ext/0/rel 2 (0,25)] [main] baza 1l
+[Tue Sep 14 16:56:58.980 2010] 0.102 sec [ext/0/rel 19 (0,25)] [main] dni zawiercia
+[Tue Sep 14 19:26:37.761 2010] 0.407 sec [ext/0/rel 8 (0,25)] [main] dożynki
+[Thu Sep 16 12:31:16.338 2010] 1.667 sec [ext/0/rel 0 (0,25)] [main] dojazd z zawiercia do włodowic
+[Thu Sep 16 14:42:30.739 2010] 0.028 sec [ext/0/rel 16 (0,25)] [main] praca
+[Thu Sep 16 18:19:08.698 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] cero-bud
+[Thu Sep 16 18:19:34.976 2010] 0.475 sec [ext/0/rel 1 (0,25)] [main] creo-bud
+[Fri Sep 17 07:05:49.472 2010] 0.031 sec [ext/0/rel 0 (0,25)] [main] odlewnia żeliwa
+[Fri Sep 17 07:07:07.624 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wyłaczenie prądu w odlewni
+[Fri Sep 17 12:29:12.079 2010] 0.047 sec [ext/0/rel 2 (0,25)] [main] niegowa
+[Fri Sep 17 12:29:32.108 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] muszczek
+[Fri Sep 17 12:29:43.190 2010] 0.013 sec [ext/0/rel 28 (0,25)] [main] myszków
+[Fri Sep 17 12:31:38.462 2010] 0.000 sec [ext/0/rel 28 (25,25)] [main] myszków
+[Fri Sep 17 13:29:13.450 2010] 0.026 sec [ext/0/rel 42 (0,25)] [main] Kroczyce
+[Fri Sep 17 13:30:23.621 2010] 0.000 sec [ext/0/rel 42 (0,25)] [main] Kroczyce
+[Fri Sep 17 13:54:46.152 2010] 0.000 sec [ext/0/rel 42 (0,25)] [main] Kroczyce
+[Fri Sep 17 13:55:57.953 2010] 0.000 sec [ext/0/rel 42 (0,25)] [main] Kroczyce
+[Sat Sep 18 10:39:30.803 2010] 0.091 sec [ext/0/rel 17 (0,25)] [main] wybory
+[Sat Sep 18 10:40:11.508 2010] 0.035 sec [ext/0/rel 4 (0,25)] [main] wybory samorządowe
+[Sat Sep 18 10:45:12.824 2010] 0.000 sec [ext/0/rel 17 (0,25)] [main] wybory
+[Sat Sep 18 10:45:24.658 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] wybory samorządowe
+[Sat Sep 18 22:15:54.701 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zdjecia piasek publicznosc
+[Sat Sep 18 22:16:17.825 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zdjecia piasek koncert
+[Mon Sep 20 12:15:08.123 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] lanos
+[Mon Sep 20 12:15:16.688 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] piotr z.
+[Mon Sep 20 12:15:25.255 2010] 0.000 sec [ext/0/rel 14 (0,25)] [main] sarnów
+[Mon Sep 20 13:02:09.928 2010] 0.000 sec [ext/0/rel 17 (0,25)] [main] praca
+[Mon Sep 20 18:35:39.276 2010] 1.108 sec [ext/0/rel 1 (0,25)] [main] koncert finałowy 9 września
+[Tue Sep 21 17:49:19.441 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] rondo
+[Tue Sep 21 17:50:39.614 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] rondo
+[Tue Sep 21 18:19:24.229 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] tenis
+[Tue Sep 21 18:19:43.714 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] tenis stołowy
+[Tue Sep 21 20:20:31.625 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] WOPR
+[Wed Sep 22 13:54:41.003 2010] 0.045 sec [ext/0/rel 17 (0,25)] [main] Ryszard Mach
+[Wed Sep 22 14:50:13.076 2010] 0.047 sec [ext/0/rel 0 (0,25)] [main] 2 rajd porębski
+[Wed Sep 22 14:50:22.107 2010] 0.031 sec [ext/0/rel 4 (0,25)] [main] mateusz kot
+[Wed Sep 22 18:43:24.254 2010] 0.125 sec [ext/0/rel 2 (0,25)] [main] niedzielski
+[Wed Sep 22 18:52:36.952 2010] 0.591 sec [ext/0/rel 4 (0,25)] [main] brzostek
+[Thu Sep 23 22:56:46.238 2010] 0.179 sec [ext/0/rel 17 (0,25)] [main] praca
+[Fri Sep 24 10:04:33.630 2010] 0.024 sec [ext/0/rel 17 (0,25)] [main] praca
+[Fri Sep 24 10:28:08.300 2010] 0.141 sec [ext/0/rel 0 (0,25)] [main] Ja wam jeszcze pokażę
+[Fri Sep 24 10:34:31.208 2010] 0.055 sec [ext/0/rel 7 (0,25)] [main] Nr 27
+[Fri Sep 24 10:34:54.516 2010] 0.400 sec [ext/0/rel 0 (0,25)] [main] wydanie z 24.09.2010
+[Fri Sep 24 10:35:26.131 2010] 0.020 sec [ext/0/rel 0 (0,25)] [main] artykuł "Ja wam jeszcze pokażę"
+[Fri Sep 24 10:41:19.313 2010] 0.019 sec [scan/0/rel 722 (0,25)] [main] 
+[Fri Sep 24 10:41:41.688 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 24.09.2010
+[Fri Sep 24 10:44:07.375 2010] 0.000 sec [scan/0/rel 722 (0,25)] [main] 
+[Fri Sep 24 10:44:28.929 2010] 0.022 sec [ext/0/rel 0 (0,25)] [main] ja wam jeszcze pokaze
+[Fri Sep 24 10:56:49.070 2010] 0.462 sec [ext/0/rel 0 (0,25)] [main] józefa kucharska
+[Fri Sep 24 11:59:25.152 2010] 0.061 sec [ext/0/rel 0 (0,25)] [main] wypoczynek w G
+[Fri Sep 24 11:59:41.547 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] wypoczynek
+[Fri Sep 24 12:26:26.271 2010] 0.000 sec [scan/0/rel 722 (0,25)] [main] 
+[Fri Sep 24 12:29:04.280 2010] 0.027 sec [ext/0/rel 7 (0,25)] [main] wydarzenia
+[Fri Sep 24 13:39:24.326 2010] 0.070 sec [ext/0/rel 1 (0,25)] [main] nowe przedszkole zawiercie
+[Fri Sep 24 13:40:05.847 2010] 0.041 sec [ext/0/rel 0 (0,25)] [main] przedszkole zawiercie ul. Wyszyńskiego
+[Fri Sep 24 13:40:15.803 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] nowe przedszkole zawiercie
+[Fri Sep 24 15:05:53.175 2010] 0.000 sec [scan/0/rel 759 (0,25)] [main] 
+[Fri Sep 24 20:45:35.606 2010] 0.440 sec [ext/0/rel 7 (0,25)] [main] sm
+[Sat Sep 25 13:05:55.242 2010] 0.016 sec [scan/0/rel 759 (0,25)] [main] 
+[Sat Sep 25 13:05:56.429 2010] 0.000 sec [scan/0/rel 759 (0,25)] [main] 
+[Sat Sep 25 13:05:56.662 2010] 0.000 sec [scan/0/rel 759 (0,25)] [main] 
+[Sat Sep 25 13:05:56.949 2010] 0.000 sec [scan/0/rel 759 (0,25)] [main] 
+[Sat Sep 25 13:06:37.302 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] WYSTEM.ROMUW
+[Sat Sep 25 13:06:37.476 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] WYSTEM.ROMUW
+[Sat Sep 25 13:06:50.546 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] WYSTEM.ROMUW
+[Sat Sep 25 17:02:44.073 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Sun Sep 26 13:32:27.181 2010] 0.071 sec [ext/0/rel 10 (0,25)] [main] osp pilica
+[Sun Sep 26 20:26:57.787 2010] 0.072 sec [ext/0/rel 1 (0,25)] [main] marlena bednarska
+[Sun Sep 26 21:33:55.062 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] przedzszkole nr1
+[Sun Sep 26 21:34:00.723 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] przedzszkole
+[Sun Sep 26 21:34:02.735 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] przedzszkole
+[Sun Sep 26 21:34:04.904 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] przedzszkolu
+[Sun Sep 26 21:34:11.776 2010] 0.037 sec [ext/0/rel 9 (0,25)] [main] przedszkolu
+[Sun Sep 26 23:19:06.809 2010] 0.028 sec [ext/0/rel 2 (0,25)] [main] wierzbowskich
+[Mon Sep 27 09:04:31.236 2010] 0.034 sec [ext/0/rel 13 (0,25)] [main] fundacja
+[Mon Sep 27 09:04:42.637 2010] 0.061 sec [ext/0/rel 8 (0,25)] [main] serca
+[Mon Sep 27 10:24:59.545 2010] 0.039 sec [ext/0/rel 0 (0,25)] [main] kamila Gębka
+[Mon Sep 27 12:40:15.313 2010] 0.040 sec [ext/0/rel 18 (0,25)] [main] praca
+[Mon Sep 27 12:41:34.882 2010] 0.992 sec [ext/0/rel 2 (0,25)] [main] oferty pracy
+[Mon Sep 27 12:42:10.107 2010] 0.025 sec [ext/0/rel 2 (0,25)] [main] oferty pracy zawiercie
+[Mon Sep 27 17:40:00.569 2010] 0.012 sec [ext/0/rel 31 (0,25)] [main] banach
+[Mon Sep 27 17:40:18.943 2010] 0.000 sec [ext/0/rel 31 (25,25)] [main] banach
+[Mon Sep 27 21:38:35.889 2010] 0.024 sec [ext/0/rel 3 (0,25)] [main] Gmina Irządze
+[Mon Sep 27 21:39:12.914 2010] 0.236 sec [ext/0/rel 0 (0,25)] [main] Cmentarz w Gminie Irządze
+[Mon Sep 27 21:39:35.487 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] Cmentarz
+[Tue Sep 28 09:35:50.364 2010] 0.031 sec [ext/0/rel 0 (0,25)] [main] dorpol
+[Tue Sep 28 12:26:14.658 2010] 0.012 sec [ext/0/rel 46 (0,25)] [main] szczekociny
+[Tue Sep 28 20:20:37.282 2010] 0.026 sec [ext/0/rel 0 (0,25)] [main] Zawody piłki ręcznej dziewcząt
+[Thu Sep 30 12:39:41.804 2010] 0.120 sec [ext/0/rel 0 (0,25)] [main] sesja w Kroczycach
+[Thu Sep 30 12:39:58.094 2010] 0.340 sec [ext/0/rel 0 (0,25)] [main] samorząd Kroczycach
+[Thu Sep 30 12:40:11.360 2010] 0.000 sec [ext/0/rel 13 (0,25)] [main] Kroczycach
+[Thu Sep 30 13:42:51.678 2010] 0.020 sec [ext/0/rel 5 (0,25)] [main] morsko
+[Thu Sep 30 13:48:48.255 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Thu Sep 30 16:15:21.731 2010] 0.020 sec [ext/0/rel 13 (0,25)] [main] mieszkania
+[Thu Sep 30 22:04:07.075 2010] 0.043 sec [ext/0/rel 6 (0,25)] [main] mops
+[Thu Sep 30 22:04:21.331 2010] 0.034 sec [ext/0/rel 6 (0,25)] [main] mops zawiercie\
+[Thu Sep 30 22:04:24.682 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] mops zawiercie
+[Fri Oct  1 00:22:08.498 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] piatek
+[Fri Oct  1 11:47:34.376 2010] 0.072 sec [ext/0/rel 1 (0,25)] [main] daglezja
+[Fri Oct  1 11:48:21.173 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] daglezja
+[Fri Oct  1 13:33:31.960 2010] 0.038 sec [ext/0/rel 0 (0,25)] [main] józefa kucharska
+[Fri Oct  1 13:34:01.740 2010] 0.041 sec [ext/0/rel 6 (0,25)] [main] wiatr
+[Fri Oct  1 16:31:25.117 2010] 0.060 sec [ext/0/rel 0 (0,25)] [main] Zginął chłopak
+[Fri Oct  1 16:31:33.888 2010] 0.478 sec [ext/0/rel 1 (0,25)] [main] Tragiczny Wypadek
+[Fri Oct  1 16:31:58.898 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypadekna drodze do siewierza
+[Fri Oct  1 16:32:08.149 2010] 0.000 sec [ext/0/rel 13 (0,25)] [main] wypadek
+[Fri Oct  1 16:32:29.745 2010] 0.000 sec [ext/0/rel 11 (0,25)] [main] zginął
+[Fri Oct  1 16:33:40.405 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] pisara
+[Fri Oct  1 16:33:51.628 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] potrącił
+[Fri Oct  1 16:34:01.954 2010] 0.000 sec [ext/0/rel 225 (0,25)] [main] mpp
+[Fri Oct  1 16:34:31.543 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Monika Polak-Palęga
+[Fri Oct  1 16:34:41.836 2010] 0.000 sec [ext/0/rel 13 (0,25)] [main] wypadek
+[Fri Oct  1 16:35:21.703 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] II rajd porębski
+[Fri Oct  1 20:04:09.749 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] agnieszka dziubałtowska
+[Fri Oct  1 20:07:31.263 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dziubałtowski
+[Fri Oct  1 20:07:44.322 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] agnieszka kania
+[Fri Oct  1 21:15:33.465 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] bajer band
+[Fri Oct  1 21:15:54.921 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] bajer band
+[Sat Oct  2 17:48:17.681 2010] 0.040 sec [ext/0/rel 5 (0,25)] [main] Mateusz Kot
+[Sun Oct  3 06:37:11.008 2010] 0.048 sec [ext/0/rel 2 (0,25)] [main] KELTON
+[Sun Oct  3 15:01:54.493 2010] 0.056 sec [ext/0/rel 1 (0,25)] [main] dyrektor zkm
+[Mon Oct  4 13:55:22.021 2010] 0.019 sec [ext/0/rel 0 (0,25)] [main] nr.5
+[Mon Oct  4 13:55:35.295 2010] 0.702 sec [ext/0/rel 3 (0,25)] [main] osp niwki
+[Mon Oct  4 14:36:36.983 2010] 0.430 sec [ext/0/rel 13 (0,25)] [main] pttk zawiercie
+[Mon Oct  4 15:47:28.627 2010] 0.024 sec [ext/0/rel 0 (0,25)] [main] józefa kucharska
+[Mon Oct  4 18:34:29.042 2010] 0.074 sec [ext/0/rel 2 (0,25)] [main] porębska
+[Mon Oct  4 18:38:03.073 2010] 0.041 sec [ext/0/rel 2 (0,25)] [main] porębskiej
+[Tue Oct  5 09:33:21.801 2010] 0.063 sec [ext/0/rel 0 (0,25)] [main] do wynajecia
+[Tue Oct  5 12:52:36.340 2010] 0.021 sec [ext/0/rel 0 (0,25)] [main] Józefa Kucharska
+[Tue Oct  5 20:33:13.223 2010] 0.224 sec [ext/0/rel 0 (0,25)] [main] wypadek w zawierciu-bzowie
+[Tue Oct  5 20:33:39.211 2010] 0.196 sec [ext/0/rel 0 (0,25)] [main] po pijaku skasował passata za 100 tyś zł
+[Wed Oct  6 14:22:35.687 2010] 0.049 sec [ext/0/rel 13 (0,25)] [main] pttk zawiercie
+[Thu Oct  7 19:35:07.810 2010] 0.034 sec [ext/0/rel 7 (0,25)] [main] gębka
+[Thu Oct  7 19:35:11.479 2010] 0.000 sec [ext/0/rel 7 (0,25)] [main] gębka
+[Thu Oct  7 21:59:52.063 2010] 0.024 sec [ext/0/rel 2 (0,25)] [main] Jakub Wnuk
+[Fri Oct  8 11:17:50.069 2010] 0.025 sec [ext/0/rel 0 (0,25)] [main] Józefa Kucharska
+[Fri Oct  8 17:54:08.717 2010] 0.013 sec [ext/0/rel 1 (0,25)] [main] narkotyki w domu w zawierciu
+[Fri Oct  8 17:54:57.322 2010] 0.148 sec [ext/0/rel 1 (0,25)] [main] justyna pilis
+[Fri Oct  8 17:55:24.283 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] justyna pilis
+[Sat Oct  9 19:03:03.466 2010] 0.027 sec [ext/0/rel 2 (0,25)] [main] czwartaków
+[Sat Oct  9 19:03:03.609 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] czwartaków
+[Sat Oct  9 19:03:48.032 2010] 0.023 sec [ext/0/rel 6 (0,25)] [main] bzów
+[Sat Oct  9 19:06:16.734 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] bzów
+[Sat Oct  9 19:07:15.571 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] bzów
+[Sat Oct  9 19:07:27.817 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] bzów
+[Sat Oct  9 19:07:36.954 2010] 0.023 sec [ext/0/rel 40 (0,25)] [main] kromołów
+[Sat Oct  9 19:08:01.707 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] fugasówka
+[Sat Oct  9 19:08:10.690 2010] 0.031 sec [ext/0/rel 399 (0,25)] [main] zawiercie
+[Sat Oct  9 19:08:44.545 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] bzów
+[Sat Oct  9 19:57:38.329 2010] 0.028 sec [ext/0/rel 0 (0,25)] [main] zawody strażackie
+[Sat Oct  9 20:19:34.088 2010] 0.020 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Sat Oct  9 21:09:54.438 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] bzów
+[Sat Oct  9 21:13:16.528 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] bzów
+[Sat Oct  9 21:13:44.302 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] bzów
+[Sun Oct 10 13:23:59.769 2010] 0.032 sec [ext/0/rel 1 (0,25)] [main] włodzimierz spyra
+[Sun Oct 10 15:56:53.796 2010] 0.025 sec [ext/0/rel 2 (0,25)] [main] telewizory
+[Sun Oct 10 20:03:59.187 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kronika policyjna
+[Sun Oct 10 20:04:05.875 2010] 0.136 sec [ext/0/rel 9 (0,25)] [main] GMINA ŻARNOWIEC
+[Sun Oct 10 20:05:11.225 2010] 0.054 sec [ext/0/rel 0 (0,25)] [main] kobieta zaczadzila sie w myszkowie
+[Sun Oct 10 20:05:27.569 2010] 0.025 sec [ext/0/rel 32 (0,25)] [main] myszkow
+[Sun Oct 10 20:06:04.065 2010] 0.000 sec [ext/0/rel 32 (25,25)] [main] myszkow
+[Sun Oct 10 21:49:00.076 2010] 0.031 sec [ext/0/rel 16 (0,25)] [main] ruch
+[Mon Oct 11 09:00:58.562 2010] 0.013 sec [ext/0/rel 0 (0,25)] [main] idnianie
+[Mon Oct 11 09:01:02.790 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] idianie
+[Mon Oct 11 09:01:05.586 2010] 0.057 sec [ext/0/rel 2 (0,25)] [main] indianie
+[Mon Oct 11 11:36:51.854 2010] 0.299 sec [ext/0/rel 1 (0,25)] [main] bar u kromola w kromołowie
+[Mon Oct 11 11:56:06.830 2010] 1.128 sec [ext/0/rel 3 (0,25)] [main] przebudowa ciągu dróg powiatowych
+[Mon Oct 11 15:27:47.256 2010] 0.091 sec [ext/0/rel 10 (0,25)] [main] ściany
+[Mon Oct 11 17:37:32.657 2010] 0.301 sec [ext/0/rel 1 (0,25)] [main] BUDOWA BLOKÓW KOMUNALNYCH
+[Mon Oct 11 17:37:36.552 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] BUDOWA BLOKÓW KOMUNALNYCH
+[Mon Oct 11 20:07:52.703 2010] 0.043 sec [ext/0/rel 3 (0,25)] [main] oravia
+[Mon Oct 11 21:40:49.687 2010] 0.050 sec [ext/0/rel 17 (0,25)] [main] ks giebło
+[Tue Oct 12 07:13:12.276 2010] 0.076 sec [ext/0/rel 3 (0,25)] [main] przebudowa ciągu dróg Zawiercia
+[Tue Oct 12 08:19:53.720 2010] 0.052 sec [ext/0/rel 1 (0,25)] [main] monarchia
+[Tue Oct 12 09:31:26.633 2010] 0.030 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg
+[Tue Oct 12 11:42:50.336 2010] 0.064 sec [ext/0/rel 0 (0,25)] [main] Jurajska gonitwa za lisem
+[Tue Oct 12 11:43:17.584 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] prenumerata
+[Tue Oct 12 12:08:03.731 2010] 0.035 sec [ext/0/rel 48 (0,25)] [main] Kroczyce
+[Tue Oct 12 12:18:22.947 2010] 0.000 sec [ext/0/rel 48 (0,25)] [main] Kroczyce
+[Tue Oct 12 12:22:25.344 2010] 0.000 sec [ext/0/rel 48 (0,25)] [main] Kroczyce
+[Tue Oct 12 13:32:35.103 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] prenumerata
+[Tue Oct 12 23:00:13.257 2010] 0.035 sec [ext/0/rel 3 (0,25)] [main] flak
+[Tue Oct 12 23:05:13.627 2010] 0.026 sec [ext/0/rel 21 (0,25)] [main] praca
+[Tue Oct 12 23:05:19.538 2010] 0.000 sec [ext/0/rel 21 (0,25)] [main] praca
+[Tue Oct 12 23:05:30.484 2010] 0.000 sec [ext/0/rel 21 (0,25)] [main] praca
+[Tue Oct 12 23:07:53.956 2010] 0.000 sec [ext/0/rel 21 (0,25)] [main] praca
+[Tue Oct 12 23:07:56.177 2010] 0.000 sec [ext/0/rel 21 (0,25)] [main] praca
+[Wed Oct 13 09:05:46.150 2010] 0.047 sec [ext/0/rel 0 (0,25)] [main] napad na kobietę
+[Wed Oct 13 09:06:11.718 2010] 0.015 sec [ext/0/rel 0 (0,25)] [main] napad kobieta Danuta
+[Wed Oct 13 10:28:53.618 2010] 0.045 sec [ext/0/rel 32 (0,25)] [main] cmc
+[Wed Oct 13 10:47:46.077 2010] 0.016 sec [ext/0/rel 48 (0,25)] [main] kroczyce
+[Wed Oct 13 10:58:06.515 2010] 0.000 sec [ext/0/rel 48 (0,25)] [main] kroczyce
+[Wed Oct 13 10:58:19.974 2010] 0.000 sec [ext/0/rel 48 (0,25)] [main] kroczyce
+[Wed Oct 13 11:13:15.929 2010] 0.032 sec [ext/0/rel 6 (0,25)] [main] konie
+[Wed Oct 13 12:04:55.719 2010] 0.042 sec [ext/0/rel 52 (0,25)] [main] szczekociny
+[Wed Oct 13 13:18:24.404 2010] 0.069 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Wed Oct 13 16:28:44.768 2010] 0.082 sec [ext/0/rel 3 (0,25)] [main] konarski
+[Wed Oct 13 17:31:48.584 2010] 0.135 sec [ext/0/rel 0 (0,25)] [main] zmagania matematyczne
+[Wed Oct 13 17:32:12.667 2010] 0.127 sec [ext/0/rel 0 (0,25)] [main] piłka ręczna
+[Wed Oct 13 22:49:16.037 2010] 0.893 sec [ext/0/rel 1 (0,25)] [main] kandydaci na radnych
+[Thu Oct 14 10:15:35.845 2010] 0.045 sec [ext/0/rel 21 (0,25)] [main] praca
+[Thu Oct 14 11:35:37.788 2010] 0.016 sec [ext/0/rel 0 (0,25)] [main] Michał Zabłocki
+[Thu Oct 14 11:35:47.763 2010] 0.074 sec [ext/0/rel 5 (0,25)] [main] mateusz kot
+[Thu Oct 14 12:03:13.571 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zlote gody 2010
+[Thu Oct 14 22:14:27.284 2010] 0.039 sec [ext/0/rel 0 (0,25)] [main] 15 pazdziernik
+[Fri Oct 15 09:23:04.465 2010] 0.070 sec [ext/0/rel 14 (0,25)] [main] ronda
+[Fri Oct 15 09:45:48.071 2010] 0.084 sec [ext/0/rel 3 (0,25)] [main] blanowice
+[Fri Oct 15 10:23:57.763 2010] 0.046 sec [ext/0/rel 21 (0,25)] [main] Praca
+[Fri Oct 15 10:26:07.143 2010] 0.000 sec [ext/0/rel 21 (0,25)] [main] Praca
+[Fri Oct 15 10:26:15.254 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] praca dla studentów Zawiercie
+[Fri Oct 15 10:42:17.945 2010] 0.013 sec [ext/0/rel 14 (0,25)] [main] pies
+[Fri Oct 15 11:01:05.466 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nieludzka przemoc
+[Fri Oct 15 11:01:16.924 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bity głodzony
+[Fri Oct 15 11:01:28.706 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bity głodzony
+[Fri Oct 15 12:57:34.622 2010] 0.046 sec [ext/0/rel 2 (0,25)] [main] comenius
+[Fri Oct 15 14:23:06.329 2010] 0.024 sec [ext/0/rel 2 (0,25)] [main] roman flak
+[Fri Oct 15 17:01:19.533 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] gonitwa za lisem
+[Fri Oct 15 21:16:03.743 2010] 0.031 sec [ext/0/rel 5 (0,25)] [main] rondo
+[Sat Oct 16 09:40:56.354 2010] 0.025 sec [ext/0/rel 1 (0,25)] [main] spotkanie z drzewem
+[Sat Oct 16 10:03:27.603 2010] 0.039 sec [ext/0/rel 1 (0,25)] [main] promax
+[Sat Oct 16 10:27:53.645 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] spotkanie z drzewem
+[Sat Oct 16 13:46:10.393 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zlote gody
+[Sat Oct 16 15:31:40.434 2010] 0.052 sec [ext/0/rel 18 (0,25)] [main] viret
+[Sat Oct 16 15:33:57.767 2010] 0.450 sec [ext/0/rel 6 (0,25)] [main] żywiec
+[Sat Oct 16 15:35:57.331 2010] 0.014 sec [ext/0/rel 6 (0,25)] [main] szata
+[Sat Oct 16 15:36:59.343 2010] 0.341 sec [ext/0/rel 1 (0,25)] [main] zemła
+[Sun Oct 17 07:58:59.679 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] towarzyskie
+[Sun Oct 17 13:45:44.122 2010] 0.057 sec [ext/0/rel 0 (0,25)] [main] projekty sfinansowane przez UE
+[Sun Oct 17 20:16:41.681 2010] 0.023 sec [ext/0/rel 10 (0,25)] [main] huta
+[Sun Oct 17 20:18:55.500 2010] 0.045 sec [ext/0/rel 32 (0,25)] [main] cmc
+[Sun Oct 17 20:21:47.393 2010] 0.000 sec [ext/0/rel 32 (0,25)] [main] cmc
+[Sun Oct 17 21:23:45.990 2010] 0.100 sec [ext/0/rel 48 (0,25)] [main] kroczyce
+[Sun Oct 17 21:25:00.991 2010] 0.000 sec [ext/0/rel 48 (25,25)] [main] kroczyce
+[Sun Oct 17 21:25:43.982 2010] 0.090 sec [ext/0/rel 3 (0,25)] [main] perła jury
+[Sun Oct 17 21:26:13.406 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] gonitwa za lisem
+[Sun Oct 17 23:01:13.627 2010] 0.070 sec [ext/0/rel 21 (0,25)] [main] szpital
+[Mon Oct 18 12:21:28.127 2010] 0.185 sec [ext/0/rel 2 (0,25)] [main] rathdowney
+[Mon Oct 18 15:27:01.263 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kadytaci na prezydenta
+[Mon Oct 18 16:15:16.294 2010] 0.000 sec [scan/0/rel 824 (0,25)] [main] 
+[Mon Oct 18 16:15:17.351 2010] 0.000 sec [scan/0/rel 824 (0,25)] [main] 
+[Mon Oct 18 16:15:17.513 2010] 0.000 sec [scan/0/rel 824 (0,25)] [main] 
+[Mon Oct 18 16:15:50.660 2010] 0.000 sec [scan/0/rel 824 (50,25)] [main] 
+[Mon Oct 18 16:16:11.939 2010] 0.000 sec [scan/0/rel 824 (75,25)] [main] 
+[Mon Oct 18 16:16:29.070 2010] 0.000 sec [scan/0/rel 824 (100,25)] [main] 
+[Mon Oct 18 16:16:41.032 2010] 0.154 sec [ext/0/rel 5 (0,25)] [main] fum
+[Mon Oct 18 16:16:48.594 2010] 0.000 sec [scan/0/rel 824 (125,25)] [main] 
+[Mon Oct 18 16:17:05.087 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] poński
+[Mon Oct 18 16:56:47.346 2010] 0.000 sec [scan/0/rel 859 (0,25)] [main] 
+[Mon Oct 18 16:56:55.531 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] camaro
+[Mon Oct 18 18:15:46.436 2010] 0.000 sec [ext/0/rel 102 (0,25)] [main] łazy
+[Mon Oct 18 18:16:32.875 2010] 0.000 sec [ext/0/rel 102 (25,25)] [main] łazy
+[Mon Oct 18 18:19:02.276 2010] 0.000 sec [ext/0/rel 12 (0,25)] [main] kaczyński maciej
+[Mon Oct 18 18:19:51.140 2010] 0.000 sec [ext/0/rel 9 (0,25)] [main] rokitno szlacheckie
+[Mon Oct 18 22:55:50.416 2010] 0.034 sec [ext/0/rel 2 (0,25)] [main] tadeusz czop
+[Tue Oct 19 09:09:42.138 2010] 0.073 sec [ext/0/rel 6 (0,25)] [main] bzowa
+[Tue Oct 19 14:43:29.689 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] sikorkiego
+[Tue Oct 19 14:43:33.035 2010] 0.023 sec [ext/0/rel 3 (0,25)] [main] pomnik
+[Tue Oct 19 15:57:18.401 2010] 0.038 sec [ext/0/rel 2 (0,25)] [main] wspomnienie zjazdu rodziny
+[Tue Oct 19 19:47:38.305 2010] 0.033 sec [ext/0/rel 4 (0,25)] [main] LKS Źródło Kromołów
+[Tue Oct 19 22:51:21.610 2010] 0.065 sec [ext/0/rel 0 (0,25)] [main] rtg i usg
+[Tue Oct 19 22:51:31.312 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] rtg
+[Wed Oct 20 12:51:39.009 2010] 0.030 sec [ext/0/rel 4 (0,25)] [main] dopalacze
+[Wed Oct 20 14:12:21.452 2010] 0.216 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Wed Oct 20 17:07:03.550 2010] 0.000 sec [scan/0/rel 859 (0,25)] [main] 
+[Wed Oct 20 17:08:18.851 2010] 0.000 sec [scan/0/rel 859 (25,25)] [main] 
+[Wed Oct 20 17:17:14.582 2010] 0.000 sec [scan/0/rel 859 (25,25)] [main] 
+[Wed Oct 20 17:17:15.616 2010] 0.000 sec [scan/0/rel 859 (0,25)] [main] 
+[Wed Oct 20 20:11:19.833 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] turniejjednegowiersza
+[Wed Oct 20 20:11:42.476 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kozina
+[Wed Oct 20 20:12:10.719 2010] 0.055 sec [ext/0/rel 1 (0,25)] [main] kochowski
+[Thu Oct 21 12:39:17.879 2010] 0.073 sec [ext/0/rel 25 (0,25)] [main] ryszard mach
+[Thu Oct 21 13:45:29.172 2010] 0.000 sec [ext/0/rel 25 (0,25)] [main] ryszard mach
+[Thu Oct 21 13:53:23.992 2010] 0.000 sec [ext/0/rel 25 (0,25)] [main] ryszard mach
+[Thu Oct 21 14:19:07.120 2010] 0.000 sec [ext/0/rel 27 (0,25)] [main] mach
+[Thu Oct 21 15:25:18.439 2010] 0.116 sec [ext/0/rel 0 (0,25)] [main] ciechanowicz kazimierz
+[Fri Oct 22 02:36:38.178 2010] 0.063 sec [ext/0/rel 2 (0,25)] [main] tadeusz czop
+[Fri Oct 22 14:21:15.907 2010] 0.042 sec [ext/0/rel 0 (0,25)] [main] harcerskie akcje
+[Fri Oct 22 14:41:54.106 2010] 0.040 sec [ext/0/rel 2 (0,25)] [main] czop
+[Fri Oct 22 15:10:33.247 2010] 0.025 sec [ext/0/rel 3 (0,25)] [main] dodatek
+[Fri Oct 22 15:10:52.873 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] czop
+[Fri Oct 22 18:05:24.466 2010] 0.025 sec [ext/0/rel 0 (0,25)] [main] OSY BIBLIOTECZNE
+[Fri Oct 22 21:04:36.420 2010] 0.229 sec [ext/0/rel 2 (0,25)] [main] czop
+[Fri Oct 22 22:44:43.380 2010] 0.035 sec [ext/0/rel 53 (0,25)] [main] szczekociny
+[Fri Oct 22 22:46:54.624 2010] 0.000 sec [ext/0/rel 53 (25,25)] [main] szczekociny
+[Fri Oct 22 22:49:44.579 2010] 0.000 sec [ext/0/rel 53 (50,25)] [main] szczekociny
+[Sat Oct 23 10:35:18.660 2010] 0.046 sec [ext/0/rel 53 (0,25)] [main] szczekociny
+[Sat Oct 23 10:39:54.406 2010] 0.040 sec [ext/0/rel 16 (0,25)] [main] rokitno
+[Sat Oct 23 12:54:12.793 2010] 0.016 sec [ext/0/rel 0 (0,25)] [main] sale bankietowe
+[Sat Oct 23 12:54:31.400 2010] 0.040 sec [ext/0/rel 9 (0,25)] [main] remizy
+[Sat Oct 23 21:37:10.816 2010] 0.035 sec [ext/0/rel 36 (0,25)] [main] włodowice
+[Sat Oct 23 21:37:24.168 2010] 0.280 sec [ext/0/rel 2 (0,25)] [main] szmukier
+[Sat Oct 23 21:37:41.988 2010] 0.042 sec [ext/0/rel 11 (0,25)] [main] szlachta
+[Sun Oct 24 11:43:40.393 2010] 0.005 sec [ext/0/rel 0 (0,25)] [main] zlote gody
+[Sun Oct 24 12:04:44.756 2010] 0.029 sec [ext/0/rel 0 (0,25)] [main] 19 pazdzirnik
+[Sun Oct 24 12:04:54.567 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 19 pazdzirnika
+[Sun Oct 24 12:05:43.847 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 19 pazdzirnika
+[Sun Oct 24 14:54:16.650 2010] 0.025 sec [ext/0/rel 1 (0,25)] [main] lista na radnych
+[Sun Oct 24 14:54:31.883 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] lista na radnych
+[Sun Oct 24 15:28:47.002 2010] 0.091 sec [ext/0/rel 3 (0,25)] [main] Łukasz Konarski
+[Sun Oct 24 15:29:04.763 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Łukasz Konarski
+[Sun Oct 24 15:29:10.635 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Łukasz Konarski
+[Sun Oct 24 17:55:27.782 2010] 0.315 sec [ext/0/rel 19 (0,25)] [main] viret
+[Sun Oct 24 18:47:23.428 2010] 0.223 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Mon Oct 25 09:40:20.455 2010] 0.034 sec [ext/0/rel 9 (0,25)] [main] pożar
+[Mon Oct 25 09:44:06.690 2010] 0.051 sec [ext/0/rel 3 (0,25)] [main] osp Niwki
+[Mon Oct 25 09:54:11.503 2010] 0.000 sec [ext/0/rel 9 (0,25)] [main] pożar
+[Mon Oct 25 09:54:24.617 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] osp Niwki
+[Mon Oct 25 09:54:43.007 2010] 0.033 sec [ext/0/rel 0 (0,25)] [main] ceny paliwa
+[Mon Oct 25 09:54:57.736 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] cenypaliwa
+[Mon Oct 25 10:45:46.182 2010] 0.038 sec [ext/0/rel 0 (0,25)] [main] harcerskie akcje
+[Mon Oct 25 11:51:53.806 2010] 0.031 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Mon Oct 25 12:04:07.590 2010] 0.094 sec [ext/0/rel 5 (0,25)] [main] marek kozieł
+[Mon Oct 25 16:12:11.998 2010] 0.053 sec [ext/0/rel 16 (0,25)] [main] Irządze
+[Mon Oct 25 18:54:07.218 2010] 0.053 sec [ext/0/rel 1 (0,25)] [main] camaro
+[Tue Oct 26 01:01:00.530 2010] 0.054 sec [ext/0/rel 15 (0,25)] [main] wypadek
+[Tue Oct 26 01:01:49.780 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wypadek 10.09.2010
+[Tue Oct 26 01:02:04.452 2010] 0.025 sec [ext/0/rel 6 (0,25)] [main] paderewskiego
+[Tue Oct 26 10:38:30.871 2010] 0.160 sec [ext/0/rel 22 (0,25)] [main] praca
+[Tue Oct 26 10:38:43.697 2010] 0.028 sec [ext/0/rel 4 (0,25)] [main] ogłoszenia
+[Tue Oct 26 11:22:50.036 2010] 0.031 sec [ext/0/rel 3 (0,25)] [main] samoobrona
+[Tue Oct 26 12:34:03.215 2010] 0.198 sec [ext/0/rel 3 (0,25)] [main] oferty pracy
+[Tue Oct 26 14:59:00.101 2010] 0.025 sec [ext/0/rel 3 (0,25)] [main] rajd zamkowy
+[Tue Oct 26 20:27:30.226 2010] 0.038 sec [ext/0/rel 0 (0,25)] [main] 3 edycja samoobrony
+[Tue Oct 26 21:29:57.353 2010] 0.030 sec [ext/0/rel 53 (0,25)] [main] szczekociny
+[Tue Oct 26 21:30:27.150 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] bonowice
+[Wed Oct 27 07:14:07.918 2010] 0.093 sec [ext/0/rel 2 (0,25)] [main] pierzchała
+[Wed Oct 27 09:13:28.460 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] poreba siewierz
+[Wed Oct 27 09:33:25.239 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] klimakterium
+[Wed Oct 27 16:37:38.194 2010] 0.033 sec [ext/0/rel 22 (0,25)] [main] praca
+[Wed Oct 27 18:06:58.159 2010] 0.035 sec [ext/0/rel 1 (0,25)] [main] turniej piłkarski
+[Wed Oct 27 18:07:26.533 2010] 0.020 sec [ext/0/rel 0 (0,25)] [main] turniej piłkarski osir
+[Wed Oct 27 18:23:14.682 2010] 0.037 sec [ext/0/rel 16 (0,25)] [main] osir zawiercie
+[Wed Oct 27 18:24:29.371 2010] 0.101 sec [ext/0/rel 0 (0,25)] [main] osir zawiercie turniej dzieci w pilce noznej
+[Wed Oct 27 18:52:01.881 2010] 0.097 sec [ext/0/rel 3 (0,25)] [main] comenius
+[Thu Oct 28 08:06:45.842 2010] 0.035 sec [ext/0/rel 14 (0,25)] [main] mazanek
+[Thu Oct 28 08:06:59.632 2010] 0.000 sec [ext/0/rel 14 (0,25)] [main] mazanek
+[Thu Oct 28 16:04:04.783 2010] 0.029 sec [ext/0/rel 36 (0,25)] [main] włodowice
+[Thu Oct 28 16:04:34.774 2010] 0.000 sec [ext/0/rel 36 (25,25)] [main] włodowice
+[Thu Oct 28 20:24:06.831 2010] 0.041 sec [ext/0/rel 10 (0,25)] [main] alkoholu
+[Thu Oct 28 20:24:29.180 2010] 0.020 sec [ext/0/rel 22 (0,25)] [main] praca
+[Thu Oct 28 20:25:06.471 2010] 0.041 sec [ext/0/rel 6 (0,25)] [main] włodzimierz s.
+[Fri Oct 29 02:07:19.155 2010] 0.209 sec [ext/0/rel 0 (0,25)] [main] biedronka
+[Fri Oct 29 02:07:25.136 2010] 0.039 sec [ext/0/rel 1 (0,25)] [main] obwodnica
+[Fri Oct 29 11:13:03.093 2010] 0.000 sec [scan/0/rel 899 (0,25)] [main] 
+[Fri Oct 29 13:38:23.922 2010] 0.000 sec [ext/0/rel 57 (0,25)] [main] szczekociny
+[Fri Oct 29 13:39:31.271 2010] 0.000 sec [ext/0/rel 57 (25,25)] [main] szczekociny
+[Fri Oct 29 13:39:54.420 2010] 0.000 sec [ext/0/rel 57 (50,25)] [main] szczekociny
+[Fri Oct 29 21:10:23.750 2010] 0.042 sec [ext/0/rel 8 (0,25)] [main] rada powiatu
+[Sat Oct 30 10:18:19.917 2010] 0.037 sec [ext/0/rel 0 (0,25)] [main] Józefa Kucharska
+[Sat Oct 30 13:02:19.471 2010] 0.075 sec [ext/0/rel 0 (0,25)] [main] wręczenie dyplomów nauczycielom
+[Sat Oct 30 13:02:50.712 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] naoczyciele
+[Sat Oct 30 13:02:59.713 2010] 0.040 sec [ext/0/rel 21 (0,25)] [main] nauczyciele
+[Sat Oct 30 13:05:09.430 2010] 0.037 sec [ext/0/rel 1 (0,25)] [main] kamińska
+[Sat Oct 30 13:05:27.814 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dyplomowani
+[Sat Oct 30 13:05:32.827 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dyplomowana
+[Sat Oct 30 13:05:47.798 2010] 0.027 sec [ext/0/rel 1 (0,25)] [main] prezydent nauczyciele
+[Sat Oct 30 13:25:26.985 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kordian karpowicz
+[Sat Oct 30 13:25:58.872 2010] 0.029 sec [ext/0/rel 3 (0,25)] [main] gazeta myszkowska
+[Sat Oct 30 16:55:43.696 2010] 0.043 sec [ext/0/rel 1 (0,25)] [main] barclay
+[Sat Oct 30 18:58:13.499 2010] 0.221 sec [ext/0/rel 8 (0,25)] [main] żywiec
+[Sat Oct 30 18:58:48.092 2010] 0.000 sec [ext/0/rel 8 (0,25)] [main] żywiec
+[Sat Oct 30 18:59:03.114 2010] 0.000 sec [ext/0/rel 8 (0,25)] [main] żywiec
+[Sat Oct 30 18:59:18.303 2010] 0.000 sec [ext/0/rel 8 (0,25)] [main] żywiec
+[Sat Oct 30 19:00:05.382 2010] 0.000 sec [ext/0/rel 8 (0,25)] [main] żywiec
+[Sat Oct 30 19:05:46.158 2010] 0.019 sec [ext/0/rel 1 (0,25)] [main] hubertus
+[Sat Oct 30 19:06:25.542 2010] 0.027 sec [ext/0/rel 2 (0,25)] [main] parkoszowice
+[Sat Oct 30 19:07:22.677 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] hubertus parkoszowice
+[Sat Oct 30 20:16:19.250 2010] 0.047 sec [ext/0/rel 13 (0,25)] [main] orlik
+[Sat Oct 30 20:16:29.821 2010] 0.083 sec [ext/0/rel 2 (0,25)] [main] orlik szczekociny
+[Sat Oct 30 20:59:31.132 2010] 0.000 sec [ext/0/rel 57 (0,25)] [main] szczekociny
+[Sat Oct 30 21:02:38.760 2010] 0.000 sec [ext/0/rel 57 (25,25)] [main] szczekociny
+[Sat Oct 30 21:58:55.268 2010] 0.023 sec [ext/0/rel 3 (0,25)] [main] czop
+[Sun Oct 31 09:09:01.599 2010] 0.123 sec [ext/0/rel 2 (0,25)] [main] orlik szczekociny
+[Mon Nov  1 14:30:27.291 2010] 0.145 sec [ext/0/rel 0 (0,25)] [main] wybory 2010 szczekociny
+[Mon Nov  1 18:41:27.714 2010] 0.000 sec [scan/0/rel 899 (0,25)] [main] 
+[Mon Nov  1 18:42:28.161 2010] 0.071 sec [ext/0/rel 0 (0,25)] [main] historia szkoły rzemieśników
+[Mon Nov  1 18:44:28.948 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nr.42
+[Mon Nov  1 18:45:12.699 2010] 0.556 sec [ext/0/rel 5 (0,25)] [main] 22 10 2010
+[Mon Nov  1 18:51:29.218 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] 22 10 2010
+[Mon Nov  1 18:52:08.869 2010] 0.000 sec [ext/0/rel 13 (0,25)] [main] historia
+[Mon Nov  1 18:52:57.319 2010] 0.102 sec [ext/0/rel 7 (0,25)] [main] kultura
+[Mon Nov  1 18:53:33.766 2010] 0.038 sec [ext/0/rel 16 (0,25)] [main] zdjęcia
+[Mon Nov  1 18:55:47.905 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] numer z dnia 22 10 2010r
+[Mon Nov  1 20:07:49.204 2010] 0.029 sec [ext/0/rel 18 (0,25)] [main] ks giebło
+[Tue Nov  2 07:41:57.191 2010] 0.183 sec [scan/0/rel 899 (0,25)] [main] 
+[Tue Nov  2 07:42:52.259 2010] 0.000 sec [scan/0/rel 899 (0,25)] [main] 
+[Tue Nov  2 07:42:58.105 2010] 0.000 sec [scan/0/rel 899 (0,25)] [main] 
+[Tue Nov  2 10:39:37.352 2010] 0.029 sec [ext/0/rel 1 (0,25)] [main] poreba
+[Tue Nov  2 10:53:21.334 2010] 0.045 sec [ext/0/rel 1 (0,25)] [main] dom dziecka
+[Tue Nov  2 10:53:33.851 2010] 1.888 sec [ext/0/rel 2 (0,25)] [main] ośrodek usług
+[Tue Nov  2 10:53:35.106 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] ośrodek usług
+[Tue Nov  2 11:47:17.293 2010] 0.050 sec [ext/0/rel 57 (0,25)] [main] szczekociny
+[Tue Nov  2 12:38:04.230 2010] 0.077 sec [ext/0/rel 2 (0,25)] [main] stachera
+[Tue Nov  2 15:28:37.856 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] pobiegna dla Polski
+[Tue Nov  2 15:28:41.823 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] pobiegną dla Polski
+[Tue Nov  2 15:28:45.693 2010] 0.043 sec [ext/0/rel 35 (0,25)] [main] dla Polski
+[Tue Nov  2 15:45:25.906 2010] 0.016 sec [ext/0/rel 6 (0,25)] [main] forum
+[Tue Nov  2 15:45:30.293 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] forum
+[Tue Nov  2 16:37:35.447 2010] 0.031 sec [ext/0/rel 57 (0,25)] [main] szczekociny
+[Tue Nov  2 16:39:49.125 2010] 0.000 sec [ext/0/rel 57 (25,25)] [main] szczekociny
+[Tue Nov  2 16:40:54.398 2010] 0.000 sec [ext/0/rel 57 (50,25)] [main] szczekociny
+[Wed Nov  3 09:00:54.087 2010] 0.096 sec [ext/0/rel 7 (0,25)] [main] bzów
+[Wed Nov  3 09:00:57.721 2010] 0.000 sec [ext/0/rel 7 (0,25)] [main] bzów
+[Wed Nov  3 09:29:21.293 2010] 0.038 sec [ext/0/rel 13 (0,25)] [main] olimpia
+[Wed Nov  3 10:55:37.679 2010] 0.190 sec [ext/0/rel 3 (0,25)] [main] tadeusz czop
+[Wed Nov  3 10:56:06.998 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] tadeusz czop
+[Wed Nov  3 18:40:29.655 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] exlusive
+[Wed Nov  3 18:41:25.420 2010] 0.580 sec [ext/0/rel 0 (0,25)] [main] pobicie niepełnosprawnego
+[Wed Nov  3 18:41:52.914 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] pobicie niepełnosprawnego
+[Wed Nov  3 18:41:56.076 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] exlusive
+[Wed Nov  3 19:47:06.042 2010] 0.044 sec [ext/0/rel 1 (0,25)] [main] Łazy mecz piłki nożnej
+[Thu Nov  4 08:17:10.224 2010] 0.071 sec [ext/0/rel 20 (0,25)] [main] kurs
+[Thu Nov  4 08:17:20.518 2010] 0.000 sec [ext/0/rel 20 (0,25)] [main] kurs
+[Thu Nov  4 09:50:11.791 2010] 0.378 sec [ext/0/rel 2 (0,25)] [main] wtz
+[Thu Nov  4 09:50:29.082 2010] 0.030 sec [ext/0/rel 35 (0,25)] [main] warsztaty
+[Thu Nov  4 09:50:41.158 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] warsztaty terapi zajęciowej
+[Thu Nov  4 09:50:46.895 2010] 0.594 sec [ext/0/rel 3 (0,25)] [main] warsztaty terapii zajęciowej
+[Thu Nov  4 09:51:18.169 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] warsztaty terapii
+[Thu Nov  4 09:54:48.330 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] warsztaty terapii zajęciowej
+[Thu Nov  4 09:58:58.944 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] warsztaty terapii zajęciowej
+[Thu Nov  4 10:11:55.883 2010] 0.699 sec [ext/0/rel 57 (0,25)] [main] szczekociny
+[Thu Nov  4 10:13:12.067 2010] 0.000 sec [ext/0/rel 57 (25,25)] [main] szczekociny
+[Thu Nov  4 10:13:32.885 2010] 0.000 sec [ext/0/rel 57 (50,25)] [main] szczekociny
+[Thu Nov  4 10:15:59.859 2010] 0.000 sec [ext/0/rel 57 (25,25)] [main] szczekociny
+[Thu Nov  4 10:16:15.068 2010] 0.000 sec [ext/0/rel 57 (0,25)] [main] szczekociny
+[Thu Nov  4 10:32:44.724 2010] 0.088 sec [ext/0/rel 25 (0,25)] [main] praca
+[Thu Nov  4 10:33:57.895 2010] 0.036 sec [ext/0/rel 1 (0,25)] [main] ogłoszenia pracy
+[Thu Nov  4 10:38:53.494 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] warsztaty terapii zajęciowej
+[Thu Nov  4 10:40:43.666 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] warsztaty terapii zajęciowej
+[Thu Nov  4 10:41:40.679 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] warsztaty terapii zajęciowej
+[Thu Nov  4 10:49:44.760 2010] 0.066 sec [ext/0/rel 0 (0,25)] [main] szukają mieszkania
+[Thu Nov  4 10:50:05.086 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] wyrzuceni na bruk
+[Thu Nov  4 21:51:59.867 2010] 0.032 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Thu Nov  4 22:19:27.971 2010] 0.000 sec [ext/0/rel 35 (25,25)] [main] żarnowiec
+[Thu Nov  4 22:20:40.225 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Thu Nov  4 22:20:49.389 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Fri Nov  5 10:58:48.587 2010] 0.046 sec [ext/0/rel 25 (0,25)] [main] praca
+[Fri Nov  5 11:13:23.364 2010] 0.747 sec [ext/0/rel 13 (0,25)] [main] historia
+[Fri Nov  5 13:19:11.380 2010] 0.028 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Fri Nov  5 14:09:20.513 2010] 0.000 sec [scan/0/rel 938 (0,25)] [main] 
+[Fri Nov  5 15:03:48.235 2010] 0.014 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Fri Nov  5 15:07:45.574 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Fri Nov  5 18:03:25.029 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] łubianka
+[Fri Nov  5 18:03:39.851 2010] 0.000 sec [ext/0/rel 74 (0,25)] [main] burmistrz
+[Fri Nov  5 18:04:02.840 2010] 0.000 sec [ext/0/rel 74 (25,25)] [main] burmistrz
+[Fri Nov  5 19:30:19.457 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] dzień seniora
+[Sat Nov  6 12:54:14.931 2010] 0.167 sec [ext/0/rel 1 (0,25)] [main] remont przychodni
+[Sat Nov  6 14:48:04.450 2010] 0.015 sec [ext/0/rel 35 (0,25)] [main] ŻARNOWIEC
+[Sat Nov  6 19:09:28.746 2010] 0.026 sec [ext/0/rel 35 (0,25)] [main] ŻARNOWIEC
+[Sat Nov  6 20:21:30.249 2010] 0.050 sec [ext/0/rel 0 (0,25)] [main] inauguracja roku akademickiego ZUTW
+[Sat Nov  6 20:22:11.876 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] inauguracja roku akademickiego Zawierciańskiego Uniwersytetu Trzeciego Wieku go ZUTW
+[Sat Nov  6 20:23:10.897 2010] 0.054 sec [ext/0/rel 0 (0,25)] [main] Kurier Zawierciański z dn. 15.10.2010
+[Sat Nov  6 20:27:11.570 2010] 0.024 sec [ext/0/rel 0 (0,25)] [main] kandydaci na radnycz kroczyc
+[Sat Nov  6 20:28:11.328 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Andzelika
+[Sat Nov  6 20:28:50.339 2010] 0.031 sec [ext/0/rel 0 (0,25)] [main] Dominika Przeworska
+[Sat Nov  6 20:29:39.993 2010] 0.022 sec [ext/0/rel 0 (0,25)] [main] kasia cichopek w sukni slubne
+[Sun Nov  7 11:43:37.150 2010] 0.091 sec [ext/0/rel 35 (0,25)] [main] ŻARNOWIEC
+[Sun Nov  7 18:30:14.069 2010] 0.033 sec [ext/0/rel 3 (0,25)] [main] flak
+[Sun Nov  7 20:31:49.808 2010] 0.018 sec [ext/0/rel 35 (0,25)] [main] ŻARNOWIEC
+[Sun Nov  7 20:31:55.952 2010] 0.036 sec [ext/0/rel 35 (0,25)] [main] wójt
+[Sun Nov  7 20:32:42.465 2010] 0.026 sec [ext/0/rel 23 (0,25)] [main] wybory
+[Sun Nov  7 20:33:50.025 2010] 0.000 sec [ext/0/rel 23 (0,25)] [main] wybory
+[Sun Nov  7 20:34:01.291 2010] 0.033 sec [ext/0/rel 0 (0,25)] [main] Małgorzata Miąsko
+[Sun Nov  7 20:34:12.186 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] Żarnowiec
+[Mon Nov  8 17:31:58.088 2010] 0.059 sec [ext/0/rel 4 (0,25)] [main] kopalnia
+[Mon Nov  8 17:37:52.838 2010] 0.040 sec [ext/0/rel 0 (0,25)] [main] Nadanie imienia chórowi
+[Mon Nov  8 18:12:24.831 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Prodókty piekarni w Łazach
+[Mon Nov  8 18:20:24.971 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] pogot
+[Mon Nov  8 22:56:25.141 2010] 0.728 sec [ext/0/rel 11 (0,25)] [main] sp 7
+[Mon Nov  8 22:56:39.593 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] niedźwiedzka
+[Mon Nov  8 22:56:49.299 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] imielski
+[Tue Nov  9 11:03:04.287 2010] 0.172 sec [ext/0/rel 0 (0,25)] [main] samorzadowe dinozaury
+[Tue Nov  9 11:03:08.643 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] dinozaury
+[Tue Nov  9 11:03:17.448 2010] 0.027 sec [ext/0/rel 13 (0,25)] [main] samorządowe
+[Tue Nov  9 15:14:43.368 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia- szukam pracy
+[Tue Nov  9 15:15:03.769 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogloszenia o pracę
+[Tue Nov  9 15:15:15.109 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Tue Nov  9 15:15:35.377 2010] 1.886 sec [ext/0/rel 26 (0,25)] [main] praca
+[Tue Nov  9 18:56:55.939 2010] 0.795 sec [ext/0/rel 0 (0,25)] [main] kandydaci do sejmiku
+[Tue Nov  9 22:24:57.052 2010] 0.017 sec [ext/0/rel 18 (0,25)] [main] szpital zawiercie
+[Wed Nov 10 12:35:11.582 2010] 0.072 sec [ext/0/rel 7 (0,25)] [main] bzowa
+[Wed Nov 10 15:02:40.074 2010] 0.034 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Wed Nov 10 15:02:47.967 2010] 0.033 sec [ext/0/rel 2 (0,25)] [main] wynajem
+[Wed Nov 10 15:55:39.155 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] żąrnowiecki
+[Wed Nov 10 15:55:54.028 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] żarnowiecki
+[Wed Nov 10 18:23:24.468 2010] 0.040 sec [ext/0/rel 0 (0,25)] [main] wyjazdy straży
+[Wed Nov 10 19:27:21.713 2010] 0.042 sec [ext/0/rel 7 (0,25)] [main] gmina Kroczyce
+[Wed Nov 10 19:34:17.828 2010] 0.026 sec [ext/0/rel 1 (0,25)] [main] dzwonowice
+[Wed Nov 10 19:35:00.374 2010] 0.024 sec [ext/0/rel 2 (0,25)] [main] pradła
+[Wed Nov 10 19:48:05.837 2010] 0.030 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Wed Nov 10 19:48:51.980 2010] 0.000 sec [ext/0/rel 35 (25,25)] [main] żarnowiec
+[Wed Nov 10 19:49:06.710 2010] 0.000 sec [ext/0/rel 51 (0,25)] [main] kroczyce
+[Wed Nov 10 19:49:09.178 2010] 0.000 sec [ext/0/rel 51 (0,25)] [main] kroczyce
+[Wed Nov 10 19:50:16.992 2010] 0.000 sec [ext/0/rel 51 (25,25)] [main] kroczyce
+[Wed Nov 10 19:51:41.178 2010] 0.000 sec [ext/0/rel 51 (50,25)] [main] kroczyce
+[Wed Nov 10 22:19:13.137 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nadanieimiena szkole w pilicy
+[Thu Nov 11 08:25:36.040 2010] 0.345 sec [ext/0/rel 1 (0,25)] [main] leszek wierzchowski
+[Thu Nov 11 10:15:32.615 2010] 0.023 sec [ext/0/rel 0 (0,25)] [main] tomasz walasek ZGM
+[Thu Nov 11 12:36:59.417 2010] 0.041 sec [ext/0/rel 2 (0,25)] [main] wygrana w zawierciu
+[Thu Nov 11 13:25:52.325 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] pustulki z dmowskiego
+[Thu Nov 11 13:27:12.411 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] pustulki wyleg na wiezowcach
+[Thu Nov 11 13:27:33.836 2010] 0.000 sec [scan/0/rel 938 (0,25)] [main] 
+[Thu Nov 11 15:22:03.480 2010] 0.028 sec [ext/0/rel 59 (0,25)] [main] szczekociny
+[Thu Nov 11 15:22:46.951 2010] 0.000 sec [ext/0/rel 59 (25,25)] [main] szczekociny
+[Thu Nov 11 15:23:08.822 2010] 0.000 sec [ext/0/rel 59 (50,25)] [main] szczekociny
+[Thu Nov 11 16:54:29.577 2010] 0.078 sec [ext/0/rel 1 (0,25)] [main] brak prądu
+[Thu Nov 11 16:54:54.123 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] brak prądu
+[Thu Nov 11 16:55:01.087 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] brak prądu
+[Thu Nov 11 18:59:55.417 2010] 0.050 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Thu Nov 11 19:45:14.957 2010] 0.101 sec [ext/0/rel 2 (0,25)] [main] szkoła podstawowa nr 8
+[Thu Nov 11 19:45:37.135 2010] 0.000 sec [ext/0/rel 43 (0,25)] [main] szkoła
+[Thu Nov 11 19:45:48.049 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] szkoła nr8
+[Thu Nov 11 21:10:31.721 2010] 0.043 sec [ext/0/rel 1 (0,25)] [main] justyna pilis
+[Fri Nov 12 08:17:30.347 2010] 0.147 sec [ext/0/rel 4 (0,25)] [main] ING
+[Fri Nov 12 08:17:37.690 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] ING
+[Fri Nov 12 08:17:44.347 2010] 0.025 sec [ext/0/rel 8 (0,25)] [main] Bank
+[Fri Nov 12 08:44:51.800 2010] 0.177 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Fri Nov 12 08:44:56.532 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Fri Nov 12 08:45:00.730 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Fri Nov 12 08:45:10.996 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] miąsko
+[Fri Nov 12 14:47:38.325 2010] 0.986 sec [ext/0/rel 6 (0,25)] [main] wnuk
+[Fri Nov 12 14:47:59.791 2010] 0.021 sec [ext/0/rel 1 (0,25)] [main] wnuk grzegorz
+[Sat Nov 13 10:30:28.431 2010] 0.110 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Sat Nov 13 15:58:28.934 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nr45
+[Sat Nov 13 16:00:51.642 2010] 0.025 sec [ext/0/rel 37 (0,25)] [main] warty
+[Sat Nov 13 16:01:20.699 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] warty
+[Sat Nov 13 17:32:08.123 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Sat Nov 13 18:11:55.081 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Sat Nov 13 18:11:59.820 2010] 0.000 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Sat Nov 13 22:37:41.233 2010] 0.025 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Sun Nov 14 00:16:11.727 2010] 0.020 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Sun Nov 14 13:31:03.209 2010] 0.409 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Sun Nov 14 19:09:07.604 2010] 0.045 sec [ext/0/rel 0 (0,25)] [main] dzielnica warty
+[Sun Nov 14 22:50:23.339 2010] 0.028 sec [ext/0/rel 7 (0,25)] [main] bzowa
+[Sun Nov 14 22:50:57.931 2010] 0.033 sec [ext/0/rel 7 (0,25)] [main] bzów
+[Mon Nov 15 11:15:36.134 2010] 0.740 sec [ext/0/rel 50 (0,25)] [main] kromołów
+[Mon Nov 15 12:42:17.543 2010] 0.158 sec [ext/0/rel 1 (0,25)] [main] Zakład Górniczo-Hutniczy Bolesław
+[Mon Nov 15 16:21:26.002 2010] 0.246 sec [ext/0/rel 1 (0,25)] [main] nowe osiedle
+[Mon Nov 15 16:21:44.393 2010] 0.035 sec [ext/0/rel 2 (0,25)] [main] osiedle zawiercie
+[Mon Nov 15 18:16:55.487 2010] 0.166 sec [ext/0/rel 0 (0,25)] [main] 15 sierpień
+[Mon Nov 15 22:33:18.935 2010] 0.176 sec [ext/0/rel 4 (0,25)] [main] oczyszczalnia
+[Tue Nov 16 10:35:41.669 2010] 0.092 sec [ext/0/rel 11 (0,25)] [main] zkm
+[Tue Nov 16 10:37:06.935 2010] 0.043 sec [ext/0/rel 0 (0,25)] [main] zkm prokurator
+[Tue Nov 16 17:26:41.960 2010] 0.338 sec [ext/0/rel 37 (0,25)] [main] warty
+[Tue Nov 16 18:45:00.898 2010] 0.023 sec [ext/0/rel 50 (0,25)] [main] Pilica
+[Tue Nov 16 21:31:00.846 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] łukasik
+[Tue Nov 16 21:31:14.650 2010] 0.029 sec [ext/0/rel 113 (0,25)] [main] łazy
+[Tue Nov 16 21:32:44.255 2010] 0.000 sec [ext/0/rel 113 (25,25)] [main] łazy
+[Tue Nov 16 21:34:55.734 2010] 0.000 sec [ext/0/rel 113 (50,25)] [main] łazy
+[Tue Nov 16 21:58:04.341 2010] 0.000 sec [ext/0/rel 113 (75,25)] [main] łazy
+[Tue Nov 16 22:05:31.248 2010] 0.000 sec [ext/0/rel 113 (100,25)] [main] łazy
+[Wed Nov 17 09:42:21.409 2010] 0.137 sec [ext/0/rel 0 (0,25)] [main] sebastian k
+[Wed Nov 17 18:16:11.368 2010] 0.040 sec [ext/0/rel 13 (0,25)] [main] Marek śliwa
+[Wed Nov 17 22:25:14.669 2010] 0.026 sec [ext/0/rel 0 (0,25)] [main] Jurassic Photo Team
+[Thu Nov 18 01:27:38.881 2010] 0.019 sec [ext/0/rel 0 (0,25)] [main] Jan Głowicki
+[Thu Nov 18 01:27:44.240 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Jan Głowicki
+[Thu Nov 18 13:27:07.071 2010] 0.076 sec [ext/0/rel 1 (0,25)] [main] daglezja
+[Thu Nov 18 13:27:45.195 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] daglezja
+[Thu Nov 18 18:34:36.685 2010] 0.031 sec [ext/0/rel 23 (0,25)] [main] szpital
+[Thu Nov 18 19:30:12.150 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] agnieszka dziubałtowska
+[Fri Nov 19 08:19:18.190 2010] 0.056 sec [ext/0/rel 7 (0,25)] [main] bzowa
+[Fri Nov 19 08:19:32.253 2010] 0.507 sec [ext/0/rel 7 (0,25)] [main] bzów
+[Fri Nov 19 08:20:50.650 2010] 0.025 sec [ext/0/rel 14 (0,25)] [main] strażaka
+[Fri Nov 19 11:30:20.849 2010] 0.026 sec [ext/0/rel 1 (0,25)] [main] odwierty
+[Fri Nov 19 11:35:13.942 2010] 0.029 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Fri Nov 19 12:06:30.112 2010] 0.536 sec [ext/0/rel 2 (0,25)] [main] złoże
+[Fri Nov 19 12:10:00.862 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] złoże
+[Sat Nov 20 10:33:58.917 2010] 0.286 sec [ext/0/rel 6 (0,25)] [main] nfz
+[Sat Nov 20 14:14:57.554 2010] 0.032 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Sat Nov 20 15:35:19.052 2010] 1.141 sec [ext/0/rel 1 (0,25)] [main] cud że żyją
+[Sat Nov 20 16:16:04.009 2010] 0.035 sec [ext/0/rel 2 (0,25)] [main] skodury
+[Sat Nov 20 21:59:11.262 2010] 0.416 sec [ext/0/rel 1 (0,25)] [main] Aluron
+[Sun Nov 21 09:29:41.921 2010] 0.085 sec [ext/0/rel 0 (0,25)] [main] otwarcie przychodni zawiercie
+[Sun Nov 21 14:08:16.618 2010] 0.224 sec [ext/0/rel 2 (0,25)] [main] Polo
+[Sun Nov 21 19:26:12.809 2010] 0.212 sec [ext/0/rel 1 (0,25)] [main] Aluron
+[Sun Nov 21 20:28:14.044 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] żarnowie
+[Sun Nov 21 20:28:21.009 2010] 0.034 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Sun Nov 21 20:38:28.586 2010] 0.065 sec [ext/0/rel 3 (0,25)] [main] comenius
+[Sun Nov 21 21:00:10.086 2010] 0.091 sec [ext/0/rel 2 (0,25)] [main] robert olmiński
+[Mon Nov 22 07:31:18.770 2010] 0.067 sec [ext/0/rel 23 (0,25)] [main] wybory
+[Mon Nov 22 07:34:03.643 2010] 0.000 sec [ext/0/rel 23 (0,25)] [main] wybory
+[Mon Nov 22 07:39:22.792 2010] 0.364 sec [ext/0/rel 4 (0,25)] [main] wybory wyniki
+[Mon Nov 22 08:00:23.911 2010] 0.120 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Mon Nov 22 10:37:21.936 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wiercenia
+[Mon Nov 22 10:37:28.552 2010] 0.035 sec [ext/0/rel 2 (0,25)] [main] złoża
+[Mon Nov 22 11:01:37.716 2010] 0.391 sec [ext/0/rel 2 (0,25)] [main] rebel
+[Mon Nov 22 11:27:37.473 2010] 0.150 sec [ext/0/rel 35 (0,25)] [main] źródło kromołów
+[Mon Nov 22 12:21:18.127 2010] 0.072 sec [ext/0/rel 1 (0,25)] [main] radny w szczekocinach
+[Mon Nov 22 12:21:57.550 2010] 0.049 sec [ext/0/rel 0 (0,25)] [main] kto zostałradnym w szczekocinach
+[Mon Nov 22 12:22:05.612 2010] 0.031 sec [ext/0/rel 0 (0,25)] [main] kto został radnym w szczekocinach
+[Mon Nov 22 13:29:34.276 2010] 0.058 sec [ext/0/rel 17 (0,25)] [main] śliwa
+[Mon Nov 22 13:29:53.603 2010] 0.047 sec [ext/0/rel 74 (0,25)] [main] burmistrz
+[Mon Nov 22 13:30:33.741 2010] 0.020 sec [ext/0/rel 23 (0,25)] [main] wybory
+[Mon Nov 22 13:30:52.983 2010] 0.329 sec [ext/0/rel 5 (0,25)] [main] wyniki wyborów
+[Mon Nov 22 14:02:15.683 2010] 0.224 sec [ext/0/rel 3 (0,25)] [main] adam szmukier
+[Mon Nov 22 14:04:35.196 2010] 0.024 sec [ext/0/rel 2 (0,25)] [main] Kwaśniak
+[Mon Nov 22 14:05:33.602 2010] 0.036 sec [ext/0/rel 0 (0,25)] [main] Bożena Kwaśniak
+[Mon Nov 22 15:14:15.585 2010] 0.035 sec [ext/0/rel 1 (0,25)] [main] wróżka
+[Mon Nov 22 15:16:47.730 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] tarot
+[Mon Nov 22 15:17:03.391 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] magiczny zaułek
+[Mon Nov 22 15:17:27.343 2010] 0.035 sec [ext/0/rel 59 (0,25)] [main] szczekociny
+[Mon Nov 22 15:17:59.775 2010] 0.000 sec [ext/0/rel 59 (25,25)] [main] szczekociny
+[Mon Nov 22 15:31:08.599 2010] 0.037 sec [ext/0/rel 23 (0,25)] [main] Przemsza Okradzionów
+[Mon Nov 22 15:31:25.634 2010] 0.266 sec [ext/0/rel 1 (0,25)] [main] źródło kormołów
+[Mon Nov 22 15:31:34.065 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] źródło kormołów
+[Mon Nov 22 15:31:45.410 2010] 1.062 sec [ext/0/rel 35 (0,25)] [main] źródło kromołów
+[Mon Nov 22 15:57:19.309 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] sondaz
+[Mon Nov 22 15:57:28.308 2010] 0.027 sec [ext/0/rel 7 (0,25)] [main] sondaż
+[Mon Nov 22 16:38:22.608 2010] 0.030 sec [ext/0/rel 6 (0,25)] [main] wybory 2010
+[Mon Nov 22 16:38:36.409 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] wybory 2010
+[Mon Nov 22 16:48:17.274 2010] 0.029 sec [ext/0/rel 17 (0,25)] [main] przedszkole
+[Mon Nov 22 17:08:00.516 2010] 0.057 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Mon Nov 22 17:09:36.309 2010] 0.511 sec [ext/0/rel 5 (0,25)] [main] wyniki wyborów
+[Mon Nov 22 17:10:12.105 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] wyniki wyborów gmina włodowice
+[Mon Nov 22 20:41:25.118 2010] 0.160 sec [ext/0/rel 0 (0,25)] [main] tadeusz kościuszko
+[Mon Nov 22 23:13:41.608 2010] 0.029 sec [ext/0/rel 23 (0,25)] [main] wybory
+[Tue Nov 23 10:19:21.682 2010] 0.068 sec [ext/0/rel 0 (0,25)] [main] wynikiwyborow
+[Tue Nov 23 10:27:45.265 2010] 0.024 sec [ext/0/rel 0 (0,25)] [main] stypendia prezesa rady ministrów
+[Tue Nov 23 15:10:29.152 2010] 0.042 sec [ext/0/rel 2 (0,25)] [main] wybory szczekociny
+[Tue Nov 23 17:24:14.918 2010] 0.030 sec [ext/0/rel 3 (0,25)] [main] oferty pracy
+[Tue Nov 23 17:37:44.661 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] oferty pracy
+[Tue Nov 23 17:38:19.106 2010] 0.024 sec [ext/0/rel 19 (0,25)] [main] praca zawiercie
+[Wed Nov 24 18:01:21.698 2010] 0.062 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Wed Nov 24 18:38:24.726 2010] 0.029 sec [ext/0/rel 4 (0,25)] [main] kopalnia
+[Wed Nov 24 18:49:17.314 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] kopalnia
+[Wed Nov 24 18:58:56.352 2010] 0.025 sec [ext/0/rel 22 (0,25)] [main] radni zawiercia
+[Wed Nov 24 20:42:48.498 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] grycner
+[Wed Nov 24 23:44:04.148 2010] 0.032 sec [ext/0/rel 35 (0,25)] [main] żarnowiec
+[Thu Nov 25 09:19:41.051 2010] 0.257 sec [ext/0/rel 59 (0,25)] [main] szczekociny
+[Thu Nov 25 10:02:34.125 2010] 0.032 sec [ext/0/rel 0 (0,25)] [main] "pomoc dla bezdomnych"
+[Thu Nov 25 10:05:16.887 2010] 0.121 sec [ext/0/rel 0 (0,25)] [main] "bezdomni w Zawierciu"
+[Thu Nov 25 10:21:52.517 2010] 0.000 sec [scan/0/rel 938 (0,25)] [main] 
+[Thu Nov 25 10:22:10.362 2010] 0.030 sec [ext/0/rel 0 (0,25)] [main] "Nr 45"
+[Thu Nov 25 20:09:49.695 2010] 0.031 sec [ext/0/rel 1 (0,25)] [main] Aluron
+[Thu Nov 25 20:10:19.494 2010] 0.043 sec [ext/0/rel 1 (0,25)] [main] mażoretki
+[Thu Nov 25 20:10:29.596 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] mażoretki
+[Fri Nov 26 13:37:35.940 2010] 0.081 sec [ext/0/rel 4 (0,25)] [main] kopalnia
+[Fri Nov 26 15:45:29.262 2010] 0.000 sec [ext/0/rel 26 (0,25)] [main] wybory
+[Fri Nov 26 15:45:55.643 2010] 0.000 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Sat Nov 27 10:24:55.427 2010] 0.074 sec [ext/0/rel 14 (0,25)] [main] dorobisz
+[Sat Nov 27 10:25:14.460 2010] 0.000 sec [ext/0/rel 14 (0,25)] [main] dorobisz
+[Sat Nov 27 10:29:44.097 2010] 0.000 sec [ext/0/rel 14 (0,25)] [main] dorobisz
+[Sat Nov 27 10:55:14.008 2010] 0.000 sec [ext/0/rel 14 (0,25)] [main] dorobisz
+[Sat Nov 27 11:04:48.908 2010] 0.029 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Sat Nov 27 13:19:15.328 2010] 0.057 sec [ext/0/rel 3 (0,25)] [main] osp karlin
+[Sat Nov 27 13:23:39.286 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] osp karlin
+[Sat Nov 27 13:29:30.661 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] osp karlin
+[Sat Nov 27 15:01:33.995 2010] 0.459 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sat Nov 27 15:01:45.144 2010] 0.020 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Sat Nov 27 15:01:54.485 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Sat Nov 27 15:02:01.426 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Sat Nov 27 15:36:14.740 2010] 0.082 sec [ext/0/rel 0 (0,25)] [main] cudem uszli z zyciem
+[Sat Nov 27 15:36:19.238 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] cudem uszli z zyciem
+[Sat Nov 27 15:36:30.421 2010] 0.057 sec [ext/0/rel 0 (0,25)] [main] to cud ze zyja
+[Sat Nov 27 15:36:40.829 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] to cud ze zyja
+[Sat Nov 27 17:01:10.414 2010] 0.020 sec [ext/0/rel 51 (0,25)] [main] ogrodzieniec
+[Sat Nov 27 17:02:05.723 2010] 0.000 sec [ext/0/rel 51 (25,25)] [main] ogrodzieniec
+[Sat Nov 27 17:02:59.696 2010] 0.000 sec [ext/0/rel 51 (50,25)] [main] ogrodzieniec
+[Sat Nov 27 19:15:45.191 2010] 0.270 sec [ext/0/rel 26 (0,25)] [main] wybory
+[Sat Nov 27 19:16:39.398 2010] 0.546 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sat Nov 27 19:17:41.673 2010] 0.036 sec [ext/0/rel 5 (0,25)] [main] kandydaci
+[Sat Nov 27 21:14:41.129 2010] 0.025 sec [ext/0/rel 4 (0,25)] [main] zgm
+[Sat Nov 27 21:18:01.685 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] zgm
+[Sat Nov 27 21:19:26.842 2010] 0.000 sec [ext/0/rel 4 (0,25)] [main] zgm
+[Sun Nov 28 16:30:52.580 2010] 0.051 sec [ext/0/rel 1 (0,25)] [main] KINGA SKÓRA
+[Sun Nov 28 17:08:52.813 2010] 0.050 sec [ext/0/rel 0 (0,25)] [main] złapano dilerów
+[Sun Nov 28 17:09:03.186 2010] 0.047 sec [ext/0/rel 3 (0,25)] [main] narkotyki
+[Sun Nov 28 18:50:03.920 2010] 0.026 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Sun Nov 28 18:50:37.200 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Sun Nov 28 18:50:45.735 2010] 0.000 sec [ext/0/rel 38 (0,25)] [main] małgorzata
+[Sun Nov 28 18:51:00.740 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Sun Nov 28 21:40:09.929 2010] 0.053 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Sun Nov 28 21:40:21.594 2010] 0.045 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Sun Nov 28 21:42:50.080 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sun Nov 28 21:43:38.304 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sun Nov 28 21:43:41.146 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Sun Nov 28 21:43:42.545 2010] 0.000 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Sun Nov 28 22:12:51.426 2010] 0.017 sec [ext/0/rel 8 (0,25)] [main] burski
+[Mon Nov 29 06:59:39.793 2010] 0.099 sec [ext/0/rel 23 (0,25)] [main] szpital
+[Mon Nov 29 11:32:05.294 2010] 0.032 sec [ext/0/rel 27 (0,25)] [main] praca
+[Mon Nov 29 17:22:46.062 2010] 0.055 sec [ext/0/rel 61 (0,25)] [main] szczekociny
+[Mon Nov 29 17:23:06.315 2010] 0.000 sec [ext/0/rel 61 (0,25)] [main] szczekociny
+[Mon Nov 29 17:23:36.784 2010] 0.000 sec [ext/0/rel 61 (25,25)] [main] szczekociny
+[Mon Nov 29 17:24:42.857 2010] 0.000 sec [ext/0/rel 61 (50,25)] [main] szczekociny
+[Mon Nov 29 20:23:03.486 2010] 0.040 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Mon Nov 29 20:23:46.832 2010] 0.683 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Mon Nov 29 20:23:59.290 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Mon Nov 29 20:24:07.685 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Tue Nov 30 10:43:20.410 2010] 0.232 sec [ext/0/rel 61 (0,25)] [main] szczekociny
+[Tue Nov 30 10:44:38.847 2010] 0.000 sec [ext/0/rel 61 (25,25)] [main] szczekociny
+[Tue Nov 30 10:45:12.910 2010] 0.000 sec [ext/0/rel 61 (50,25)] [main] szczekociny
+[Tue Nov 30 11:10:38.717 2010] 0.030 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Tue Nov 30 11:10:49.317 2010] 0.023 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Tue Nov 30 11:11:06.460 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Tue Nov 30 11:45:55.443 2010] 0.032 sec [ext/0/rel 2 (0,25)] [main] amazonka
+[Tue Nov 30 11:46:36.445 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] amazonka
+[Tue Nov 30 17:15:29.087 2010] 0.017 sec [ext/0/rel 61 (0,25)] [main] szczekociny
+[Tue Nov 30 17:15:48.882 2010] 0.000 sec [ext/0/rel 61 (25,25)] [main] szczekociny
+[Tue Nov 30 17:16:13.783 2010] 0.000 sec [ext/0/rel 61 (50,25)] [main] szczekociny
+[Tue Nov 30 17:57:00.816 2010] 0.000 sec [ext/0/rel 61 (0,25)] [main] szczekociny
+[Wed Dec  1 14:13:40.709 2010] 0.032 sec [ext/0/rel 61 (0,25)] [main] szczekociny
+[Wed Dec  1 14:14:03.644 2010] 0.000 sec [ext/0/rel 61 (25,25)] [main] szczekociny
+[Wed Dec  1 14:14:19.694 2010] 0.000 sec [ext/0/rel 61 (50,25)] [main] szczekociny
+[Wed Dec  1 15:40:59.844 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kulturniaki
+[Wed Dec  1 16:18:54.196 2010] 0.033 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Wed Dec  1 21:14:09.718 2010] 0.390 sec [ext/0/rel 4 (0,25)] [main] ING
+[Wed Dec  1 21:14:38.847 2010] 0.025 sec [ext/0/rel 0 (0,25)] [main] ING Bank Sląski
+[Wed Dec  1 21:14:52.051 2010] 0.029 sec [ext/0/rel 3 (0,25)] [main] ING Bank Śląski
+[Thu Dec  2 08:32:19.580 2010] 0.213 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Dec  2 14:21:05.220 2010] 0.367 sec [ext/0/rel 4 (0,25)] [main] cud że
+[Thu Dec  2 17:20:56.979 2010] 0.030 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Dec  2 17:21:34.854 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Dec  2 17:21:43.015 2010] 0.023 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Thu Dec  2 17:22:03.017 2010] 0.075 sec [ext/0/rel 10 (0,25)] [main] gmina żarnowiec
+[Thu Dec  2 17:31:31.373 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Dec  2 17:31:50.198 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Dec  2 21:22:25.230 2010] 0.026 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Thu Dec  2 22:09:19.330 2010] 0.021 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Thu Dec  2 22:09:26.809 2010] 0.028 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Dec  2 22:09:33.685 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kapusniak
+[Thu Dec  2 22:09:38.127 2010] 0.039 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Thu Dec  2 22:09:51.854 2010] 0.032 sec [ext/0/rel 37 (0,25)] [main] wójt
+[Thu Dec  2 22:28:27.543 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] wójt
+[Thu Dec  2 23:03:51.818 2010] 0.000 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Thu Dec  2 23:04:15.523 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Dec  2 23:04:21.119 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kapusniak
+[Thu Dec  2 23:04:22.216 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Dec  2 23:04:22.439 2010] 0.000 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Thu Dec  2 23:04:28.689 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Thu Dec  2 23:04:37.488 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 08:58:11.657 2010] 0.393 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec  3 08:58:42.375 2010] 0.052 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 08:59:35.463 2010] 0.052 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Fri Dec  3 09:00:14.252 2010] 0.000 sec [ext/0/rel 36 (25,25)] [main] żarnowiec
+[Fri Dec  3 09:15:48.409 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec  3 09:34:56.077 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec  3 09:35:03.976 2010] 0.000 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Fri Dec  3 09:35:19.319 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 09:45:02.727 2010] 0.384 sec [ext/0/rel 0 (0,25)] [main] wiadomości 3.12.2010
+[Fri Dec  3 09:45:09.571 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] 03.12.2010
+[Fri Dec  3 09:54:14.362 2010] 0.057 sec [ext/0/rel 2 (0,25)] [main] ogłoszenia o prace
+[Fri Dec  3 11:05:43.264 2010] 0.034 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Fri Dec  3 11:05:54.241 2010] 0.000 sec [ext/0/rel 36 (25,25)] [main] żarnowiec
+[Fri Dec  3 11:06:08.256 2010] 0.017 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 11:32:45.335 2010] 0.000 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Fri Dec  3 11:32:56.058 2010] 0.025 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec  3 11:33:21.245 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 12:33:04.599 2010] 0.030 sec [ext/0/rel 4 (0,25)] [main] chillout
+[Fri Dec  3 12:37:53.934 2010] 0.400 sec [ext/0/rel 2 (0,25)] [main] praktyki
+[Fri Dec  3 13:25:10.404 2010] 0.026 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 13:25:18.264 2010] 0.071 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec  3 13:25:24.928 2010] 0.034 sec [ext/0/rel 36 (0,25)] [main] żarnowiec
+[Fri Dec  3 14:44:04.361 2010] 0.000 sec [scan/0/rel 1006 (0,25)] [main] 
+[Fri Dec  3 15:34:47.685 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 15:34:53.984 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec  3 15:35:01.668 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec  3 15:35:08.132 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec  3 15:35:50.155 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec  3 15:36:05.026 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec  3 15:36:15.853 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec  3 15:36:16.891 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec  3 15:36:45.995 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec  3 15:37:41.777 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 16:18:41.637 2010] 0.000 sec [ext/0/rel 54 (0,25)] [main] pilica
+[Fri Dec  3 17:16:18.918 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Fri Dec  3 19:48:16.319 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] garaż
+[Fri Dec  3 21:05:36.686 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] żrnowiec
+[Fri Dec  3 21:05:42.278 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec  3 21:05:51.741 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Sat Dec  4 12:58:03.627 2010] 0.055 sec [ext/0/rel 1 (0,25)] [main] malowidła
+[Sun Dec  5 00:04:13.429 2010] 0.115 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sun Dec  5 00:04:20.757 2010] 0.022 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Sun Dec  5 00:04:28.414 2010] 0.059 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Sun Dec  5 00:04:37.542 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Sun Dec  5 13:52:24.713 2010] 0.014 sec [ext/0/rel 0 (0,25)] [main] eksmisja
+[Sun Dec  5 14:49:53.677 2010] 0.062 sec [ext/0/rel 27 (0,25)] [main] praca
+[Sun Dec  5 15:27:38.048 2010] 0.039 sec [ext/0/rel 2 (0,25)] [main] Aluron
+[Sun Dec  5 15:38:22.936 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] miąo
+[Sun Dec  5 15:38:26.971 2010] 0.026 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sun Dec  5 15:38:35.149 2010] 0.054 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Sun Dec  5 16:02:40.732 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Sun Dec  5 16:03:24.772 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Sun Dec  5 22:42:21.005 2010] 0.050 sec [ext/0/rel 9 (0,25)] [main] wyniki wyborów
+[Sun Dec  5 22:45:36.156 2010] 0.044 sec [ext/0/rel 0 (0,25)] [main] wyniki wyborów z 5-12-2010
+[Sun Dec  5 22:47:55.835 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] sondaż IItury wyborów z 5-12-2010
+[Sun Dec  5 22:55:09.377 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] sądaż wyborczy z 5.12.2010 w gm. Szczekociny
+[Sun Dec  5 23:46:12.496 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] remiza pradła
+[Mon Dec  6 09:29:16.060 2010] 0.040 sec [ext/0/rel 3 (0,25)] [main] wybory 5,12,2010
+[Mon Dec  6 09:52:15.434 2010] 0.029 sec [ext/0/rel 0 (0,25)] [main] józefa kucharska
+[Mon Dec  6 10:50:04.134 2010] 0.048 sec [ext/0/rel 120 (0,25)] [main] wyniki
+[Mon Dec  6 11:08:09.624 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] zagłębi
+[Mon Dec  6 11:08:14.430 2010] 0.056 sec [ext/0/rel 5 (0,25)] [main] zagłębie
+[Mon Dec  6 12:24:22.045 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] Zembik
+[Mon Dec  6 17:26:59.860 2010] 0.027 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Mon Dec  6 17:27:12.053 2010] 0.028 sec [ext/0/rel 5 (0,25)] [main] kAPuśniak
+[Mon Dec  6 18:12:30.423 2010] 0.040 sec [ext/0/rel 2 (0,25)] [main] Aluron
+[Tue Dec  7 15:02:11.620 2010] 0.081 sec [ext/0/rel 43 (0,25)] [main] mks poręba
+[Tue Dec  7 15:05:56.541 2010] 0.024 sec [ext/0/rel 20 (0,25)] [main] pniak
+[Tue Dec  7 19:46:36.007 2010] 0.067 sec [ext/0/rel 63 (0,25)] [main] szczekociny
+[Tue Dec  7 19:46:57.174 2010] 0.000 sec [ext/0/rel 63 (50,25)] [main] szczekociny
+[Tue Dec  7 19:46:57.465 2010] 0.000 sec [ext/0/rel 63 (50,25)] [main] szczekociny
+[Tue Dec  7 19:47:53.855 2010] 0.000 sec [ext/0/rel 63 (25,25)] [main] szczekociny
+[Tue Dec  7 20:30:14.314 2010] 0.000 sec [scan/0/rel 1006 (0,25)] [main] 
+[Tue Dec  7 20:30:57.842 2010] 0.000 sec [scan/0/rel 1006 (0,25)] [main] 
+[Wed Dec  8 12:14:46.684 2010] 0.070 sec [ext/0/rel 6 (0,25)] [main] mikołaj
+[Wed Dec  8 13:54:34.443 2010] 0.033 sec [ext/0/rel 13 (0,25)] [main] pck
+[Wed Dec  8 13:55:19.537 2010] 0.047 sec [ext/0/rel 1 (0,25)] [main] mieszkania wynajem
+[Wed Dec  8 13:56:10.190 2010] 0.054 sec [ext/0/rel 2 (0,25)] [main] polski czerwony krzyż
+[Wed Dec  8 13:57:35.492 2010] 0.018 sec [ext/0/rel 15 (0,25)] [main] Nowacki
+[Wed Dec  8 14:10:58.158 2010] 0.025 sec [ext/0/rel 1 (0,25)] [main] KOMOROWSKA
+[Wed Dec  8 14:32:23.791 2010] 0.068 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Wed Dec  8 14:34:21.784 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia-praca
+[Wed Dec  8 14:36:26.072 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Thu Dec  9 10:01:34.732 2010] 0.640 sec [ext/0/rel 26 (0,25)] [main] gimnazjum 1
+[Thu Dec  9 12:19:57.085 2010] 0.031 sec [ext/0/rel 63 (0,25)] [main] szczekociny
+[Thu Dec  9 12:21:37.180 2010] 0.048 sec [ext/0/rel 5 (0,25)] [main] rafał krupa
+[Thu Dec  9 14:23:55.784 2010] 0.036 sec [ext/0/rel 63 (0,25)] [main] szczekociny
+[Thu Dec  9 19:58:36.963 2010] 0.950 sec [ext/0/rel 1 (0,25)] [main] komorowska
+[Fri Dec 10 00:36:17.797 2010] 0.023 sec [ext/0/rel 1 (0,25)] [main] motoryzacja
+[Fri Dec 10 00:38:41.193 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Fri Dec 10 00:39:22.656 2010] 0.030 sec [ext/0/rel 0 (0,25)] [main] kupno sprzedasz
+[Fri Dec 10 00:40:30.708 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ogloszenia kupno sprzedaz
+[Fri Dec 10 00:41:00.583 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] sprzedaz
+[Fri Dec 10 00:41:35.948 2010] 0.036 sec [ext/0/rel 0 (0,25)] [main] ogłoszenia towarzyskie
+[Fri Dec 10 08:34:32.654 2010] 0.133 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 10 08:34:53.472 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec 10 08:35:18.548 2010] 0.026 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec 10 08:35:26.142 2010] 0.016 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec 10 09:34:10.874 2010] 0.020 sec [ext/0/rel 63 (0,25)] [main] szczekociny
+[Fri Dec 10 10:37:42.906 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec 10 11:09:57.278 2010] 0.089 sec [ext/0/rel 0 (0,25)] [main] 29 czerwca 2010
+[Fri Dec 10 13:38:29.575 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] skorek kawka
+[Fri Dec 10 13:38:37.828 2010] 0.036 sec [ext/0/rel 0 (0,25)] [main] halina skorek
+[Fri Dec 10 13:38:44.810 2010] 0.340 sec [ext/0/rel 1 (0,25)] [main] kawka
+[Fri Dec 10 16:16:47.428 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] szczekociny.pl
+[Fri Dec 10 17:19:45.540 2010] 0.034 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec 10 17:19:57.183 2010] 0.027 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec 10 17:20:16.719 2010] 0.243 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 10 17:21:26.418 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 10 17:21:46.162 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 10 17:21:56.050 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 10 17:22:21.360 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 10 17:25:07.859 2010] 0.384 sec [ext/0/rel 2 (0,25)] [main] Aluron
+[Fri Dec 10 19:34:02.955 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec 10 19:48:00.273 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] koperek
+[Fri Dec 10 21:10:17.927 2010] 0.041 sec [ext/0/rel 14 (0,25)] [main] orlik
+[Fri Dec 10 21:31:04.458 2010] 0.038 sec [ext/0/rel 17 (0,25)] [main] irządze
+[Sat Dec 11 12:05:47.678 2010] 0.036 sec [ext/0/rel 24 (0,25)] [main] POLICJA
+[Sat Dec 11 12:09:00.043 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] NARKORYJI
+[Sat Dec 11 12:09:09.909 2010] 0.040 sec [ext/0/rel 3 (0,25)] [main] NARKOTYKI
+[Sat Dec 11 18:03:59.295 2010] 0.036 sec [ext/0/rel 63 (0,25)] [main] szczekociny
+[Sat Dec 11 23:04:23.449 2010] 0.029 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Sun Dec 12 07:33:22.426 2010] 0.088 sec [ext/0/rel 1 (0,25)] [main] nowi radni powiaty
+[Sun Dec 12 07:33:38.464 2010] 0.000 sec [ext/0/rel 1 (0,25)] [main] nowi radni powiaty
+[Sun Dec 12 11:59:35.245 2010] 0.124 sec [ext/0/rel 63 (0,25)] [main] szczekociny
+[Sun Dec 12 14:37:55.873 2010] 0.021 sec [ext/0/rel 3 (0,25)] [main] oferty pracy
+[Sun Dec 12 14:39:44.422 2010] 0.196 sec [ext/0/rel 1 (0,25)] [main] ogłoszenia o pracy
+[Sun Dec 12 16:12:17.236 2010] 0.027 sec [ext/0/rel 2 (0,25)] [main] Aluron
+[Sun Dec 12 19:30:10.590 2010] 0.033 sec [ext/0/rel 1 (0,25)] [main] komorowska
+[Sun Dec 12 20:55:52.445 2010] 0.032 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Sun Dec 12 21:43:46.202 2010] 0.046 sec [ext/0/rel 13 (0,25)] [main] rada miasta
+[Sun Dec 12 21:44:02.172 2010] 0.046 sec [ext/0/rel 0 (0,25)] [main] pensja burmistrza
+[Sun Dec 12 21:44:12.952 2010] 0.018 sec [ext/0/rel 1 (0,25)] [main] grzegorz gąska
+[Sun Dec 12 21:51:26.974 2010] 0.063 sec [ext/0/rel 1 (0,25)] [main] jedność i przyszłość
+[Sun Dec 12 21:51:57.383 2010] 0.045 sec [ext/0/rel 34 (0,25)] [main] radni z poręby
+[Sun Dec 12 21:59:24.546 2010] 0.000 sec [ext/0/rel 34 (25,25)] [main] radni z poręby
+[Sun Dec 12 22:01:53.883 2010] 2.418 sec [ext/0/rel 1 (0,25)] [main] grzegorz gąska ryszard spyra janusz widurski
+[Mon Dec 13 13:24:17.278 2010] 0.044 sec [ext/0/rel 63 (0,25)] [main] szczekociny
+[Mon Dec 13 16:50:25.381 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] józefa kucharska
+[Mon Dec 13 18:25:10.109 2010] 0.000 sec [ext/0/rel 37 (0,25)] [main] myszków
+[Mon Dec 13 18:49:19.523 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] internet
+[Mon Dec 13 21:43:14.177 2010] 0.142 sec [ext/0/rel 6 (0,25)] [main] karlin
+[Mon Dec 13 21:43:42.933 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] karlin straz
+[Mon Dec 13 21:43:56.156 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] karlin auto strazackie
+[Mon Dec 13 21:44:13.940 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] nissan canter
+[Mon Dec 13 21:45:54.556 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] przekazanie auta karlin
+[Mon Dec 13 21:45:58.925 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] przekazanie auta karlin
+[Mon Dec 13 22:05:45.469 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Mon Dec 13 22:11:37.223 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Mon Dec 13 22:12:19.738 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Mon Dec 13 22:58:37.640 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Mon Dec 13 23:07:36.877 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Tue Dec 14 11:25:35.503 2010] 0.033 sec [ext/0/rel 10 (0,25)] [main] komorowski
+[Tue Dec 14 15:56:50.147 2010] 0.301 sec [ext/0/rel 0 (0,25)] [main] pies zdechł
+[Tue Dec 14 15:57:12.834 2010] 0.000 sec [ext/0/rel 19 (0,25)] [main] pies
+[Tue Dec 14 16:23:35.724 2010] 0.040 sec [ext/0/rel 65 (0,25)] [main] szczekociny
+[Tue Dec 14 16:25:55.253 2010] 0.000 sec [ext/0/rel 65 (25,25)] [main] szczekociny
+[Tue Dec 14 16:26:39.098 2010] 0.000 sec [ext/0/rel 65 (50,25)] [main] szczekociny
+[Tue Dec 14 16:31:16.113 2010] 0.030 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Tue Dec 14 16:32:28.672 2010] 0.000 sec [ext/0/rel 65 (25,25)] [main] szczekociny
+[Tue Dec 14 16:34:08.927 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Tue Dec 14 18:34:57.362 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] galeria zdjec zawiercie
+[Tue Dec 14 20:49:16.009 2010] 0.029 sec [ext/0/rel 2 (0,25)] [main] fotoradar
+[Tue Dec 14 20:49:26.731 2010] 0.090 sec [ext/0/rel 1 (0,25)] [main] fotoradary
+[Tue Dec 14 20:49:33.434 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] radiowóż
+[Tue Dec 14 20:49:37.951 2010] 0.047 sec [ext/0/rel 2 (0,25)] [main] radiowóz
+[Tue Dec 14 20:54:46.376 2010] 0.000 sec [ext/0/rel 65 (0,25)] [main] szczekociny
+[Wed Dec 15 15:26:42.059 2010] 2.104 sec [ext/0/rel 5 (0,25)] [main] nowy starosta w zawierciu
+[Wed Dec 15 15:27:11.621 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nowy starosta w zawierciu
+[Wed Dec 15 15:28:18.517 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nowy starosta w zawierciu
+[Wed Dec 15 15:28:33.126 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nowy starosta w zawierciu
+[Wed Dec 15 15:28:34.825 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] nowy starosta w zawierciu
+[Wed Dec 15 18:50:14.717 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] mitologia
+[Wed Dec 15 18:50:20.285 2010] 0.415 sec [ext/0/rel 47 (0,25)] [main] konkurs
+[Wed Dec 15 18:50:30.242 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] konkurs mitologiczny
+[Wed Dec 15 18:50:38.148 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] konkurs mitologia
+[Wed Dec 15 18:50:44.058 2010] 0.000 sec [ext/0/rel 47 (0,25)] [main] konkurs
+[Wed Dec 15 18:51:12.447 2010] 0.000 sec [ext/0/rel 47 (25,25)] [main] konkurs
+[Wed Dec 15 20:36:18.605 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zarnowiec
+[Wed Dec 15 21:44:52.266 2010] 0.029 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Wed Dec 15 21:46:28.112 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Wed Dec 15 21:46:30.329 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Wed Dec 15 21:46:30.782 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Wed Dec 15 21:46:35.101 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Wed Dec 15 21:54:13.762 2010] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Thu Dec 16 07:51:08.248 2010] 0.085 sec [ext/0/rel 2 (0,25)] [main] Jan Grela
+[Thu Dec 16 10:29:38.006 2010] 0.025 sec [ext/0/rel 21 (0,25)] [main] kontakt
+[Thu Dec 16 14:05:09.231 2010] 0.037 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Thu Dec 16 14:05:23.122 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Thu Dec 16 22:34:00.707 2010] 0.018 sec [ext/0/rel 65 (0,25)] [main] szczekociny
+[Fri Dec 17 09:02:20.422 2010] 0.045 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 17 09:02:41.762 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec 17 11:55:27.213 2010] 0.031 sec [ext/0/rel 2 (0,25)] [main] żłobek
+[Fri Dec 17 13:32:18.686 2010] 0.032 sec [ext/0/rel 0 (0,25)] [main] józefa kucharska
+[Fri Dec 17 14:56:27.847 2010] 0.503 sec [ext/0/rel 2 (0,25)] [main] maligłówka
+[Fri Dec 17 15:15:35.168 2010] 1.526 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec 17 15:15:42.041 2010] 0.025 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 17 15:17:15.357 2010] 0.028 sec [ext/0/rel 5 (0,25)] [main] kapuśniak
+[Fri Dec 17 15:17:27.222 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] opłatek
+[Fri Dec 17 15:17:40.955 2010] 0.015 sec [ext/0/rel 0 (0,25)] [main] Spotkanie Opłatkowe
+[Fri Dec 17 15:36:15.168 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zadżgała meza kuchennym nozem
+[Fri Dec 17 15:36:38.689 2010] 0.070 sec [ext/0/rel 0 (0,25)] [main] borowe bole
+[Fri Dec 17 15:37:34.338 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] borowe bole
+[Fri Dec 17 18:05:13.495 2010] 0.029 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Fri Dec 17 18:05:14.885 2010] 0.000 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Fri Dec 17 19:18:27.104 2010] 0.027 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 17 19:18:42.319 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec 17 19:18:56.371 2010] 0.039 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sat Dec 18 08:55:24.709 2010] 0.059 sec [ext/0/rel 65 (0,25)] [main] szczekociny
+[Sat Dec 18 10:40:16.703 2010] 0.033 sec [ext/0/rel 11 (0,25)] [main] impuls
+[Sat Dec 18 11:44:06.804 2010] 0.024 sec [ext/0/rel 11 (0,25)] [main] tribag
+[Sat Dec 18 11:44:20.175 2010] 0.000 sec [ext/0/rel 11 (0,25)] [main] tribag
+[Sat Dec 18 14:38:40.201 2010] 0.032 sec [ext/0/rel 6 (0,25)] [main] borowe pole
+[Sat Dec 18 19:41:20.934 2010] 0.020 sec [ext/0/rel 19 (0,25)] [main] przedszkole
+[Sat Dec 18 20:46:17.779 2010] 0.032 sec [ext/0/rel 6 (0,25)] [main] marciszów
+[Sun Dec 19 08:58:45.992 2010] 0.180 sec [ext/0/rel 44 (0,25)] [main] Włodowice
+[Sun Dec 19 08:59:28.953 2010] 0.000 sec [ext/0/rel 44 (25,25)] [main] Włodowice
+[Sun Dec 19 12:02:31.740 2010] 0.100 sec [ext/0/rel 0 (0,25)] [main] borowe pole w szoku
+[Sun Dec 19 12:21:26.585 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabójstwo
+[Sun Dec 19 12:21:40.012 2010] 0.000 sec [ext/0/rel 6 (0,25)] [main] borowe pole
+[Sun Dec 19 18:04:53.734 2010] 0.028 sec [ext/0/rel 0 (0,25)] [main] zbiórka zywności
+[Sun Dec 19 18:17:43.830 2010] 0.086 sec [ext/0/rel 2 (0,25)] [main] pomoc powodzianom
+[Sun Dec 19 18:35:17.893 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wianki
+[Sun Dec 19 18:35:25.023 2010] 0.396 sec [ext/0/rel 56 (0,25)] [main] kroczyce
+[Sun Dec 19 18:36:29.547 2010] 0.000 sec [ext/0/rel 56 (50,25)] [main] kroczyce
+[Sun Dec 19 19:18:12.032 2010] 0.032 sec [ext/0/rel 2 (0,25)] [main] łubianka
+[Sun Dec 19 19:18:29.643 2010] 0.000 sec [ext/0/rel 2 (0,25)] [main] łubianka
+[Sun Dec 19 19:39:08.359 2010] 0.039 sec [ext/0/rel 5 (0,25)] [main] garaż
+[Sun Dec 19 20:44:00.285 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] mikolajki
+[Mon Dec 20 10:44:19.600 2010] 0.019 sec [ext/0/rel 0 (0,25)] [main] BOROWA
+[Mon Dec 20 10:51:28.104 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabiła nożem
+[Mon Dec 20 10:53:01.222 2010] 0.036 sec [ext/0/rel 0 (0,25)] [main] tragedia rodzinna
+[Mon Dec 20 10:56:35.385 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] kronika kryminalna
+[Mon Dec 20 23:20:33.973 2010] 0.000 sec [scan/0/rel 1034 (0,25)] [main] 
+[Mon Dec 20 23:21:06.047 2010] 0.000 sec [scan/0/rel 1034 (1025,25)] [main] 
+[Mon Dec 20 23:21:29.146 2010] 0.000 sec [scan/0/rel 1034 (1000,25)] [main] 
+[Mon Dec 20 23:21:52.608 2010] 0.000 sec [scan/0/rel 1034 (1025,25)] [main] 
+[Mon Dec 20 23:22:14.548 2010] 0.000 sec [scan/0/rel 1034 (0,25)] [main] 
+[Mon Dec 20 23:22:44.404 2010] 0.000 sec [scan/0/rel 1034 (1000,25)] [main] 
+[Mon Dec 20 23:23:44.319 2010] 0.000 sec [scan/0/rel 1034 (975,25)] [main] 
+[Tue Dec 21 11:00:13.402 2010] 0.136 sec [ext/0/rel 4 (0,25)] [main] włodzimierz s
+[Tue Dec 21 11:46:17.107 2010] 0.178 sec [ext/0/rel 31 (0,25)] [main] praca
+[Wed Dec 22 13:35:00.600 2010] 0.114 sec [ext/0/rel 1 (0,25)] [main] cennik
+[Wed Dec 22 19:34:37.654 2010] 0.847 sec [ext/0/rel 6 (0,25)] [main] borowe pole
+[Wed Dec 22 20:01:32.072 2010] 0.818 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Thu Dec 23 20:38:31.666 2010] 0.076 sec [ext/0/rel 2 (0,25)] [main] czop sławomir
+[Thu Dec 23 21:23:22.777 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] żarnornowiec
+[Thu Dec 23 21:23:36.710 2010] 0.432 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Thu Dec 23 21:24:28.972 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec 24 08:56:10.399 2010] 0.078 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec 24 08:56:18.543 2010] 0.020 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 24 08:56:35.772 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec 24 15:19:32.565 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabila meza nozem
+[Fri Dec 24 15:20:22.513 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] smierc po libacji alkoholowej
+[Fri Dec 24 19:16:36.605 2010] 0.027 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 24 19:16:51.425 2010] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Dec 24 19:17:08.153 2010] 0.026 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec 24 19:17:25.738 2010] 0.028 sec [ext/0/rel 0 (0,25)] [main] stan wojenny
+[Fri Dec 24 19:17:57.259 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] stan wojenny
+[Fri Dec 24 23:03:07.258 2010] 0.040 sec [ext/0/rel 0 (0,25)] [main] mok 1 grudnia
+[Sat Dec 25 18:16:32.822 2010] 0.072 sec [ext/0/rel 0 (0,25)] [main] cudem przezyli
+[Sat Dec 25 18:16:40.568 2010] 0.037 sec [ext/0/rel 4 (0,25)] [main] cud
+[Sun Dec 26 15:54:57.217 2010] 0.062 sec [ext/0/rel 31 (0,25)] [main] praca
+[Sun Dec 26 18:05:40.981 2010] 0.030 sec [ext/0/rel 1 (0,25)] [main] gdzie zatankujesz
+[Mon Dec 27 09:04:28.648 2010] 0.225 sec [ext/0/rel 0 (0,25)] [main] stan wojenny
+[Mon Dec 27 09:05:52.929 2010] 0.035 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Mon Dec 27 09:58:45.109 2010] 0.020 sec [ext/0/rel 2 (0,25)] [main] dobrzyniewicz
+[Mon Dec 27 13:22:47.845 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] archiwum
+[Mon Dec 27 13:27:15.864 2010] 0.035 sec [ext/0/rel 0 (0,25)] [main] plebiscyt na najlepszego sportowca roku 2010
+[Mon Dec 27 13:27:52.462 2010] 0.042 sec [ext/0/rel 3 (0,25)] [main] sportowiec roku 2010
+[Mon Dec 27 14:05:13.245 2010] 0.015 sec [ext/0/rel 31 (0,25)] [main] praca
+[Mon Dec 27 14:26:41.944 2010] 0.073 sec [ext/0/rel 65 (0,25)] [main] szczekociny
+[Mon Dec 27 14:27:14.711 2010] 0.000 sec [ext/0/rel 65 (25,25)] [main] szczekociny
+[Mon Dec 27 14:28:35.772 2010] 0.000 sec [ext/0/rel 65 (50,25)] [main] szczekociny
+[Mon Dec 27 14:28:54.920 2010] 0.052 sec [ext/0/rel 1 (0,25)] [main] rynek w szczekocinach
+[Mon Dec 27 18:00:15.555 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] yamaha
+[Mon Dec 27 19:15:39.408 2010] 0.037 sec [ext/0/rel 2 (0,25)] [main] czop sławomir
+[Mon Dec 27 19:28:54.174 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] yamaha
+[Mon Dec 27 19:29:16.157 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] yamaha szkoła muzyczna
+[Mon Dec 27 19:29:41.356 2010] 0.036 sec [ext/0/rel 4 (0,25)] [main] hotel zawiercie
+[Mon Dec 27 19:31:45.147 2010] 0.045 sec [ext/0/rel 3 (0,25)] [main] cecugowicz
+[Mon Dec 27 19:41:29.709 2010] 0.074 sec [ext/0/rel 0 (0,25)] [main] wydanie 17,grudziń
+[Mon Dec 27 19:44:08.488 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wydanie grudziń
+[Mon Dec 27 19:44:20.980 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabiła męza
+[Mon Dec 27 21:27:28.205 2010] 0.012 sec [ext/0/rel 6 (0,25)] [main] wydania
+[Mon Dec 27 21:28:07.265 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabojstwo
+[Mon Dec 27 21:28:27.322 2010] 0.284 sec [ext/0/rel 6 (0,25)] [main] borowe pole
+[Mon Dec 27 21:29:06.264 2010] 0.000 sec [ext/0/rel 7 (0,25)] [main] borowe
+[Mon Dec 27 21:29:37.594 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabiła meza zawiercie borowe pole
+[Mon Dec 27 21:29:40.025 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabójstwo
+[Mon Dec 27 21:29:46.087 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabiła meza
+[Mon Dec 27 21:29:47.734 2010] 0.033 sec [ext/0/rel 1 (0,25)] [main] morderstwo
+[Mon Dec 27 21:29:56.001 2010] 0.000 sec [ext/0/rel 16 (0,25)] [main] wypadek
+[Mon Dec 27 21:29:57.502 2010] 0.034 sec [ext/0/rel 0 (0,25)] [main] cios w serce
+[Mon Dec 27 21:36:01.240 2010] 0.014 sec [ext/0/rel 0 (0,25)] [main] borowe pole w szoku
+[Mon Dec 27 21:36:17.437 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] borowe pole w szoku zabiła meza kuchennym nozem
+[Mon Dec 27 21:36:21.480 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] borowe pole w szoku zabiła meza kuchennym nozem
+[Tue Dec 28 10:39:15.406 2010] 0.054 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Tue Dec 28 10:39:43.890 2010] 0.028 sec [ext/0/rel 0 (0,25)] [main] stan wojenny
+[Tue Dec 28 10:39:57.601 2010] 0.052 sec [ext/0/rel 0 (0,25)] [main] zbrodnia doskonała
+[Tue Dec 28 10:40:16.478 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] opłatek
+[Tue Dec 28 13:18:40.076 2010] 0.034 sec [ext/0/rel 1 (0,25)] [main] morderstwo
+[Tue Dec 28 13:19:01.988 2010] 0.086 sec [ext/0/rel 0 (0,25)] [main] zamordowany przez żonę
+[Tue Dec 28 13:39:57.296 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabiła mężą
+[Tue Dec 28 13:40:09.555 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabiła mężą
+[Tue Dec 28 13:41:00.862 2010] 0.042 sec [ext/0/rel 0 (0,25)] [main] 17 grudzień
+[Tue Dec 28 14:33:08.675 2010] 0.043 sec [ext/0/rel 0 (0,25)] [main] mikołaj w żłobku
+[Tue Dec 28 19:38:22.026 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] video z zatrzymania dilerów z zawiercia
+[Tue Dec 28 19:48:56.137 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] ginalski
+[Tue Dec 28 23:13:15.038 2010] 0.024 sec [ext/0/rel 6 (0,25)] [main] borowe pole
+[Wed Dec 29 10:28:59.153 2010] 0.062 sec [ext/0/rel 7 (0,25)] [main] gmina pilica
+[Wed Dec 29 10:29:30.808 2010] 0.038 sec [ext/0/rel 0 (0,25)] [main] lgd gmina pilica
+[Wed Dec 29 10:51:51.497 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabójstwo męża
+[Wed Dec 29 10:52:01.364 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabójstwa
+[Wed Dec 29 10:52:03.596 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabójstwa
+[Wed Dec 29 10:52:49.003 2010] 0.025 sec [ext/0/rel 0 (0,25)] [main] wydarzenia kryminalne
+[Wed Dec 29 10:52:51.408 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] wydarzenia kryminalne
+[Wed Dec 29 10:53:21.165 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] morderstwa
+[Wed Dec 29 10:53:25.187 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] morderstwa
+[Wed Dec 29 12:40:40.188 2010] 0.266 sec [ext/0/rel 2 (0,25)] [main] najpopularniejszy sportowiec
+[Wed Dec 29 13:43:42.314 2010] 0.045 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Thu Dec 30 09:58:51.714 2010] 1.525 sec [ext/0/rel 0 (0,25)] [main] oglszenia prac
+[Thu Dec 30 14:04:56.289 2010] 0.030 sec [ext/0/rel 6 (0,25)] [main] nr 50
+[Thu Dec 30 20:42:52.960 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] żarnowic
+[Thu Dec 30 20:42:56.355 2010] 0.022 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Thu Dec 30 22:09:31.415 2010] 0.079 sec [ext/0/rel 4 (0,25)] [main] patryk kostecki'
+[Thu Dec 30 22:48:40.122 2010] 0.016 sec [ext/0/rel 0 (0,25)] [main] zarnowiec
+[Thu Dec 30 22:48:46.779 2010] 0.219 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 31 12:19:47.705 2010] 0.035 sec [ext/0/rel 31 (0,25)] [main] Praca
+[Fri Dec 31 12:22:00.269 2010] 0.000 sec [ext/0/rel 31 (25,25)] [main] Praca
+[Fri Dec 31 12:24:36.691 2010] 0.890 sec [ext/0/rel 0 (0,25)] [main] Ogłoszenia dam pracę
+[Fri Dec 31 12:24:59.921 2010] 0.000 sec [ext/0/rel 31 (25,25)] [main] Praca
+[Fri Dec 31 12:25:05.594 2010] 0.000 sec [ext/0/rel 31 (0,25)] [main] Praca
+[Fri Dec 31 12:30:55.751 2010] 0.597 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Dec 31 12:31:04.169 2010] 0.105 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Dec 31 12:31:13.668 2010] 0.000 sec [ext/0/rel 0 (0,25)] [main] stam wojenny
+[Fri Dec 31 21:00:11.459 2010] 0.065 sec [ext/0/rel 2 (0,25)] [main] szpital myszków
+[Fri Dec 31 21:00:44.999 2010] 0.031 sec [ext/0/rel 0 (0,25)] [main] dr burski
+[Fri Dec 31 21:00:56.464 2010] 0.019 sec [ext/0/rel 3 (0,25)] [main] laboratorium
+[Sat Jan  1 11:19:46.999 2011] 0.050 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sat Jan  1 20:00:40.439 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] yamaha
+[Sun Jan  2 10:36:24.931 2011] 0.360 sec [ext/0/rel 6 (0,25)] [main] pks
+[Sun Jan  2 13:50:01.469 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] cpr
+[Sun Jan  2 13:50:38.632 2011] 0.288 sec [ext/0/rel 6 (0,25)] [main] centrum pomocy rodzinie
+[Sun Jan  2 15:39:17.756 2011] 0.038 sec [ext/0/rel 4 (0,25)] [main] Bomba
+[Sun Jan  2 16:26:38.948 2011] 0.026 sec [ext/0/rel 78 (0,25)] [main] mazur
+[Sun Jan  2 19:03:08.663 2011] 0.030 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Sun Jan  2 19:03:34.273 2011] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Sun Jan  2 19:04:26.579 2011] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Sun Jan  2 20:48:10.208 2011] 1.270 sec [ext/0/rel 6 (0,25)] [main] borowe pole
+[Mon Jan  3 12:17:48.835 2011] 0.131 sec [ext/0/rel 0 (0,25)] [main] yamaha szkoła muzyczna
+[Mon Jan  3 12:18:02.946 2011] 0.550 sec [ext/0/rel 4 (0,25)] [main] hotel zawiercie
+[Mon Jan  3 13:13:51.000 2011] 0.083 sec [ext/0/rel 44 (0,25)] [main] Włodowice
+[Mon Jan  3 13:14:52.655 2011] 0.038 sec [ext/0/rel 14 (0,25)] [main] Rudniki
+[Mon Jan  3 13:16:18.335 2011] 0.058 sec [ext/0/rel 130 (0,25)] [main] Poręba
+[Mon Jan  3 13:16:50.613 2011] 0.000 sec [ext/0/rel 130 (125,25)] [main] Poręba
+[Mon Jan  3 13:17:36.182 2011] 0.000 sec [ext/0/rel 14 (0,25)] [main] Rudniki
+[Mon Jan  3 14:12:07.384 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] nowum
+[Mon Jan  3 14:12:15.490 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] katar
+[Mon Jan  3 15:26:24.550 2011] 0.714 sec [ext/0/rel 1 (0,25)] [main] bilard
+[Mon Jan  3 18:22:58.904 2011] 0.044 sec [ext/0/rel 3 (0,25)] [main] oferty pracy
+[Mon Jan  3 18:23:32.826 2011] 0.364 sec [ext/0/rel 31 (0,25)] [main] praca
+[Mon Jan  3 18:24:41.984 2011] 0.000 sec [ext/0/rel 3 (0,25)] [main] oferty pracy
+[Mon Jan  3 18:24:42.298 2011] 0.000 sec [ext/0/rel 3 (0,25)] [main] oferty pracy
+[Tue Jan  4 06:51:33.700 2011] 0.256 sec [ext/0/rel 3 (0,25)] [main] konarski
+[Tue Jan  4 09:45:52.524 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] nekrologi
+[Tue Jan  4 09:46:31.121 2011] 0.035 sec [ext/0/rel 2 (0,25)] [main] jan smok
+[Tue Jan  4 09:48:18.448 2011] 0.027 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Tue Jan  4 10:58:35.597 2011] 0.045 sec [ext/0/rel 1 (0,25)] [main] ŻELAZKO
+[Tue Jan  4 12:38:23.733 2011] 0.037 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg
+[Tue Jan  4 12:38:31.400 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg
+[Tue Jan  4 12:38:34.963 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] dziwny remont w rtg
+[Tue Jan  4 15:50:42.205 2011] 0.039 sec [ext/0/rel 3 (0,25)] [main] oferty pracy
+[Tue Jan  4 18:04:10.624 2011] 0.076 sec [ext/0/rel 4 (0,25)] [main] bartosz pilis
+[Tue Jan  4 22:52:43.014 2011] 0.192 sec [ext/0/rel 0 (0,25)] [main] Dawid Wojdas
+[Wed Jan  5 10:16:21.506 2011] 0.410 sec [ext/0/rel 65 (0,25)] [main] szczekociny
+[Wed Jan  5 21:59:16.344 2011] 0.043 sec [ext/0/rel 4 (0,25)] [main] Grzegorz S.
+[Wed Jan  5 21:59:54.605 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabiła męża
+[Thu Jan  6 15:58:13.871 2011] 0.015 sec [ext/0/rel 0 (0,25)] [main] ogloszenia
+[Thu Jan  6 18:53:37.093 2011] 0.406 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Jan  6 18:53:45.929 2011] 0.031 sec [ext/0/rel 0 (0,25)] [main] stan wojenny
+[Thu Jan  6 18:53:57.195 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] małgorzta
+[Thu Jan  6 18:54:00.817 2011] 0.033 sec [ext/0/rel 38 (0,25)] [main] małgorzata
+[Thu Jan  6 18:54:57.951 2011] 0.000 sec [ext/0/rel 38 (0,25)] [main] małgorzata
+[Fri Jan  7 03:54:18.021 2011] 0.239 sec [ext/0/rel 3 (0,25)] [main] Marcin Janus
+[Fri Jan  7 09:05:34.636 2011] 0.028 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Jan  7 11:50:22.928 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] yamaha
+[Fri Jan  7 11:53:00.788 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] yamaha szkoła muzyczna
+[Fri Jan  7 11:53:47.231 2011] 0.043 sec [ext/0/rel 4 (0,25)] [main] hotel zawiercie
+[Fri Jan  7 11:58:33.455 2011] 0.061 sec [ext/0/rel 29 (0,25)] [main] wybory
+[Fri Jan  7 11:59:10.800 2011] 0.000 sec [ext/0/rel 29 (25,25)] [main] wybory
+[Fri Jan  7 21:04:50.739 2011] 0.066 sec [ext/0/rel 130 (0,25)] [main] poręba
+[Fri Jan  7 21:06:36.828 2011] 0.000 sec [ext/0/rel 130 (125,25)] [main] poręba
+[Fri Jan  7 21:07:34.146 2011] 1.216 sec [ext/0/rel 0 (0,25)] [main] iza cupiał
+[Fri Jan  7 21:07:59.112 2011] 0.024 sec [ext/0/rel 0 (0,25)] [main] pani cupiał
+[Fri Jan  7 21:09:37.920 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] 7.01.11
+[Fri Jan  7 21:20:58.074 2011] 0.043 sec [ext/0/rel 23 (0,25)] [main] mieszkańcy poręby
+[Fri Jan  7 21:24:39.163 2011] 0.027 sec [ext/0/rel 74 (0,25)] [main] w porębie
+[Fri Jan  7 21:25:01.638 2011] 0.000 sec [ext/0/rel 74 (50,25)] [main] w porębie
+[Fri Jan  7 21:26:00.216 2011] 0.000 sec [ext/0/rel 74 (0,25)] [main] w porębie
+[Fri Jan  7 21:26:39.419 2011] 0.022 sec [ext/0/rel 1 (0,25)] [main] mieszkanie w porębie
+[Fri Jan  7 21:27:04.399 2011] 0.000 sec [ext/0/rel 10 (0,25)] [main] mieszkańcy w porębie
+[Fri Jan  7 21:27:48.601 2011] 0.620 sec [ext/0/rel 22 (0,25)] [main] burmistrz w porębie
+[Fri Jan  7 21:28:44.820 2011] 0.057 sec [ext/0/rel 0 (0,25)] [main] porębia styczeń 2011
+[Fri Jan  7 21:28:57.264 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] poręba styczeń 2011
+[Fri Jan  7 21:29:06.978 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] styczeń 2011
+[Fri Jan  7 21:29:39.726 2011] 0.045 sec [ext/0/rel 0 (0,25)] [main] artykuły ze stycznia 2011
+[Sat Jan  8 12:17:55.671 2011] 0.068 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Sat Jan  8 12:18:24.713 2011] 0.000 sec [ext/0/rel 5 (0,25)] [main] ogłoszenia
+[Sat Jan  8 15:14:19.651 2011] 0.026 sec [ext/0/rel 3 (0,25)] [main] pawlik
+[Sat Jan  8 18:05:45.890 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabujstwa
+[Sat Jan  8 18:06:01.134 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] zabujstwa w zawierciu
+[Sat Jan  8 19:07:37.412 2011] 0.599 sec [ext/0/rel 2 (0,25)] [main] łubianka
+[Sat Jan  8 19:07:57.150 2011] 0.000 sec [ext/0/rel 2 (0,25)] [main] łubianka
+[Sat Jan  8 19:08:39.438 2011] 0.000 sec [ext/0/rel 2 (0,25)] [main] łubianka
+[Sat Jan  8 19:19:34.327 2011] 0.043 sec [ext/0/rel 19 (0,25)] [main] pies
+[Sat Jan  8 19:20:08.661 2011] 0.000 sec [ext/0/rel 19 (0,25)] [main] pies
+[Sat Jan  8 20:02:51.325 2011] 0.046 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Sun Jan  9 09:33:56.603 2011] 0.084 sec [ext/0/rel 2 (0,25)] [main] ZUS
+[Sun Jan  9 13:36:30.429 2011] 0.239 sec [ext/0/rel 0 (0,25)] [main] sergiusz cyran
+[Sun Jan  9 13:36:36.083 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] sergiusz cyran
+[Sun Jan  9 13:38:47.078 2011] 0.034 sec [ext/0/rel 64 (0,25)] [main] pomoc
+[Sun Jan  9 13:38:49.184 2011] 0.000 sec [ext/0/rel 64 (0,25)] [main] pomoc
+[Sun Jan  9 13:38:50.486 2011] 0.000 sec [ext/0/rel 64 (0,25)] [main] pomoc
+[Sun Jan  9 13:38:52.754 2011] 0.000 sec [ext/0/rel 64 (0,25)] [main] pomoc
+[Sun Jan  9 13:38:54.632 2011] 0.000 sec [ext/0/rel 64 (0,25)] [main] pomoc
+[Sun Jan  9 13:39:28.547 2011] 0.035 sec [ext/0/rel 11 (0,25)] [main] 1% 2011
+[Sun Jan  9 13:40:13.236 2011] 0.029 sec [ext/0/rel 8 (0,25)] [main] apel
+[Sun Jan  9 14:52:06.995 2011] 0.000 sec [scan/0/rel 1034 (0,25)] [main] 
+[Sun Jan  9 22:42:08.745 2011] 0.632 sec [ext/0/rel 5 (0,25)] [main] capoeira
+[Sun Jan  9 22:56:00.941 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] wwe
+[Sun Jan  9 22:56:10.275 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] wrestring
+[Sun Jan  9 22:56:27.875 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] wrestring
+[Sun Jan  9 22:56:50.962 2011] 0.116 sec [ext/0/rel 12 (0,25)] [main] smoleń
+[Sun Jan  9 22:56:54.326 2011] 0.000 sec [ext/0/rel 12 (0,25)] [main] smoleń
+[Mon Jan 10 11:28:06.247 2011] 0.153 sec [ext/0/rel 0 (0,25)] [main] Fundacja Orange Poręba
+[Mon Jan 10 11:28:24.701 2011] 0.052 sec [ext/0/rel 0 (0,25)] [main] Miejska Biblioteka Publiczna w Porębie
+[Mon Jan 10 11:33:22.807 2011] 0.020 sec [ext/0/rel 7 (0,25)] [main] Kultura
+[Mon Jan 10 11:33:40.164 2011] 0.000 sec [ext/0/rel 7 (0,25)] [main] Kultura
+[Mon Jan 10 11:33:51.308 2011] 0.000 sec [ext/0/rel 7 (0,25)] [main] Kultura
+[Mon Jan 10 11:34:14.483 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] orange
+[Mon Jan 10 11:34:22.416 2011] 0.000 sec [ext/0/rel 15 (0,25)] [main] fundacja
+[Mon Jan 10 11:34:47.050 2011] 0.048 sec [ext/0/rel 3 (0,25)] [main] internet
+[Mon Jan 10 11:35:04.371 2011] 0.030 sec [ext/0/rel 0 (0,25)] [main] internet za darmo
+[Mon Jan 10 14:50:34.343 2011] 0.000 sec [scan/0/rel 1069 (0,25)] [main] 
+[Mon Jan 10 20:29:36.617 2011] 0.000 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Mon Jan 10 21:50:06.745 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] poczta włodowice
+[Mon Jan 10 21:50:14.020 2011] 0.000 sec [ext/0/rel 2 (0,25)] [main] poczta
+[Tue Jan 11 09:16:44.605 2011] 0.066 sec [ext/0/rel 69 (0,25)] [main] szczekociny
+[Tue Jan 11 09:17:26.768 2011] 0.000 sec [ext/0/rel 69 (25,25)] [main] szczekociny
+[Tue Jan 11 09:17:57.508 2011] 0.000 sec [ext/0/rel 69 (50,25)] [main] szczekociny
+[Tue Jan 11 14:35:56.821 2011] 0.047 sec [ext/0/rel 1 (0,25)] [main] zgh bolesław
+[Tue Jan 11 15:05:34.688 2011] 0.025 sec [ext/0/rel 0 (0,25)] [main] mieszkania na wynajrm
+[Tue Jan 11 15:05:45.889 2011] 0.326 sec [ext/0/rel 1 (0,25)] [main] mieszkania na wynajem
+[Tue Jan 11 15:07:31.739 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] mieszkania na wynajrm
+[Tue Jan 11 15:07:57.091 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] mieszkania na wynajem
+[Tue Jan 11 16:12:13.617 2011] 0.018 sec [ext/0/rel 0 (0,25)] [main] józefa kucharska
+[Wed Jan 12 00:05:19.629 2011] 0.711 sec [ext/0/rel 11 (0,25)] [main] zdjęcie
+[Wed Jan 12 10:59:23.330 2011] 0.141 sec [ext/0/rel 31 (0,25)] [main] praca
+[Wed Jan 12 15:37:51.772 2011] 0.039 sec [ext/0/rel 1 (0,25)] [main] woda 1m3
+[Wed Jan 12 19:46:00.031 2011] 0.021 sec [ext/0/rel 1 (0,25)] [main] ginalski
+[Thu Jan 13 14:26:05.155 2011] 0.028 sec [ext/0/rel 0 (0,25)] [main] regulmin konkursu sportowiec roku
+[Thu Jan 13 15:12:31.127 2011] 0.058 sec [ext/0/rel 0 (0,25)] [main] Młodzieżowa orkiestra dęta w szczekocinach
+[Thu Jan 13 15:13:01.701 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] Młodzieżowa orkiestra dęta
+[Thu Jan 13 15:14:15.762 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] orkiestra desta
+[Thu Jan 13 15:14:24.979 2011] 0.000 sec [ext/0/rel 16 (0,25)] [main] orkiestra
+[Thu Jan 13 15:16:32.222 2011] 0.000 sec [ext/0/rel 6 (0,25)] [main] orkiestra dęta
+[Thu Jan 13 15:16:35.013 2011] 0.000 sec [ext/0/rel 6 (0,25)] [main] orkiestra dęta
+[Thu Jan 13 19:20:32.184 2011] 0.038 sec [ext/0/rel 1 (0,25)] [main] ginalski
+[Thu Jan 13 19:20:42.013 2011] 0.025 sec [ext/0/rel 10 (0,25)] [main] sms
+[Thu Jan 13 19:21:24.592 2011] 0.376 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Thu Jan 13 19:21:32.123 2011] 0.029 sec [ext/0/rel 6 (0,25)] [main] grela
+[Thu Jan 13 19:21:48.959 2011] 0.037 sec [ext/0/rel 0 (0,25)] [main] stan wojenny
+[Thu Jan 13 21:12:15.643 2011] 0.032 sec [ext/0/rel 9 (0,25)] [main] komentarze
+[Fri Jan 14 14:28:47.742 2011] 0.032 sec [ext/0/rel 1 (0,25)] [main] koryczany
+[Fri Jan 14 14:29:16.813 2011] 0.232 sec [ext/0/rel 37 (0,25)] [main] Żarnowiec
+[Fri Jan 14 14:31:06.012 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] koryczany
+[Fri Jan 14 17:38:34.872 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] studniówka
+[Fri Jan 14 19:55:45.909 2011] 0.109 sec [ext/0/rel 1 (0,25)] [main] odwołanie czopa
+[Fri Jan 14 20:04:31.214 2011] 0.000 sec [scan/0/rel 1069 (0,25)] [main] 
+[Fri Jan 14 20:05:14.809 2011] 0.000 sec [scan/0/rel 1069 (25,25)] [main] 
+[Fri Jan 14 20:05:29.519 2011] 0.000 sec [scan/0/rel 1069 (50,25)] [main] 
+[Fri Jan 14 20:05:53.926 2011] 0.000 sec [scan/0/rel 1069 (100,25)] [main] 
+[Fri Jan 14 20:06:53.987 2011] 0.041 sec [ext/0/rel 0 (0,25)] [main] artykuł małgorzaty Miąsko
+[Fri Jan 14 20:07:20.830 2011] 0.070 sec [ext/0/rel 11 (0,25)] [main] wójt gminy żarnowiec
+[Fri Jan 14 20:09:11.923 2011] 0.000 sec [ext/0/rel 11 (0,25)] [main] wójt gminy żarnowiec
+[Fri Jan 14 20:09:22.176 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] artykuł małgorzaty Miąsko
+[Fri Jan 14 20:09:24.663 2011] 0.000 sec [scan/0/rel 1069 (100,25)] [main] 
+[Fri Jan 14 20:09:25.913 2011] 0.000 sec [scan/0/rel 1069 (50,25)] [main] 
+[Fri Jan 14 20:09:27.304 2011] 0.000 sec [scan/0/rel 1069 (25,25)] [main] 
+[Fri Jan 14 20:09:28.385 2011] 0.000 sec [scan/0/rel 1069 (0,25)] [main] 
+[Fri Jan 14 20:12:21.611 2011] 0.030 sec [ext/0/rel 69 (0,25)] [main] szczekociny
+[Fri Jan 14 20:12:48.503 2011] 0.000 sec [ext/0/rel 69 (25,25)] [main] szczekociny
+[Fri Jan 14 20:13:14.903 2011] 0.000 sec [ext/0/rel 69 (50,25)] [main] szczekociny
+[Fri Jan 14 20:28:38.575 2011] 0.034 sec [ext/0/rel 7 (0,25)] [main] czop
+[Fri Jan 14 20:42:41.039 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] aresztowanmie slawomira Milki
+[Fri Jan 14 20:42:48.455 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] aresztowanmie slawomira Milki
+[Fri Jan 14 22:35:16.338 2011] 0.038 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Fri Jan 14 22:35:30.578 2011] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Jan 14 22:36:06.774 2011] 0.000 sec [ext/0/rel 37 (25,25)] [main] żarnowiec
+[Fri Jan 14 22:38:09.308 2011] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Fri Jan 14 22:38:09.569 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] miąsko
+[Sat Jan 15 13:44:36.936 2011] 1.394 sec [ext/0/rel 14 (0,25)] [main] wojt żarnowca
+[Sat Jan 15 13:45:51.909 2011] 0.040 sec [ext/0/rel 9 (0,25)] [main] nowy wójt
+[Sat Jan 15 13:46:07.046 2011] 0.000 sec [ext/0/rel 2 (0,25)] [main] nowy wójt żarnowca
+[Sat Jan 15 13:46:26.245 2011] 0.000 sec [ext/0/rel 14 (0,25)] [main] wójt żarnowca
+[Sat Jan 15 13:52:57.623 2011] 0.080 sec [ext/0/rel 1 (0,25)] [main] małgorzata miąsko
+[Sat Jan 15 14:00:25.849 2011] 0.051 sec [ext/0/rel 0 (0,25)] [main] wybory na wójta żarnowca
+[Sat Jan 15 17:47:41.702 2011] 0.538 sec [ext/0/rel 1 (0,25)] [main] II nadzwyczajna sesja Rady Powiatu
+[Sat Jan 15 17:48:01.549 2011] 0.235 sec [ext/0/rel 1 (0,25)] [main] III nadzwyczajna sesja Rady Powiatu
+[Sat Jan 15 19:47:09.536 2011] 0.030 sec [ext/0/rel 5 (0,25)] [main] Kapuśniak
+[Sat Jan 15 19:49:28.132 2011] 0.060 sec [ext/0/rel 2 (0,25)] [main] Jan Grela
+[Sat Jan 15 21:32:11.270 2011] 0.040 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Sat Jan 15 22:32:34.435 2011] 0.930 sec [ext/0/rel 0 (0,25)] [main] Polityczna wojna w zarnowcu
+[Sat Jan 15 22:33:31.665 2011] 0.000 sec [ext/0/rel 37 (0,25)] [main] żarnowiec
+[Sat Jan 15 22:40:44.649 2011] 0.806 sec [ext/0/rel 0 (0,25)] [main] polityczna wojna w żarnowcu
+[Sun Jan 16 09:48:44.390 2011] 0.081 sec [ext/0/rel 56 (0,25)] [main] Pilica
+[Sun Jan 16 18:03:36.121 2011] 1.010 sec [ext/0/rel 5 (0,25)] [main] wośp
+[Sun Jan 16 18:26:25.820 2011] 0.023 sec [ext/0/rel 3 (0,25)] [main] Aluron
+[Mon Jan 17 11:20:58.685 2011] 0.535 sec [ext/0/rel 1 (0,25)] [main] Eugeniusz Kapuśniak Małgorzata Miąsko
+[Mon Jan 17 11:21:01.237 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] Eugeniusz Kapuśniak Małgorzata Miąsko
+[Mon Jan 17 11:22:54.407 2011] 0.058 sec [ext/0/rel 37 (0,25)] [main] Żarnowiec
+[Mon Jan 17 11:23:58.123 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] kapusniak, Miąsko, Ibek, Wałach
+[Mon Jan 17 11:24:21.260 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] Małgorzata Miąsko
+[Mon Jan 17 11:28:07.837 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] sidziba
+[Mon Jan 17 11:32:59.650 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] koźlicka
+[Mon Jan 17 11:33:13.972 2011] 0.064 sec [ext/0/rel 28 (0,25)] [main] po wyborach
+[Mon Jan 17 11:34:07.742 2011] 0.000 sec [ext/0/rel 28 (25,25)] [main] po wyborach
+[Mon Jan 17 11:35:16.078 2011] 0.000 sec [ext/0/rel 28 (0,25)] [main] po wyborach
+[Mon Jan 17 11:37:05.854 2011] 0.032 sec [ext/0/rel 0 (0,25)] [main] wydanie z 14.01.2011 roku
+[Mon Jan 17 11:37:38.397 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] Kapusniak Eugeniusz
+[Mon Jan 17 11:39:08.707 2011] 0.139 sec [ext/0/rel 2 (0,25)] [main] gazeta nr
+[Mon Jan 17 11:39:41.859 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] po wyborach kapusniak i Miąsko
+[Mon Jan 17 11:39:50.227 2011] 0.027 sec [ext/0/rel 1 (0,25)] [main] po wyborach kapuśniak i Miąsko
+[Mon Jan 17 11:41:37.314 2011] 0.000 sec [ext/0/rel 37 (25,25)] [main] Żarnowiec
+[Mon Jan 17 11:42:07.072 2011] 0.025 sec [ext/0/rel 0 (0,25)] [main] dawno przeminęły wybory
+[Mon Jan 17 12:55:41.351 2011] 0.000 sec [scan/0/rel 1104 (0,25)] [main] 
+[Mon Jan 17 13:01:24.781 2011] 0.000 sec [scan/0/rel 1104 (0,25)] [main] 
+[Mon Jan 17 13:38:00.359 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] przedszkole w żarnowcu
+[Mon Jan 17 17:17:34.465 2011] 0.025 sec [ext/0/rel 3 (0,25)] [main] miąsko
+[Mon Jan 17 17:20:06.162 2011] 0.052 sec [ext/0/rel 1 (0,25)] [main] stan wojennym
+[Mon Jan 17 21:06:29.354 2011] 0.080 sec [ext/0/rel 2 (0,25)] [main] jura w obiektywie
+[Mon Jan 17 21:06:51.857 2011] 0.000 sec [ext/0/rel 2 (0,25)] [main] jura w obiektywie
+[Mon Jan 17 22:00:13.196 2011] 0.109 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Mon Jan 17 22:17:13.281 2011] 0.000 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Mon Jan 17 22:17:23.567 2011] 0.000 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Mon Jan 17 22:18:40.306 2011] 0.000 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Mon Jan 17 22:21:09.144 2011] 0.000 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Tue Jan 18 00:07:08.363 2011] 0.069 sec [ext/0/rel 0 (0,25)] [main] ferie w łazach
+[Tue Jan 18 08:27:23.982 2011] 0.052 sec [ext/0/rel 71 (0,25)] [main] szczekociny
+[Tue Jan 18 13:35:11.506 2011] 0.159 sec [ext/0/rel 7 (0,25)] [main] kapuśniak
+[Tue Jan 18 14:15:31.390 2011] 0.238 sec [ext/0/rel 1 (0,25)] [main] wypadek na torach w zawierciu
+[Tue Jan 18 14:16:26.794 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] kronika kryminalna zawwiercie
+[Tue Jan 18 17:21:39.083 2011] 0.028 sec [ext/0/rel 57 (0,25)] [main] Pilica
+[Tue Jan 18 17:25:09.985 2011] 0.000 sec [ext/0/rel 57 (25,25)] [main] Pilica
+[Tue Jan 18 17:27:45.486 2011] 0.000 sec [ext/0/rel 57 (50,25)] [main] Pilica
+[Tue Jan 18 19:05:30.337 2011] 0.356 sec [ext/0/rel 3 (0,25)] [main] wybory w żarnowcu
+[Tue Jan 18 20:24:30.007 2011] 0.048 sec [ext/0/rel 7 (0,25)] [main] budżet miasta
+[Tue Jan 18 20:58:26.472 2011] 0.017 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Tue Jan 18 21:42:06.748 2011] 0.000 sec [ext/0/rel 7 (0,25)] [main] budżet miasta
+[Tue Jan 18 23:02:04.671 2011] 0.000 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Wed Jan 19 10:50:59.600 2011] 0.962 sec [ext/0/rel 1 (0,25)] [main] kolędnicy
+[Wed Jan 19 10:51:00.428 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] kolędnicy
+[Wed Jan 19 10:51:08.728 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] kolędnicy
+[Wed Jan 19 14:49:17.252 2011] 0.050 sec [ext/0/rel 0 (0,25)] [main] ROZKŁAD JAZDY BUSÓW
+[Wed Jan 19 15:02:43.370 2011] 0.463 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Wed Jan 19 20:31:34.405 2011] 0.212 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Wed Jan 19 20:32:16.415 2011] 0.000 sec [ext/0/rel 41 (25,25)] [main] żarnowiec
+[Wed Jan 19 20:35:16.498 2011] 0.031 sec [ext/0/rel 1 (0,25)] [main] trzy korony żarnowiec
+[Wed Jan 19 21:05:55.227 2011] 0.075 sec [ext/0/rel 0 (0,25)] [main] yamaha szkoła muzyczma
+[Wed Jan 19 21:06:02.297 2011] 0.034 sec [ext/0/rel 1 (0,25)] [main] yamaha szkoła muzyczna
+[Thu Jan 20 11:37:49.369 2011] 0.418 sec [ext/0/rel 3 (0,25)] [main] monika polak pałęga
+[Thu Jan 20 11:44:06.903 2011] 0.021 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Thu Jan 20 13:23:38.111 2011] 0.025 sec [ext/0/rel 57 (0,25)] [main] Pilica
+[Thu Jan 20 18:25:22.954 2011] 0.047 sec [ext/0/rel 0 (0,25)] [main] spotkanie opłatkowe
+[Thu Jan 20 18:25:35.139 2011] 0.015 sec [ext/0/rel 1 (0,25)] [main] wigilia
+[Thu Jan 20 18:27:36.193 2011] 0.000 sec [ext/0/rel 1 (0,25)] [main] wigilia
+[Thu Jan 20 18:27:38.172 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] spotkanie opłatkowe
+[Thu Jan 20 18:35:50.063 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] żarnoweic
+[Thu Jan 20 18:36:02.135 2011] 0.036 sec [ext/0/rel 41 (0,25)] [main] żarnowiec
+[Thu Jan 20 18:37:29.707 2011] 0.000 sec [ext/0/rel 41 (25,25)] [main] żarnowiec
+[Thu Jan 20 22:41:04.500 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] kołłątaj
+[Thu Jan 20 23:08:33.318 2011] 0.036 sec [ext/0/rel 7 (0,25)] [main] fum poręba
+[Fri Jan 21 12:29:01.336 2011] 0.028 sec [ext/0/rel 4 (0,25)] [main] plebiscyt
+[Fri Jan 21 12:31:56.326 2011] 0.045 sec [ext/0/rel 5 (0,25)] [main] regulamin
+[Fri Jan 21 12:47:49.742 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] ZDJĘCIA
+[Fri Jan 21 13:28:33.470 2011] 0.336 sec [ext/0/rel 1 (0,25)] [main] BIKINI PARTY
+[Fri Jan 21 14:11:53.073 2011] 0.031 sec [ext/0/rel 4 (0,25)] [main] psy
+[Fri Jan 21 14:12:59.393 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] zanieczszczanieterenówprzezpsy
+[Fri Jan 21 14:14:46.446 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] psiekupy
+[Fri Jan 21 14:18:22.189 2011] 0.316 sec [ext/0/rel 1 (0,25)] [main] straż miejska
+[Fri Jan 21 14:18:41.007 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] psie odchody
+[Fri Jan 21 14:23:15.859 2011] 0.000 sec [ext/0/rel 0 (0,25)] [main] blanowskatoniewkupach

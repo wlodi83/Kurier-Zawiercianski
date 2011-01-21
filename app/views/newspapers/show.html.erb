@@ -1,0 +1,19 @@
+<% title("Redakcja") %>
+<h2>Redakcja</h2><br />
+Znajdź nas na mapie
+<% if @newspaper.has_map? %>
+<%= @map.div(:width => 472, :height => 400) %>
+<% end %>
+<br />
+<h3>Wydawnicto: "MyszPress" s.c.</h3>
+<p>Adres:</p>
+<p>42-400 Zawiercie</p>
+<p>ul. 3 Maja 25</p>
+<p>email: <%= mail_to("redakcja@kurierzawiercianski.pl", "redakcja@kurierzawiercianski.pl", :encode => "javascript") %></p>
+<p>tel. (032) 672 49 13</p>
+<p>kom.  666 045 661</p>
+<br />
+<% if logged_in_user and logged_in_user.has_role?('Administrator') %>
+  <%= link_to 'Edytuj', edit_newspaper_path(@newspaper) %> |
+  <%= link_to 'Powrót', newspapers_path %> 
+<% end %>

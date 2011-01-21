@@ -1,0 +1,24 @@
+<h2>Edycja Artykułu</h2>
+<% form_for :article,
+            :url => article_url(@article), 
+            :html => {:multipart => true, :method => :put} do |f| -%>
+<p>Title:<br /><%= f.text_field :title, :size => 60 %></p><br />
+<p>Link do artykułu:<br /><%= f.text_field :link, :size => 60 %></p><br />
+<p>Synopsis:<br /><%= f.text_area :synopsis, :rows =>4 , :cols => 50, :class => "mceEditor" %></p><br />
+<p>Body:<br /><%= f.text_area :body, :rows => 20, :cols => 50, :class => "mceEditor" %></p><br />
+<div id='attachments' style='border: 1px solid silver'>
+<%= f.render_associated_form(@article.attachments, :new => 1) %>
+</div>
+<%= f.add_associated_link('Dodaj zdjęcie', @article.attachments.build) %>
+<br />
+<ul>
+  <% if @article.attachments.size > 0 -%>
+  <%= render :partial=> "uploaded_attachment", :collection => @article.attachments.find(:all) %>
+  <% end -%>
+</ul><br />
+<p>Kategoria:<br />
+  <%= f.collection_select(:category_id,Category.find_through_tree, :id, :indented_name) %>  
+</p><br />
+<p>Publikować? <%= f.check_box :published %></p><br />
+<%= submit_tag 'Zapisz'%> lub <%= link_to 'Anuluj', articles_url %>
+<% end -%>

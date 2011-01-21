@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1">
+        <file>
+            <url>config/environment.rb</url>
+            <line>19</line>
+        </file>
+        <file>
+            <url>public/stylesheets/main.css</url>
+            <line>0</line>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/WEB/kurier/app/helpers/application_helper.rb</file>
+        <file>file:/D:/WEB/kurier/app/models/attachment.rb</file>
+        <file>file:/D:/WEB/kurier/app/views/articles/_articles_display.rhtml</file>
+        <file>file:/D:/WEB/kurier/app/views/articles/_articles_scroll_thumbnails.rhtml</file>
+        <file>file:/D:/WEB/kurier/app/views/articles/_articles_scroll_thumbnails_first.rhtml</file>
+        <file>file:/D:/WEB/kurier/app/views/articles/index.html.erb</file>
+        <file>file:/D:/WEB/kurier/app/views/layouts/_menu.rhtml</file>
+        <file>file:/D:/WEB/kurier/app/views/layouts/application.rhtml</file>
+        <file>file:/D:/WEB/kurier/public/stylesheets/main.css</file>
+    </open-files>
+</project-private>

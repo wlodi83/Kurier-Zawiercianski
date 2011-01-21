@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+  <title>Kurier Zawierciański - Tygodnik Powiatowy :: <%= yield(:title) || "ZAWIERCIE :: ŁAZY :: PORĘBA :: KROCZYCE :: IRZĄDZE :: PRADŁA :: SZCZEKOCINY :: ŻARNOWIEC :: OGRODZIENIEC" %></title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/articles/rss.rxml" />
+  <%= stylesheet_link_tag 'article_show', 'lightbox' %>
+  <%= include_tiny_mce_if_needed %>
+  <%= javascript_include_tag :defaults %>
+  <%= javascript_include_tag 'live_validation', 'AC_RunActiveContent', 'coolclock', 'moreskins', 'excanvas', 'imieniny' %>
+  <link href="http://www.kurierzawiercianski.pl/articles" rel="alternate" title="RSS"
+        type="application/rss+xml" />
+</head>
+<body>
+<div id="container">   
+  <div id="header">
+     <div class="logo" style="float:left; margin: 25px 20px 10px 10px;">
+        <%= link_to image_tag("/images/logo_kurier.png", :border => 0), articles_url %>
+     </div>
+     <div id="weather_panel">
+     </div>
+     <canvas id="clock" class="CoolClock:swissRail:50 myClock"></canvas>
+     <div class="underlinemenu">
+       <ul><%= kategorie_partial_main -%></ul>
+     </div>
+     <div class="imieniny">
+     <script language="javascript" type="text/javascript"><!--
+     WypiszImieniny("Dzisiaj są imieniny: <b>","</b>",", "," i ",0);
+     //--></script>
+     </div>
+   </div>
+   <div class="hr"><hr /></div>
+   <div id="faux">
+   <div id="content">
+     <% if flash[:notice] -%>
+       <div id="notice"><%= flash[:notice] %></div>
+     <% end -%>
+     <% if flash[:error] -%>
+       <div id="error"><%= flash[:error] %></div>
+     <% end -%>
+     <%= yield %>
+   </div>
+  <div id="rightmenu">
+     <%= render :partial => "/articles/search_form" %><br />
+     <div class="right_box_links">
+       <p style="padding-top: 5px; margin-left: 8px">WYDARZENIA</p>
+     </div>
+     <%= wydarzenia_img %>
+     <div class="right_content_box">
+     <ul><%= wydarzenia_partial %></ul>
+     </div>
+     <br />
+     <div class="right_box_links">
+       <p style="padding-top: 5px; margin-left: 8px">POLITYKA</p>
+     </div>
+     <%= polityka_img %>
+     <div class="right_content_box">
+     <ul><%= polityka_partial %></ul>
+     </div>
+     <br />
+     <div class="right_box_links">
+       <p style="padding-top: 5px; margin-left: 8px">KULTURA</p>
+     </div>
+     <%= kultura_img %>
+     <div class="right_content_box">
+     <ul><%= kultura_partial %></ul>
+     </div>
+     <br />
+     <div class="right_box_links">
+        <p style="padding-top: 5px; margin-left: 8px">SPORT</p>
+     </div>
+     <%= sport_img %>
+     <div class="right_content_box">
+     <ul><%= sport_partial %></ul>
+     </div>
+     <br />
+     <div class="right_box_links">
+        <p style="padding-top: 5px; margin-left: 8px">GOSPODARKA</p>
+     </div>
+     <%= gospodarka_img %>
+     <div class="right_content_box">
+     <ul><%= gospodarka_partial -%> </ul>
+     </div>
+     <br />  
+     <div class="right_box_links">
+        <p style="padding-top: 5px; margin-left: 8px">CO? GDZIE? KIEDY?</p>
+     </div>
+     <%= co_gdzie_kiedy_img %>
+     <div class="right_content_box">
+     <ul><%= co_gdzie_kiedy_partial -%></ul>
+     </div>
+     <br />
+     <div class="right_box_links">
+        <p style="padding-top: 5px; margin-left: 8px">OŚWIATA</p>
+     </div>
+     <%= oswiata_img %>
+     <div class="right_content_box">
+     <ul><%= oswiata_partial -%></ul>
+     </div>
+     <br />
+       <div class="right_box_links_5">
+        <p style="padding-top: 5px; margin-left: 8px">KURIER ZAWIERCIAŃSKI POLECA:</p>
+     </div>
+     <div class="right_content_box_2">
+    
+    </div>
+     <br />
+   </div>
+ </div>
+   <div id="footer">
+   </div>
+</div>
+</body>
+</html>

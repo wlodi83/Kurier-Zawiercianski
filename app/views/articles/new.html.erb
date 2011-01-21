@@ -1,0 +1,22 @@
+<%= javascript_include_tag 'prototype' %>
+<h2>Nowy Artykuł</h2>
+<br /> 
+<% form_for :article, 
+            :url => articles_url,
+            :html => { :multipart => true, :method => :post } do |f| -%>
+ <%= error_messages_for :article %>
+<p><b>Tytuł artykułu:</b><br /><%= f.text_field :title, :size => 77, :live => false %></p><br />
+<p><b>Link do artykułu:</b><br /><%= f.text_field :link, :size => 77, :live => false %></p><br />
+<p><b>Wstęp artykułu:</b><br /><%= f.text_area :synopsis, :rows => 4, :cols => 50,  :class => "mceEditor" %></p><br />
+<p><b>Treść artykułu:</b><br /><%= f.text_area :body, :rows => 20, :cols => 50, :class => "mceEditor" %></p><br /> 
+
+<div id='attachments' style='border: 1px solid silver'>
+<%= f.render_associated_form(@article.attachments, :new => 1) %>
+</div>
+<%= f.add_associated_link('Dodaj zdjęcie', @article.attachments.build) %>
+<p><b>Kategoria:</b>&nbsp;
+  <%= f.collection_select(:category_id, Category.find_through_tree, :id, :indented_name) %>  
+</p><br />
+ <p><b>Publikować Artykuł?</b>&nbsp;<%= f.check_box :published %></p><br />
+ <%= f.submit 'Zapisz'%> lub <%= link_to 'Anuluj', articles_url %>
+<% end -%>
