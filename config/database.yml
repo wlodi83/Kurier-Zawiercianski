@@ -1,9 +1,0 @@
-production:
-  adapter: mysql
-  database: my_2357
-  username: my_2357a
-  password: deftones
-  host: sql.wlodi.megiteam.pl
-  port: 3307
-  encoding: utf8
-  socket: /var/run/mysqld/mysqld.sock
